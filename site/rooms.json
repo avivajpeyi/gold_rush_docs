@@ -1,0 +1,3197 @@
+{
+  "version": 1,
+  "room_count": 43,
+  "image_count": 129,
+  "capture": {
+    "size": [
+      960,
+      720
+    ],
+    "lighting": "Fixed inspection lighting; not normal torch visibility",
+    "geometry": "Saved room meshes, frozen gameplay, open door seals; roof/overhead hidden for top view only"
+  },
+  "rooms": [
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
+          -6.3,
+          -16.0
+        ],
+        "size": [
+          24.0,
+          9.0,
+          32.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            37.2,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -1.8,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.35,
+            -13.6
+          ],
+          "file": "interior-1.webp",
+          "label": "Entry",
+          "target": [
+            0.0,
+            -1.2,
+            8.0
+          ]
+        },
+        {
+          "eye": [
+            1.0,
+            0.4,
+            7.0
+          ],
+          "file": "interior-2.webp",
+          "label": "Bridge",
+          "target": [
+            0.0,
+            -1.5,
+            -7.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 0,
+        "removed_roof_triangles": 28
+      },
+      "doors": 2,
+      "id": "BlackPitCausewayChamber",
+      "source_hash": "d302b01a643e481d73aaeeb4679af7892e5f7de30090328012c84ee0ae3d61d5",
+      "image_hashes": {
+        "top.webp": "f67f41475dd83be28a62546a0f895f2d48f7f69d9cb82dfd2f7d3089c094be35",
+        "interior-1.webp": "1be552b6bc46ee24931daf3a40373111f61e984caad622f7f101e0076cae5401",
+        "interior-2.webp": "62631c5ff0bbeb25e44ff7d53545801187a16a59af547e29fb861684394628e6"
+      },
+      "name": "Black Pit Causeway Chamber",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/BlackPitCausewayChamber.tscn",
+      "map": "res://levels/trenchbroom/maps/black_pit_causeway_chamber.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -8.0,
+          -5.6,
+          -12.0
+        ],
+        "size": [
+          16.0,
+          11.4,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            41.5,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            0.1,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.35,
+            -10.6
+          ],
+          "file": "interior-1.webp",
+          "label": "Entry",
+          "target": [
+            -3.0,
+            -3.0,
+            5.0
+          ]
+        },
+        {
+          "eye": [
+            4.0,
+            -0.35,
+            10.6
+          ],
+          "file": "interior-2.webp",
+          "label": "Return",
+          "target": [
+            -3.0,
+            -4.0,
+            6.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 4,
+        "removed_roof_triangles": 0
+      },
+      "doors": 3,
+      "id": "boulder_descent",
+      "source_hash": "b626ead2cd1e1ba455fa9194ed20d105e040addabedfd4fbe523548f72c2160e",
+      "image_hashes": {
+        "top.webp": "7a17cf110cd8f4776150b947c4ce0f961d3d4b660783aec1457443aada1a5452",
+        "interior-1.webp": "d2766979e2ac7a2c070e83f5d26a07a20e7d6603ff7f263632f21ce48622d645",
+        "interior-2.webp": "eb2df957b9f143f6ccf2e16dfc8206207dc8627f178e34571082004e155c5e54"
+      },
+      "name": "Boulder Descent",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/boulder_descent.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/boulder_descent.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -8.0,
+          -7.8,
+          -12.0
+        ],
+        "size": [
+          16.0,
+          11.84,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            39.96,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -1.88,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.45,
+            -10.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            -4.0,
+            -0.45,
+            13.4
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.45,
+            10.6
+          ],
+          "file": "interior-2.webp",
+          "label": "From B doorway",
+          "target": [
+            -4.0,
+            -0.45,
+            -13.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "broken_bridge_chamber",
+      "source_hash": "76da162cc7ab9fbcc5904d8c9bae6ee521add3ce1dcbcfad9769f33a758e5647",
+      "image_hashes": {
+        "top.webp": "08054efc7ad706783c1a3a6ae7f073703922f4f9f2562c3ca77c446300f4ee81",
+        "interior-1.webp": "e094d36ac80a7722fc00c7bf11f7877e7aff00c0dab706530257256298e57d1b",
+        "interior-2.webp": "9cadcf7ea4f9aeedc481d20b195182ba77a77a3ac430364c4603eb71a365a229"
+      },
+      "name": "Broken Bridge Chamber",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/broken_bridge_chamber.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/broken_bridge_chamber.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -6.3,
+          -12.0
+        ],
+        "size": [
+          8.0,
+          8.14,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            35.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -2.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -10.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            13.4
+          ]
+        },
+        {
+          "eye": [
+            -2.667,
+            -4.45,
+            8.0
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            -4.7,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 2,
+        "removed_roof_triangles": 0
+      },
+      "doors": 1,
+      "id": "burial_descent",
+      "source_hash": "00e6af63391c75c9bf7cb802c544e2976ea7556348b4bdead5ec3f1d07090de6",
+      "image_hashes": {
+        "top.webp": "ed3febaeeefb91a99e7533533042157e2e13aa606d56674309a9af84a936716a",
+        "interior-1.webp": "3b366168b0db623a74f007218da8237157e95b7563f155690899e2c368ff474c",
+        "interior-2.webp": "171792b5a8326d127ae8347e26aba7a9d6cc8887804f67665696379981b7c8e2"
+      },
+      "name": "Burial Descent",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/burial_descent.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/burial_descent.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.3,
+          -12.0
+        ],
+        "size": [
+          8.0,
+          4.14,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            2.3,
+            -0.45,
+            -9.0
+          ],
+          "file": "interior-1.webp",
+          "label": "First bend",
+          "target": [
+            2.3,
+            -0.45,
+            2.0
+          ]
+        },
+        {
+          "eye": [
+            -2.3,
+            -0.45,
+            9.0
+          ],
+          "file": "interior-2.webp",
+          "label": "Return bend",
+          "target": [
+            -2.3,
+            -0.45,
+            -2.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "canopic_passage",
+      "source_hash": "a4228d35e47fa15332ad2af912a3f4663c12bca5112f2df0186e3885a203ddc1",
+      "image_hashes": {
+        "top.webp": "6452891ca6e42519515aaddf431f3722fdbee46454f5c15acc1fdabc24d2c217",
+        "interior-1.webp": "1ca0f5cd39b4d4f74d31671dee7808efc053c617c03127a798901e5ac730aea8",
+        "interior-2.webp": "02d9a1eeb369155710f4987682f8e330397da0b52f2fc0374fa46a0642d47ed1"
+      },
+      "name": "Canopic Passage",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/canopic_passage.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/canopic_passage.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.3,
+          -12.0
+        ],
+        "size": [
+          8.0,
+          4.24,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            34.06,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.18,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -10.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            13.4
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            10.6
+          ],
+          "file": "interior-2.webp",
+          "label": "From B doorway",
+          "target": [
+            0.0,
+            -0.45,
+            -13.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "collapse_passage",
+      "source_hash": "38fa76a701114a3f40050916ce5d11d8cc7ec9cedda751ce34127ec9db27b54b",
+      "image_hashes": {
+        "top.webp": "4e916239d0084dcc722f730450773ed34c4f95b26bf164ec02ea11976c8c77c7",
+        "interior-1.webp": "100b1cb1cdbf1fa045e6d7ef9955a6e2463663e3b13399206d5e47733b01c9fd",
+        "interior-2.webp": "487e4d0c038b8428a04609f902b17bf28ff1b7c22b92094fefcb47a54787bc61"
+      },
+      "name": "Collapse Passage",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/collapse_passage.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/collapse_passage.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.3,
+          -4.0
+        ],
+        "size": [
+          8.0,
+          4.14,
+          8.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -2.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            5.4
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            2.667
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            -0.7,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 2,
+        "removed_roof_triangles": 0
+      },
+      "doors": 1,
+      "id": "collapsed_room",
+      "source_hash": "4ab6fb4bb73474686561228c28e26fa815e07682a6af28aa380deebf77e1e312",
+      "image_hashes": {
+        "top.webp": "3234ff36faa5d85dd9ddc603ff52afd8157b95dcce47526a5be37aa12bbc31fe",
+        "interior-1.webp": "8a8cbcf6981547e3c39eb5eebad91d3809133351996c8cbe24bf4f011bfbd115",
+        "interior-2.webp": "28c11f8b9e492ec97598a75f1852499d2fd7d2cf4c57856634b48258d0b3e7a9"
+      },
+      "name": "Collapsed Room",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/collapsed_room.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/collapsed_room.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.315,
+          -4.0
+        ],
+        "size": [
+          8.0,
+          3.895,
+          8.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.528,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.368,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -2.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            5.4
+          ]
+        },
+        {
+          "eye": [
+            -1.333,
+            -0.45,
+            2.667
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            -0.7,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 5,
+        "removed_roof_triangles": 0
+      },
+      "doors": 4,
+      "id": "corridor",
+      "source_hash": "ccde9a4acc8bd3013aedffc2ba2e0e6bb2ce4d4870c661c69096621fdb6726db",
+      "image_hashes": {
+        "top.webp": "1b1525833ba52531a245e87e285aa5e25de51116e21f33ba828d06cdb88f596d",
+        "interior-1.webp": "3b5b886d0f229028369bacd149df96aed52b1d2329a48a0151e0785772ac02f2",
+        "interior-2.webp": "b7b0534c813d0e604a8476e7d1c70d456ee9e93aa505bfc09e4e15b016d75274"
+      },
+      "name": "Corridor",
+      "kind": "Corridor",
+      "scene": "res://scenes/dungeon/procedural/corridor/corridor.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/corridor.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
+          -2.3,
+          -12.0
+        ],
+        "size": [
+          24.0,
+          8.1,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            39.85,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            1.75,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.35,
+            -10.6
+          ],
+          "file": "interior-1.webp",
+          "label": "Entry",
+          "target": [
+            -5.0,
+            1.0,
+            -6.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.35,
+            10.6
+          ],
+          "file": "interior-2.webp",
+          "label": "Return",
+          "target": [
+            3.0,
+            1.0,
+            6.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 4,
+        "removed_roof_triangles": 0
+      },
+      "doors": 3,
+      "id": "dart_court",
+      "source_hash": "391171351826ae0240ef2c103d1bbaebde0ac5f320eb9727a9d2df4f091e6512",
+      "image_hashes": {
+        "top.webp": "ae8b27e554bdff9edeacd1c935b8868125df3ce7c2f8841d7637fb7860a6cf4c",
+        "interior-1.webp": "ef52b690719559399594e1e993226b6a60d69747cebef4466c15ce81485e6e61",
+        "interior-2.webp": "263db7b2376803557f3149c7986e0c96ddcf70761ed069d10ed3f8c055ecf3a7"
+      },
+      "name": "Dart Court",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/dart_court.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/dart_court.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.3,
+          -12.0
+        ],
+        "size": [
+          8.0,
+          4.0,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.7,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.3,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.35,
+            -10.5
+          ],
+          "file": "interior-1.webp",
+          "label": "Entry",
+          "target": [
+            1.0,
+            -0.5,
+            -3.0
+          ]
+        },
+        {
+          "eye": [
+            2.0,
+            -0.3,
+            -5.0
+          ],
+          "file": "interior-2.webp",
+          "label": "Weave",
+          "target": [
+            -2.3,
+            -0.4,
+            -0.5
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 0,
+        "removed_roof_triangles": 28
+      },
+      "doors": 2,
+      "id": "DartGalleryGauntlet",
+      "source_hash": "312cd2d6fd2c9dbd8e1b410bba71781688270f5605e69de267d64fc94af0e5f7",
+      "image_hashes": {
+        "top.webp": "5bb4a6af5d679e51dbbf2cd92191c73ac73c7475335a7301cccc359dbdb61e0e",
+        "interior-1.webp": "a7c314c5ae269286c84257b9413c0f5d8068d91965988d910b6683e51acc5179",
+        "interior-2.webp": "e60c0a75151c74210ce0baee736039e84945610e5009425b545156e3da79b1e6"
+      },
+      "name": "Dart Gallery Gauntlet",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/DartGalleryGauntlet.tscn",
+      "map": "res://levels/trenchbroom/maps/dart_gallery_gauntlet.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -8.0,
+          -2.3,
+          -12.0
+        ],
+        "size": [
+          16.0,
+          8.04,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            39.76,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            1.72,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.45,
+            -10.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            -4.0,
+            -0.45,
+            13.4
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.45,
+            10.6
+          ],
+          "file": "interior-2.webp",
+          "label": "From B doorway",
+          "target": [
+            -4.0,
+            -0.45,
+            -13.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "dual_route_gallery",
+      "source_hash": "f27c3acd60f0502412c9b396b307ceb92a847d4b3a91a2f7bfa5172af57d3472",
+      "image_hashes": {
+        "top.webp": "5f8872bf2c098adf74df7c8e0d1681f8c7dcc16c311394091c8bb8170ef6592a",
+        "interior-1.webp": "1830fef05432740a2f059acad976cc807521736abfaadecd6652e49ba93e6071",
+        "interior-2.webp": "ea08fb6f173bb2701f270bb7442e8362af57667b1231f97631bd2d8c76bed6c0"
+      },
+      "name": "Dual Route Gallery",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/dual_route_gallery.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/dual_route_gallery.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.3,
+          -4.0
+        ],
+        "size": [
+          8.0,
+          4.14,
+          8.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -2.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            5.4
+          ]
+        },
+        {
+          "eye": [
+            -1.333,
+            -0.45,
+            1.333
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            -0.7,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "fuel_shrine",
+      "source_hash": "e9f7ab3e1bde1470961c34710489bd4034b718ec6f6888324eca90e33904ad08",
+      "image_hashes": {
+        "top.webp": "01f1216e6f98c5246d3f6de4a9ffb8f7b71c57e71fd8fab95337ef4d655df74e",
+        "interior-1.webp": "47e4a6720daec64bcb539cfaa6ff6af174f8a48e311612a44814d1b0af80e0bd",
+        "interior-2.webp": "04b988c53e187c9fef4214bddf04f665b265e968d4d15a3a72afbdfad49def69"
+      },
+      "name": "Fuel Shrine",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/fuel_shrine.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/fuel_shrine.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -16.0,
+          -3.85,
+          -12.0
+        ],
+        "size": [
+          32.0,
+          9.59,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            40.535,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            0.945,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -10.0,
+            -0.45,
+            -10.0
+          ],
+          "file": "interior-1.webp",
+          "label": "Lower court",
+          "target": [
+            2.0,
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -13.5,
+            1.55,
+            -2.5
+          ],
+          "file": "interior-2.webp",
+          "label": "Raised gallery",
+          "target": [
+            0.0,
+            1.3,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 4,
+        "removed_roof_triangles": 0
+      },
+      "doors": 3,
+      "id": "grand_hypostyle_hall",
+      "source_hash": "6ed3f06b5839bbbfc67fcc404cce8e7b9e07068bbd68073b40d150eae6bfb833",
+      "image_hashes": {
+        "top.webp": "e7d75697843a276be8955894f1f8dcf7fa16a56af8e1ce0567d287b3daafe07a",
+        "interior-1.webp": "98aaef4b294ac213536363aea9ad640506593fe706260bad39114efb1c74e4b9",
+        "interior-2.webp": "4fa49327336c89eb0e62d308c3af438db2be8eeb71e475e2445831d5f8625225"
+      },
+      "name": "Grand Hypostyle Hall",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/grand_hypostyle_hall.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/grand_hypostyle_hall.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.3,
+          -16.0
+        ],
+        "size": [
+          8.0,
+          8.1,
+          32.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            39.85,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            1.75,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.35,
+            -14.5
+          ],
+          "file": "interior-1.webp",
+          "label": "Entry",
+          "target": [
+            0.0,
+            1.0,
+            -3.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.35,
+            14.5
+          ],
+          "file": "interior-2.webp",
+          "label": "Return",
+          "target": [
+            0.0,
+            1.0,
+            3.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "hall_of_pendulums",
+      "source_hash": "8f638c447bdd020e53e2424ecf0473de2af4c9f08bedd51da8233b5422d59ab9",
+      "image_hashes": {
+        "top.webp": "e5df397b7695332aa175f5e1d616bc78539a75b8938cf21d2bd3af33fec26295",
+        "interior-1.webp": "524752023b07f8d9c74ba2a4ae293118e5497d879a7bf42afe25311b3f1280c4",
+        "interior-2.webp": "a5f6f1bd8e84f53ad037a638f1b615cbce25dfe52d0dc014b7ffac11fd708117"
+      },
+      "name": "Hall Of Pendulums",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/hall_of_pendulums.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/hall_of_pendulums.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -28.0,
+          -7.0,
+          -24.0
+        ],
+        "size": [
+          56.0,
+          14.0,
+          48.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            44.0,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -22.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            33.4
+          ]
+        },
+        {
+          "eye": [
+            -18.667,
+            2.55,
+            16.0
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            2.3,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 2,
+        "removed_roof_triangles": 0
+      },
+      "doors": 1,
+      "id": "hundred_pillars",
+      "source_hash": "0a7a1dc83cd5c1ffd35a96249796edff644d239599597d2a50a2a6c371fae9f9",
+      "image_hashes": {
+        "top.webp": "00a00f778f9fd74f4a86f7bdd9bcdbf6ef1e693075c21a09a84346962c1295a2",
+        "interior-1.webp": "40172844a602318794d752dd02df8d9b95a5fe272702e7d912bd3cacddd54a8a",
+        "interior-2.webp": "d16dc87d9de1955c036724fb52934a920b34e1563677b09b9b8f7004fd0e0589"
+      },
+      "name": "Hundred Pillars",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/hundred_pillars.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/hundred_pillars.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
+          -2.3,
+          -12.0
+        ],
+        "size": [
+          24.0,
+          7.14,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            38.41,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            1.27,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            2.5,
+            -0.45,
+            -10.0
+          ],
+          "file": "interior-1.webp",
+          "label": "Column aisle",
+          "target": [
+            2.5,
+            0.0,
+            6.0
+          ]
+        },
+        {
+          "eye": [
+            -9.5,
+            1.55,
+            8.5
+          ],
+          "file": "interior-2.webp",
+          "label": "Raised ledge",
+          "target": [
+            3.0,
+            0.0,
+            -4.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 4,
+        "removed_roof_triangles": 0
+      },
+      "doors": 3,
+      "id": "hypostyle_hall",
+      "source_hash": "a5c602c9bd8653c99097978a12f2b2fdaf1bde3ae516b6aba56cbab8972af9db",
+      "image_hashes": {
+        "top.webp": "175c440eda81f9fa73199691e8adc9692e0c70af92f07a1dd69d215444b4b98c",
+        "interior-1.webp": "d294f25c56b23035c9b5a1d12e345b942f104cd835d099105ae4d1f9eea6c4c5",
+        "interior-2.webp": "01a52e2fb9705a72e5b6e28792f631fdb89fc1ea9909df579aecc90dc6df4967"
+      },
+      "name": "Hypostyle Hall",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/hypostyle_hall.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/hypostyle_hall.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.15,
+          -3.95,
+          -24.15
+        ],
+        "size": [
+          8.3,
+          9.99,
+          48.3
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            41.035,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            1.045,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -2.767,
+            1.55,
+            -16.1
+          ],
+          "file": "interior-1.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            1.3,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            1.383,
+            1.55,
+            16.1
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            1.3,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 1,
+        "removed_roof_triangles": 0
+      },
+      "doors": 0,
+      "id": "intro_room_spikes",
+      "source_hash": "79550d672ca59c3cf7d5d4a7efe3ceca3b6843857b3fe303f50510e4548fdbd4",
+      "image_hashes": {
+        "top.webp": "85d57408b4e07a1f55b266dedd83fa8f7b60c150c95f1882d422b517cee082f9",
+        "interior-1.webp": "cc7ca0cf536918093f331e28870b481f026227d26dc262479b2be49a84c1d743",
+        "interior-2.webp": "fb7cbb76edc2cd7d213316dc61657117f4aca570b9f6b743fa56a78ff524105f"
+      },
+      "name": "Intro Room Spikes",
+      "kind": "Entrance",
+      "scene": "res://scenes/dungeon/intro/intro_room_spikes.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/intro_room_spikes.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -20.1,
+          -7.0,
+          -20.0
+        ],
+        "size": [
+          40.1,
+          14.0,
+          40.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            -0.05,
+            44.0,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            -0.05,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -18.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            21.5
+          ]
+        },
+        {
+          "eye": [
+            -13.417,
+            2.55,
+            13.333
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            -0.05,
+            2.3,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 2,
+        "removed_roof_triangles": 0
+      },
+      "doors": 1,
+      "id": "jackals_jaw",
+      "source_hash": "625f1b7422f5281bfa13ecc09415531d39ea0eef303ba4f7c5db92699b4651fe",
+      "image_hashes": {
+        "top.webp": "6ba4ed8acf54143c8edafeec930c0731164b7d7f7611a680a346a7746e67639a",
+        "interior-1.webp": "264155f13e3ea23cf0870c504048fcb473484d35ddea7a0a5cd03ed86d3fcf6f",
+        "interior-2.webp": "da8e54b9383bb560876e12c54dd622e1717f707589291ae20f903aafd275b229"
+      },
+      "name": "Jackals Jaw",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/jackals_jaw.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/jackals_jaw.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.3,
+          -4.0
+        ],
+        "size": [
+          8.0,
+          4.14,
+          8.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -2.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            5.4
+          ]
+        },
+        {
+          "eye": [
+            -2.667,
+            -0.45,
+            2.667
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            -0.7,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 5,
+        "removed_roof_triangles": 0
+      },
+      "doors": 4,
+      "id": "junction_room",
+      "source_hash": "3cf0ebaa30d5561e7876d7c2258131c20f8a47ed15c250f7e668e320ab1e12f3",
+      "image_hashes": {
+        "top.webp": "b8694ac34bffaaf11283dffa0d7f73a61c3742a4e2fd7609f90d35730c8cbe74",
+        "interior-1.webp": "2123d77045aec4dd2a2b4039f828837d8c3a7dcb574011ee61aaf527636b0004",
+        "interior-2.webp": "3b95da649921e8e1b79d6c6e7776c75acf4dc6f52aa9278551dffd40808f80b4"
+      },
+      "name": "Junction Room",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/junction_room.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/junction_room.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -8.0,
+          -2.3,
+          -8.0
+        ],
+        "size": [
+          16.0,
+          8.04,
+          16.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            39.76,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            1.72,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.45,
+            -6.0
+          ],
+          "file": "interior-1.webp",
+          "label": "West passage",
+          "target": [
+            -4.0,
+            -0.45,
+            5.0
+          ]
+        },
+        {
+          "eye": [
+            6.0,
+            -0.45,
+            4.0
+          ],
+          "file": "interior-2.webp",
+          "label": "South passage",
+          "target": [
+            -5.0,
+            -0.45,
+            4.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "l_shaped_passage",
+      "source_hash": "c37741913472a4a6e752cc69fd836fffee10c75293b23e37313a33401254feca",
+      "image_hashes": {
+        "top.webp": "c027993949a2269ae1775bb17288d22d1f75cad5affb579ac499c9b453f22e54",
+        "interior-1.webp": "1f8c552aed15c3d4cd6c330d2206a84123f3806a347ba3950e3b0d38380abf4f",
+        "interior-2.webp": "7e1ebec844b5577afe30c329b8c1f8e07a4fe3cf5e842a0f89dd79933ab8f2d3"
+      },
+      "name": "L Shaped Passage",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/l_shaped_passage.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/l_shaped_passage.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.3,
+          -12.0
+        ],
+        "size": [
+          8.0,
+          8.04,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            39.76,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            1.72,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -10.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            13.4
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            10.6
+          ],
+          "file": "interior-2.webp",
+          "label": "From B doorway",
+          "target": [
+            0.0,
+            -0.45,
+            -13.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "long_gallery",
+      "source_hash": "4cc5f40234bae76c9c3eb346a64d98e90feb1ae6ddb40340ec39643347656b38",
+      "image_hashes": {
+        "top.webp": "a78eda34fd1c2eef058bc66a45f896b6021721430b4492ba230d9200d9a2f6fb",
+        "interior-1.webp": "dccd2ec78460986aac2e670cf250eb1d4442223b5549ddbce118541ff4584935",
+        "interior-2.webp": "44357c73129ff110915f123713e1f663f857511e9e9cac299798101ed3f9495e"
+      },
+      "name": "Long Gallery",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/long_gallery.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/long_gallery.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.3,
+          -12.0
+        ],
+        "size": [
+          8.0,
+          8.04,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            39.76,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            1.72,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -10.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            13.4
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            10.6
+          ],
+          "file": "interior-2.webp",
+          "label": "From B doorway",
+          "target": [
+            0.0,
+            -0.45,
+            -13.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "long_gallery_encounters",
+      "source_hash": "2b8b6c273ab5f8053a88cfc9af41eb688a11aeb139b8a049dc248112b82a4a60",
+      "image_hashes": {
+        "top.webp": "3e3b37f9c3186f4ba3216eb87a007ed4c2ba1522068bb3cc83c1d0be70c32323",
+        "interior-1.webp": "9c2acf9153990264ab62964e9568a27c548d72cb480d57ec866925c073549f92",
+        "interior-2.webp": "c1872f53f2fe769a88a9927fc597f16ba5311cac0ff393e1fbf38ba129a52f8e"
+      },
+      "name": "Long Gallery Encounters",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/long_gallery_encounters.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/long_gallery_encounters.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.3,
+          -12.0
+        ],
+        "size": [
+          8.0,
+          4.14,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -10.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            13.4
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            10.6
+          ],
+          "file": "interior-2.webp",
+          "label": "From B doorway",
+          "target": [
+            0.0,
+            -0.45,
+            -13.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "long_trap_gallery",
+      "source_hash": "2f0e8f315b9f1ed0477c6814d449f63af6f488ad1123448cd2debca3f950cfb9",
+      "image_hashes": {
+        "top.webp": "469fd5cf7af1cb8162eb1e5f5def316af64d834475c4e5ce1ff037f2e2565d9e",
+        "interior-1.webp": "30dfb08a48db9d8a4abcbba1b20a15b79b528d840751b05930ade1c0b29a9aea",
+        "interior-2.webp": "220ee9e767a35bf6d1c02d478ec32f21fcffb54334a133e103fdf68079fc1fe0"
+      },
+      "name": "Long Trap Gallery",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/long_trap_gallery.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/long_trap_gallery.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -8.0,
+          -2.3,
+          -8.0
+        ],
+        "size": [
+          16.0,
+          5.94,
+          16.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            36.61,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            0.67,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.45,
+            -6.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            -4.0,
+            -0.45,
+            9.4
+          ]
+        },
+        {
+          "eye": [
+            4.0,
+            -0.45,
+            6.6
+          ],
+          "file": "interior-2.webp",
+          "label": "From B doorway",
+          "target": [
+            4.0,
+            -0.45,
+            -9.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 5,
+        "removed_roof_triangles": 0
+      },
+      "doors": 4,
+      "id": "obelisk_junction",
+      "source_hash": "b2fc0f4c596164d4ae879075d2a9eda9789aeff4aac6a97cb64d0fdc7e833614",
+      "image_hashes": {
+        "top.webp": "c722e66789b47bd2d59d0c5b50308513586222d08f3fc890d6b9dbb219f1caa2",
+        "interior-1.webp": "0ff6f0c776c085d58348aca1911a7a2557474adcb7b1242d02c5c30759dc9c5e",
+        "interior-2.webp": "82e9027616adf5a06821da287818108951c4c93edb52a5563cb3daa530bb0927"
+      },
+      "name": "Obelisk Junction",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/obelisk_junction.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/obelisk_junction.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
+          -2.4,
+          -12.0
+        ],
+        "size": [
+          24.0,
+          8.14,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            39.81,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            1.67,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -10.7
+          ],
+          "file": "interior-1.webp",
+          "label": "Entry",
+          "target": [
+            0.0,
+            2.2,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            10.5
+          ],
+          "file": "interior-2.webp",
+          "label": "Return",
+          "target": [
+            0.0,
+            2.0,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 5,
+        "removed_roof_triangles": 0
+      },
+      "doors": 4,
+      "id": "obelisk_terrace",
+      "source_hash": "5c14ff4bbd1d6b9d580fbec63691ce75900ebabd76c3ed494ff1e1db53b1bb00",
+      "image_hashes": {
+        "top.webp": "2f27c8a8bd45a461e6da7c54ec423057708b1f84e21e972c17254a5965d41ade",
+        "interior-1.webp": "a5ced8780ed9c6d2a504f31db577e1a16023640e1107ec51f564ff6d653892ee",
+        "interior-2.webp": "98c770cca6a6ea3831c9f678deb4fe71c37f4a2d87611e0f81f4227067fe0063"
+      },
+      "name": "Obelisk Terrace",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/obelisk_terrace.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/obelisk_terrace.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -8.0,
+          -2.3,
+          -8.0
+        ],
+        "size": [
+          16.0,
+          4.14,
+          16.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.45,
+            -6.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            -4.0,
+            -0.45,
+            9.4
+          ]
+        },
+        {
+          "eye": [
+            4.0,
+            -0.45,
+            6.6
+          ],
+          "file": "interior-2.webp",
+          "label": "From B doorway",
+          "target": [
+            4.0,
+            -0.45,
+            -9.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 5,
+        "removed_roof_triangles": 0
+      },
+      "doors": 4,
+      "id": "pillar_hall",
+      "source_hash": "295a05c2a79de1679672f660cfaa183883eb7d971ebf6507fda1f0507f7fac13",
+      "image_hashes": {
+        "top.webp": "db06bbaff98e1262586bc5ecf23628a9718e577cf6934825e93386d4f2ffe665",
+        "interior-1.webp": "5d9358297e65d411597a302b08d3930708f86c648df9bc5bedce7c0a7416a153",
+        "interior-2.webp": "d0dc134720e9533998a4073e26484d4f0f61b24d3a569c3e63dc15b1ccbb079e"
+      },
+      "name": "Pillar Hall",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/pillar_hall.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/pillar_hall.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -5.74,
+          -8.0
+        ],
+        "size": [
+          8.0,
+          7.58,
+          16.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            35.63,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -1.95,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -6.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            9.4
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            6.6
+          ],
+          "file": "interior-2.webp",
+          "label": "From B doorway",
+          "target": [
+            0.0,
+            -0.45,
+            -9.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "pit_ledge_room",
+      "source_hash": "3024e1f5399679d261ed125861a8ca888f8f5d92c63cdee3ce5ae8e0dc3b3767",
+      "image_hashes": {
+        "top.webp": "cc63253ca21a9cb932934a1f74c4ffe8913cf97b6e082c3794fb7edc1f8a4d72",
+        "interior-1.webp": "e77d784e59e0984f75969cfa7f53e0ef34000b7ce9425003d8c756529682a92a",
+        "interior-2.webp": "f1b752b49843cbdd53725d9d98555122f3cc17530e2c79700d32bb47e29f2abe"
+      },
+      "name": "Pit Ledge Room",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/pit_ledge_room.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/pit_ledge_room.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -5.74,
+          -8.0
+        ],
+        "size": [
+          8.0,
+          7.58,
+          16.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            35.63,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -1.95,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -6.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            9.4
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            6.6
+          ],
+          "file": "interior-2.webp",
+          "label": "From B doorway",
+          "target": [
+            0.0,
+            -0.45,
+            -9.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "pit_planks_room",
+      "source_hash": "bbf00bafb937f6816da6f3f0b70123ddd103fca62bae1fa2ac7c5b988728700d",
+      "image_hashes": {
+        "top.webp": "ea207a5e8bf48412acb259d988cd611c5011de0b2d4f51fe767bc85b61378156",
+        "interior-1.webp": "e41089813320a2cd06ac2434a7986cafb24db9b01b52a9e4b2e0ba0c60504b80",
+        "interior-2.webp": "53e91f89e6388f5b501fede21228381266e9e13f2d74a94ca6c917bb54919a68"
+      },
+      "name": "Pit Planks Room",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/pit_planks_room.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/pit_planks_room.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.3,
+          -12.0
+        ],
+        "size": [
+          8.0,
+          4.14,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -10.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            13.4
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            10.6
+          ],
+          "file": "interior-2.webp",
+          "label": "From B doorway",
+          "target": [
+            0.0,
+            -0.45,
+            -13.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "processional_hall",
+      "source_hash": "ae4db03feb614ec0acd4e5869906bf7f430710536908c16690ebda1ffea1cb3f",
+      "image_hashes": {
+        "top.webp": "109314dc665302968afbc33ee3a4d6191d81d15dac92db37773a5822f40c74b3",
+        "interior-1.webp": "72af567e887b650df8425e26ff3b36a087585e55203db6c87c481ca6bb0a9954",
+        "interior-2.webp": "0ebcde9594f001eb13c7a3812f395de60698993e318d2715aae4f74013e092cd"
+      },
+      "name": "Processional Hall",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/processional_hall.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/processional_hall.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.315,
+          -4.0
+        ],
+        "size": [
+          8.0,
+          4.155,
+          8.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.918,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.238,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -2.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            5.4
+          ]
+        },
+        {
+          "eye": [
+            -1.333,
+            -0.45,
+            2.667
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            -0.7,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 5,
+        "removed_roof_triangles": 0
+      },
+      "doors": 4,
+      "id": "rhythm_corridor",
+      "source_hash": "31bc79625457121c04d3acf224bf8fe12c7b653132ed0d23cbd29127927ba332",
+      "image_hashes": {
+        "top.webp": "93952b85831b9cf7b91d62e45bef61e274040cdfa3dde092f250a46d25b5a699",
+        "interior-1.webp": "99391a8362b313800c385600636c6d510aaa125cf0724cf553d0e2265b691213",
+        "interior-2.webp": "496a8899e4a9db3e5df20b673e7092599756a8e2a0d9d37011f539425a8dc9e4"
+      },
+      "name": "Rhythm Corridor",
+      "kind": "Corridor",
+      "scene": "res://scenes/dungeon/procedural/corridor/rhythm_corridor.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/rhythm_corridor.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
+          -2.3,
+          -12.0
+        ],
+        "size": [
+          24.0,
+          5.0,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            35.2,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            0.2,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.35,
+            -10.5
+          ],
+          "file": "interior-1.webp",
+          "label": "Entry",
+          "target": [
+            0.0,
+            -0.4,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -7.0,
+            0.5,
+            -10.0
+          ],
+          "file": "interior-2.webp",
+          "label": "Decision",
+          "target": [
+            0.0,
+            -0.2,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 0,
+        "removed_roof_triangles": 34
+      },
+      "doors": 2,
+      "id": "RiskRewardShrineChamber",
+      "source_hash": "20115d57ee2b56508ce9b934f12668f6c1cd5f246fc6d13eb25df06385d30065",
+      "image_hashes": {
+        "top.webp": "91beca1894364cd79478e59a2f7383b59e8cd7c0d7105d514598a7adaa4ff151",
+        "interior-1.webp": "005b4ca0e9838211d11678b679ad7d1054f19ced7cd379e8dcf16d8a9b9767d4",
+        "interior-2.webp": "16ded39fcdb39e3eec19b0e51ae672b211ff1b481dd5d62c8ce18ee879a77738"
+      },
+      "name": "Risk Reward Shrine Chamber",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/RiskRewardShrineChamber.tscn",
+      "map": "res://levels/trenchbroom/maps/risk_reward_shrine_chamber.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -24.0,
+          -7.0,
+          -24.0
+        ],
+        "size": [
+          48.0,
+          14.0,
+          48.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            44.0,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.45,
+            -22.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            -4.0,
+            -0.45,
+            25.4
+          ]
+        },
+        {
+          "eye": [
+            16.0,
+            2.55,
+            8.0
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            2.3,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 2,
+        "removed_roof_triangles": 0
+      },
+      "doors": 1,
+      "id": "skyless_ziggurat",
+      "source_hash": "4d05cff9525c977849438cc6abf7614ec1aaabbe9d4458007fe30cfe99617955",
+      "image_hashes": {
+        "top.webp": "0d10f00c913b27ffed39e7d89036a87de786c66e15f3ec104810774232556d4a",
+        "interior-1.webp": "0610c1753744437b68b91755ecf75c7e932769fdc4354468893105af93ee9566",
+        "interior-2.webp": "8a9b8acf547b9e317c8af5e2e51ba77b46d578f8820ce3245e8df577ef8d96d3"
+      },
+      "name": "Skyless Ziggurat",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/skyless_ziggurat.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/skyless_ziggurat.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.3,
+          -4.0
+        ],
+        "size": [
+          8.0,
+          4.14,
+          8.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -2.667,
+            -0.45,
+            -2.667
+          ],
+          "file": "interior-1.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            -0.7,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            2.667,
+            -0.45,
+            2.667
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            -0.7,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 8,
+        "removed_roof_triangles": 0
+      },
+      "doors": 4,
+      "id": "spawn_room",
+      "source_hash": "e5296406d9f92e8578f64e257d0ab54bc7951ca65ca1c58a4a34b3735837c1d5",
+      "image_hashes": {
+        "top.webp": "f4d30186e0f139ea4ad80f8814028d3f3615a65743b3b716fe0c3fde8cf2f9af",
+        "interior-1.webp": "2e3cf56c56ead4b62315af5f2b754bb1b96c8de694c93e38deb1aaacf1832a53",
+        "interior-2.webp": "15c12a57bd78017eec8ad5fc908ec0174c14d21684413e94f17564510455df36"
+      },
+      "name": "Spawn Room",
+      "kind": "Entrance",
+      "scene": "res://scenes/dungeon/procedural/spawn_room.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/spawn_room.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
+          -2.3,
+          -12.0
+        ],
+        "size": [
+          24.0,
+          5.0,
+          23.6
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            35.2,
+            -0.2
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            0.2,
+            -0.2
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.35,
+            -10.7
+          ],
+          "file": "interior-1.webp",
+          "label": "Entry",
+          "target": [
+            7.0,
+            -1.5,
+            -5.0
+          ]
+        },
+        {
+          "eye": [
+            10.6,
+            -0.35,
+            0.0
+          ],
+          "file": "interior-2.webp",
+          "label": "Side Exit",
+          "target": [
+            0.0,
+            -1.5,
+            -7.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 0,
+        "removed_roof_triangles": 86
+      },
+      "doors": 3,
+      "id": "SpikeWheelChamber",
+      "source_hash": "6bc051d0bec6db598eb62e55d68a2614258398d4cfa5e639229bbe072db70ab1",
+      "image_hashes": {
+        "top.webp": "c4f6e858f3e467c91ee6cdd571ac182a87c510981f3d57fe7076f1c12fdaf8dc",
+        "interior-1.webp": "6b66cca23ef6aff2d087b82fe6eb4ce0726d0ecd4e1f0c544630a26bf58cffdc",
+        "interior-2.webp": "6dde3e2dfbf513e941d874f161c1d1220deb94a217351c21c09d464ad2966a56"
+      },
+      "name": "Spike Wheel Chamber",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/SpikeWheelChamber.tscn",
+      "map": "res://levels/trenchbroom/maps/spike_wheel_chamber.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
+          -5.3,
+          -12.0
+        ],
+        "size": [
+          24.0,
+          8.7,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            37.75,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.95,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            0.1,
+            -10.2
+          ],
+          "file": "interior-1.webp",
+          "label": "Entry",
+          "target": [
+            0.0,
+            -0.2,
+            5.0
+          ]
+        },
+        {
+          "eye": [
+            -7.5,
+            1.5,
+            6.8
+          ],
+          "file": "interior-2.webp",
+          "label": "Bridge",
+          "target": [
+            3.0,
+            0.5,
+            5.8
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 0,
+        "removed_roof_triangles": 28
+      },
+      "doors": 2,
+      "id": "SplitLevelKillbox",
+      "source_hash": "bf5ed145e1c679e8c1de69929e9297570443e66791f9aeeb907303cdf3c740ce",
+      "image_hashes": {
+        "top.webp": "76fee220d2326e6fb61080f908a74f4a2b1cacd76afcb6bc006824006c11c640",
+        "interior-1.webp": "0761914bbd33395ee36e971f015225248ade995b0c9e8802bfac58c9091494f5",
+        "interior-2.webp": "0c8b79471d1ce7ac071db18facabc194db41194a2eca1399f5b706b8413eb655"
+      },
+      "name": "Split Level Killbox",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/SplitLevelKillbox.tscn",
+      "map": "res://levels/trenchbroom/maps/split_level_killbox.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -8.0,
+          -2.3,
+          -4.0
+        ],
+        "size": [
+          16.0,
+          4.14,
+          8.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.45,
+            -2.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            -4.0,
+            -0.45,
+            13.4
+          ]
+        },
+        {
+          "eye": [
+            6.6,
+            -0.45,
+            0.0
+          ],
+          "file": "interior-2.webp",
+          "label": "From R doorway",
+          "target": [
+            -9.4,
+            -0.45,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 4,
+        "removed_roof_triangles": 0
+      },
+      "doors": 3,
+      "id": "split_room",
+      "source_hash": "5970956bcd07b5aadb9111bb40a6ca473538c9aa59b858757c334cd64f2dc83d",
+      "image_hashes": {
+        "top.webp": "6362f90e915d60761a8964cf5e2cd1ff28b87f1630a583bb325673ba7e0789bc",
+        "interior-1.webp": "ab20b5baa61e9b9f5f86762522ce114f45a85baff4267c1a85f99be37d2e46ef",
+        "interior-2.webp": "11873c10f315ff427bbd3c5d6e0614bdde43ab2bcb69f020fbed79c2776dbcb3"
+      },
+      "name": "Split Room",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/split_room.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/split_room.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
+          -5.4,
+          -12.0
+        ],
+        "size": [
+          24.0,
+          11.14,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            41.31,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            0.17,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -10.5
+          ],
+          "file": "interior-1.webp",
+          "label": "Entry",
+          "target": [
+            0.0,
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            10.5
+          ],
+          "file": "interior-2.webp",
+          "label": "Return",
+          "target": [
+            0.0,
+            -1.0,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 5,
+        "removed_roof_triangles": 0
+      },
+      "doors": 4,
+      "id": "sunken_shrine",
+      "source_hash": "e45e572a61db71c949de65a27c6648d6092ce7a19d15d7b1b2d31fb1e66db3cb",
+      "image_hashes": {
+        "top.webp": "b7a7660a4858c2464c916e513c9082094ca25c5035c4c5eeacbb5d7cc17c0b8c",
+        "interior-1.webp": "1e753d0ca117e729cea0f2c0c3e55543aaadc7e28d5a800df22e4f7b09fbbcfd",
+        "interior-2.webp": "61a2292087ab243616ad1bd6415a82cc6c99910730a9c8d33d8b37a1431be812"
+      },
+      "name": "Sunken Shrine",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/sunken_shrine.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/sunken_shrine.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -24.0,
+          -7.0,
+          -20.0
+        ],
+        "size": [
+          48.0,
+          14.0,
+          40.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            44.0,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.45,
+            -18.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            -4.0,
+            -0.45,
+            29.4
+          ]
+        },
+        {
+          "eye": [
+            16.0,
+            -3.45,
+            6.667
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            -3.7,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 2,
+        "removed_roof_triangles": 0
+      },
+      "doors": 1,
+      "id": "sunken_sun",
+      "source_hash": "47b1c6cc4ace33a7ca4f844779d62cc9fae755de24c7b36b0a5612e720bf3e72",
+      "image_hashes": {
+        "top.webp": "fb9c2ec05075deeb7183988b94017b141b67ab71a0855d5cc02218eb3d393ce8",
+        "interior-1.webp": "be8b32bc050a589d2e3ea51e2539ca95d502049ce4bc54d10d6da1f458585503",
+        "interior-2.webp": "433a1e0a5b4f63cb9c1dbb8f203e7cef625ee33fdf20928210b9454d2ec7a289"
+      },
+      "name": "Sunken Sun",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/sunken_sun.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/sunken_sun.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.315,
+          -8.0
+        ],
+        "size": [
+          8.0,
+          3.895,
+          16.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.528,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.368,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -6.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            9.4
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            6.6
+          ],
+          "file": "interior-2.webp",
+          "label": "From B doorway",
+          "target": [
+            0.0,
+            -0.45,
+            -9.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "trap_gallery",
+      "source_hash": "ec89a5c0d1784567c60d4b545caeb3169bb7d9e61e6796d4dfa8db1b747dc850",
+      "image_hashes": {
+        "top.webp": "f4cde9a5d1ff88405334e3b936d26502731bb11866103d0fda5b3518ff42b0b3",
+        "interior-1.webp": "3f9047e2aa1f3d15f90d12bde7757ecb97e673fd22450aa43ac6851892931966",
+        "interior-2.webp": "66e7022d89ae4ffbc084e0b64571f57850f7caac52deecc1daf832e83b1c0ceb"
+      },
+      "name": "Trap Gallery",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/trap_gallery.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/trap_gallery.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.3,
+          -4.0
+        ],
+        "size": [
+          8.0,
+          4.14,
+          8.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -2.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            5.4
+          ]
+        },
+        {
+          "eye": [
+            -2.667,
+            -0.45,
+            2.667
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            -0.7,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 2,
+        "removed_roof_triangles": 0
+      },
+      "doors": 1,
+      "id": "treasure_room",
+      "source_hash": "8f04528b2d35bef6c7018b8c6b00522b270119f2ba6df54b2919a665ebc80d69",
+      "image_hashes": {
+        "top.webp": "0b9e120f057b151c4a04b9862b3e04859796666b7018b70940fd4d1f9aa0ee81",
+        "interior-1.webp": "583b55c0e2831e1667b93e52925a624d3f9956a307dac7e2a1e8a4e3c170cbaf",
+        "interior-2.webp": "f439fb69eb46b3a0113d6c9031f4c8e34c8be5a4f04ae7999d7ec5de312b5d40"
+      },
+      "name": "Treasure Room",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/treasure_room.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/treasure_room.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -8.0,
+          -2.3,
+          -12.0
+        ],
+        "size": [
+          16.0,
+          8.04,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            39.76,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            1.72,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.45,
+            -10.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            -4.0,
+            -0.45,
+            13.4
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.45,
+            10.6
+          ],
+          "file": "interior-2.webp",
+          "label": "From B doorway",
+          "target": [
+            -4.0,
+            -0.45,
+            -13.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "treasury_of_weights",
+      "source_hash": "d05d5657500401fd11e6612bf4a5320d906ea515df456baf9e492adfe7f15840",
+      "image_hashes": {
+        "top.webp": "87b8a1685bfdf34710867da81f28d90f37fd478fe27b4d4352ebff67115b494b",
+        "interior-1.webp": "44044a970a9b250cf0d59de0ff7bf556ecf526023a9b875b6b506032152995ec",
+        "interior-2.webp": "a04825a141502eb4fd2f7145258dc65e451440b69cfc2724254097d399432f7e"
+      },
+      "name": "Treasury Of Weights",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/treasury_of_weights.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/treasury_of_weights.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -4.0,
+          -2.3,
+          -4.0
+        ],
+        "size": [
+          8.0,
+          4.14,
+          8.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.45,
+            -2.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            0.0,
+            -0.45,
+            5.4
+          ]
+        },
+        {
+          "eye": [
+            2.6,
+            -0.45,
+            0.0
+          ],
+          "file": "interior-2.webp",
+          "label": "From R doorway",
+          "target": [
+            -5.4,
+            -0.45,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 0,
+        "removed_roof_triangles": 36
+      },
+      "doors": 2,
+      "id": "trenchbroom_fuel_shrine",
+      "source_hash": "70273566622e85621c202d5b654890d8c61f4e43348d19b0092cf6146a3edc1b",
+      "image_hashes": {
+        "top.webp": "e398d91153062043a22e742fefde060fe0b42d76aafebaf049e5808ec2746676",
+        "interior-1.webp": "1e0425db7dd46360ec17ca386b23928b58fed585f794ef377fb55506181b19d2",
+        "interior-2.webp": "52cb9561874641add463c8536c183bef219466d4eaa1657fbdfc99b97f461841"
+      },
+      "name": "Trenchbroom Fuel Shrine",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/trenchbroom_fuel_shrine.tscn",
+      "map": "res://levels/trenchbroom/maps/fuel_shrine.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -8.0,
+          -2.3,
+          -4.0
+        ],
+        "size": [
+          16.0,
+          4.14,
+          8.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.45,
+            -2.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From F doorway",
+          "target": [
+            -4.0,
+            -0.45,
+            13.4
+          ]
+        },
+        {
+          "eye": [
+            5.333,
+            -0.45,
+            1.333
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            -0.7,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 2,
+        "removed_roof_triangles": 0
+      },
+      "doors": 1,
+      "id": "vault_room",
+      "source_hash": "810601037a37b3d48ed4f22fa0858053634fd06491ceca3c108822827a81e3b5",
+      "image_hashes": {
+        "top.webp": "4f1d7f27ad18e792ed99dcd298786f8fd287a0e8cae422af925c5a7888e8b75f",
+        "interior-1.webp": "6cbeda3f00220c5c299a6ea713c05ae0097cdb5024f861b4c63488f7a73a5e7c",
+        "interior-2.webp": "73187a453980cfbef7a77b72d8dd13c427a573d4fd9239ec73e2f85b76b4f068"
+      },
+      "name": "Vault Room",
+      "kind": "Room",
+      "scene": "res://scenes/dungeon/procedural/rooms/vault_room.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/vault_room.map"
+    }
+  ]
+}
