@@ -2,11 +2,14 @@
 const rows = Array.from(document.querySelectorAll("tbody tr"));
 const search = document.querySelector("#search");
 const kind = document.querySelector("#kind");
+const category = document.querySelector("#category");
+const sort = document.querySelector("#sort");
 function filterRooms() {
   const terms = search.value.toLowerCase().replaceAll("_", " ").trim().split(/\s+/);
   let count = 0;
   for (const row of rows) {
-    row.hidden = !terms.every(term => row.dataset.search.includes(term)) || (kind.value !== "" && row.dataset.kind !== kind.value);
+    const matchesCategory = category.value === "" || (category.value === "featured" ? row.dataset.category !== "standard" : row.dataset.category === category.value);
+    row.hidden = !terms.every(term => row.dataset.search.includes(term)) || (kind.value !== "" && row.dataset.kind !== kind.value) || !matchesCategory;
     if (!row.hidden) count++;
   }
   document.querySelector("#count").textContent = `${count} of ${rows.length} spaces`;
@@ -14,6 +17,17 @@ function filterRooms() {
 }
 search.addEventListener("input", filterRooms);
 kind.addEventListener("change", filterRooms);
+category.addEventListener("change", filterRooms);
+sort.addEventListener("change", () => {
+  const priority = {relic: 0, treasure: 1, standard: 2};
+  const ordered = [...rows].sort((a, b) => {
+    let difference = 0;
+    if (sort.value === "reward") difference = priority[a.dataset.category] - priority[b.dataset.category];
+    if (sort.value === "area") difference = Number(b.dataset.area) - Number(a.dataset.area);
+    return difference || a.dataset.name.localeCompare(b.dataset.name);
+  });
+  for (const row of ordered) document.querySelector("tbody").appendChild(row);
+});
 const dialog = document.querySelector("#viewer");
 const full = document.querySelector("#full-image");
 let selection = null;
