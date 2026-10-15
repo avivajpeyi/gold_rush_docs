@@ -148,7 +148,7 @@
       },
       "doors": 3,
       "id": "boulder_descent",
-      "source_hash": "b626ead2cd1e1ba455fa9194ed20d105e040addabedfd4fbe523548f72c2160e",
+      "source_hash": "a941598ee05d5085db36f9d8367aaf325aef9328f7e19074e81b3e3472619962",
       "image_hashes": {
         "top.webp": "7a17cf110cd8f4776150b947c4ce0f961d3d4b660783aec1457443aada1a5452",
         "interior-1.webp": "d2766979e2ac7a2c070e83f5d26a07a20e7d6603ff7f263632f21ce48622d645",
@@ -222,7 +222,7 @@
       },
       "doors": 2,
       "id": "broken_bridge_chamber",
-      "source_hash": "76da162cc7ab9fbcc5904d8c9bae6ee521add3ce1dcbcfad9769f33a758e5647",
+      "source_hash": "cb1da958cc5ddc30147a8be4afd0ec89c8da6ffa27429b352c24d16ab33a2ac9",
       "image_hashes": {
         "top.webp": "08054efc7ad706783c1a3a6ae7f073703922f4f9f2562c3ca77c446300f4ee81",
         "interior-1.webp": "e094d36ac80a7722fc00c7bf11f7877e7aff00c0dab706530257256298e57d1b",
@@ -444,7 +444,7 @@
       },
       "doors": 2,
       "id": "collapse_passage",
-      "source_hash": "38fa76a701114a3f40050916ce5d11d8cc7ec9cedda751ce34127ec9db27b54b",
+      "source_hash": "5abf89bdc42b0763ffe1b22e23a84e74de09bbbcc254c2c691576a4523dd8fba",
       "image_hashes": {
         "top.webp": "4e916239d0084dcc722f730450773ed34c4f95b26bf164ec02ea11976c8c77c7",
         "interior-1.webp": "100b1cb1cdbf1fa045e6d7ef9955a6e2463663e3b13399206d5e47733b01c9fd",
@@ -666,7 +666,7 @@
       },
       "doors": 3,
       "id": "dart_court",
-      "source_hash": "391171351826ae0240ef2c103d1bbaebde0ac5f320eb9727a9d2df4f091e6512",
+      "source_hash": "5f6e90745e37387addfe843673af1886be101d5f486e3a39f7f4c1e1b1b5b72f",
       "image_hashes": {
         "top.webp": "ae8b27e554bdff9edeacd1c935b8868125df3ce7c2f8841d7637fb7860a6cf4c",
         "interior-1.webp": "ef52b690719559399594e1e993226b6a60d69747cebef4466c15ce81485e6e61",
@@ -1036,7 +1036,7 @@
       },
       "doors": 2,
       "id": "hall_of_pendulums",
-      "source_hash": "8f638c447bdd020e53e2424ecf0473de2af4c9f08bedd51da8233b5422d59ab9",
+      "source_hash": "a18774d0ff2074705ead8004451e686ae1ee39850b66069f86536ca0aa5045e5",
       "image_hashes": {
         "top.webp": "e5df397b7695332aa175f5e1d616bc78539a75b8938cf21d2bd3af33fec26295",
         "interior-1.webp": "524752023b07f8d9c74ba2a4ae293118e5497d879a7bf42afe25311b3f1280c4",
@@ -1110,9 +1110,9 @@
       },
       "doors": 1,
       "id": "hundred_pillars",
-      "source_hash": "0a7a1dc83cd5c1ffd35a96249796edff644d239599597d2a50a2a6c371fae9f9",
+      "source_hash": "944a0bae7dcabf1b2b666f357bcbb20fb9e5b9843dfd2e4bcb5478732d80f7bd",
       "image_hashes": {
-        "top.webp": "00a00f778f9fd74f4a86f7bdd9bcdbf6ef1e693075c21a09a84346962c1295a2",
+        "top.webp": "a718e9fc08bfe8d0d358cc1c2eeebd48d77398578a7cb1bbc62babf2c03a19c7",
         "interior-1.webp": "40172844a602318794d752dd02df8d9b95a5fe272702e7d912bd3cacddd54a8a",
         "interior-2.webp": "d16dc87d9de1955c036724fb52934a920b34e1563677b09b9b8f7004fd0e0589"
       },
@@ -1332,9 +1332,9 @@
       },
       "doors": 1,
       "id": "jackals_jaw",
-      "source_hash": "625f1b7422f5281bfa13ecc09415531d39ea0eef303ba4f7c5db92699b4651fe",
+      "source_hash": "b29b88d2db5f2762b4b789225c46971b7e61bfcae681d7ed19943a84d5c5a156",
       "image_hashes": {
-        "top.webp": "6ba4ed8acf54143c8edafeec930c0731164b7d7f7611a680a346a7746e67639a",
+        "top.webp": "0c073ba2ad4c1a97ff71971e3c34fe020f275d3a47fc4fa617eb21a978114f2a",
         "interior-1.webp": "264155f13e3ea23cf0870c504048fcb473484d35ddea7a0a5cd03ed86d3fcf6f",
         "interior-2.webp": "da8e54b9383bb560876e12c54dd622e1717f707589291ae20f903aafd275b229"
       },
@@ -1998,7 +1998,7 @@
       },
       "doors": 2,
       "id": "pit_ledge_room",
-      "source_hash": "3024e1f5399679d261ed125861a8ca888f8f5d92c63cdee3ce5ae8e0dc3b3767",
+      "source_hash": "42cbc24d36ab6b65ecb50c5898be872f97cdbda838b3de1c03e0726f2bbbc72f",
       "image_hashes": {
         "top.webp": "cc63253ca21a9cb932934a1f74c4ffe8913cf97b6e082c3794fb7edc1f8a4d72",
         "interior-1.webp": "e77d784e59e0984f75969cfa7f53e0ef34000b7ce9425003d8c756529682a92a",
@@ -2072,7 +2072,7 @@
       },
       "doors": 2,
       "id": "pit_planks_room",
-      "source_hash": "bbf00bafb937f6816da6f3f0b70123ddd103fca62bae1fa2ac7c5b988728700d",
+      "source_hash": "7c3f252064bcea8b60031e16f243e6cb3a73ba8db55a51c1524b397f5b298ae5",
       "image_hashes": {
         "top.webp": "ea207a5e8bf48412acb259d988cd611c5011de0b2d4f51fe767bc85b61378156",
         "interior-1.webp": "e41089813320a2cd06ac2434a7986cafb24db9b01b52a9e4b2e0ba0c60504b80",
@@ -2368,9 +2368,9 @@
       },
       "doors": 1,
       "id": "skyless_ziggurat",
-      "source_hash": "4d05cff9525c977849438cc6abf7614ec1aaabbe9d4458007fe30cfe99617955",
+      "source_hash": "3e250f955ed764d90fa8a78a8f3646963dd16ae5754d89216aa382164fee12c8",
       "image_hashes": {
-        "top.webp": "0d10f00c913b27ffed39e7d89036a87de786c66e15f3ec104810774232556d4a",
+        "top.webp": "987e328623a0590b7de9fd626133c027d2ee74759f339b9defae9c605f0aa725",
         "interior-1.webp": "0610c1753744437b68b91755ecf75c7e932769fdc4354468893105af93ee9566",
         "interior-2.webp": "8a9b8acf547b9e317c8af5e2e51ba77b46d578f8820ce3245e8df577ef8d96d3"
       },
@@ -2812,9 +2812,9 @@
       },
       "doors": 1,
       "id": "sunken_sun",
-      "source_hash": "47b1c6cc4ace33a7ca4f844779d62cc9fae755de24c7b36b0a5612e720bf3e72",
+      "source_hash": "a42ddda5333c9e08d1d12f78d7481cc7f46340607c8b28a8080308dbf4e9efd7",
       "image_hashes": {
-        "top.webp": "fb9c2ec05075deeb7183988b94017b141b67ab71a0855d5cc02218eb3d393ce8",
+        "top.webp": "63c5118330788b4ed1949498eb67b22b87f7e754dddcff26712f60295ba6ff53",
         "interior-1.webp": "be8b32bc050a589d2e3ea51e2539ca95d502049ce4bc54d10d6da1f458585503",
         "interior-2.webp": "433a1e0a5b4f63cb9c1dbb8f203e7cef625ee33fdf20928210b9454d2ec7a289"
       },
