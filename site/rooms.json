@@ -294,16 +294,16 @@
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 2,
+        "hidden_overhead_nodes": 4,
         "removed_roof_triangles": 0
       },
-      "doors": 1,
+      "doors": 2,
       "id": "burial_descent",
-      "source_hash": "f570881968b733732d59e3d7fe713707ab29884d37f199d5f18d0cb03758a204",
+      "source_hash": "e70784329d54dc81622855be529cb6805c988211d93036f302bef2b2ed3e0957",
       "image_hashes": {
-        "top.webp": "a38ca1f0ee3e62fd71317437ba9ad7b0fc855db17d72286f9d5bd922db8c929c",
-        "interior-1.webp": "4bb9d642c75663a79b490d2910e6484ac812d79e9802ab5b08b770b20f44fb77",
-        "interior-2.webp": "977fed3e4382fb5d64fe47cbc862544dce303f19497c41dde0082da59aaf6c6d"
+        "top.webp": "9afb19b2e1cde00b3438a797dc3106d3c94f397822d5034c12b979cf14a1d68f",
+        "interior-1.webp": "d25e9671217baf55800dcc49ca305a4cee2b72395b56d481a2be578d21a41a42",
+        "interior-2.webp": "c1f9aaa3fbed3e9315c6dbd362c1750f83024555db35d844342d214b601d9256"
       },
       "name": "Burial Descent",
       "kind": "Room",
@@ -1119,16 +1119,16 @@
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 2,
+        "hidden_overhead_nodes": 4,
         "removed_roof_triangles": 0
       },
-      "doors": 1,
+      "doors": 3,
       "id": "hundred_pillars",
-      "source_hash": "0ddb54b908acadbaa8fa9900485514016df524be960026f8747de34560c84869",
+      "source_hash": "2d4bc0f62e238cb1db68379f76d320f73d79766b3219b75cdac0439744254b89",
       "image_hashes": {
-        "top.webp": "05991cb631d13ca9ca3f7c90ceeb4cba9f61f618a029ff53436b3e6c1c732cbe",
-        "interior-1.webp": "b7081dc6a1348335ca22a07101e5e16ae4005f0ffbfacc3065bbb2f3431e4652",
-        "interior-2.webp": "ea7895e0b164fcf2e8fcb53d7b0644913da9be454cee1818004c2e0f23f4ca3b"
+        "top.webp": "d8024313a2aafe3c79145ff79b2ae5f33a95154afdaf48cad7c2b81a7dcfcff5",
+        "interior-1.webp": "e61b05638d71e80d5298e0b5a1d076fec301b99c352cb44d8519d7fafc4352a8",
+        "interior-2.webp": "9e477fcd2f1396be4d1cadf0609fea9bd102042a5342bc2226e7302e095a48d0"
       },
       "name": "Hundred Pillars",
       "kind": "Room",
@@ -1344,16 +1344,16 @@
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 2,
+        "hidden_overhead_nodes": 4,
         "removed_roof_triangles": 0
       },
-      "doors": 1,
+      "doors": 3,
       "id": "jackals_jaw",
-      "source_hash": "047d5d4124d8e6d38227a5b42568b567ede219d81b81ac75e73362527fdd91d2",
+      "source_hash": "a99191e984c2e4ec9a23e575b8f79c8883552db8df963214d8da3b3f7bc3b2c2",
       "image_hashes": {
-        "top.webp": "6f54788625501479ba985e1432ef2b2bad5287a5b332ad0e0956e1a184c4f2df",
-        "interior-1.webp": "747bbe9c62c247f29deb7dd2187fe1272ea62f31750e426f5a8c3efff31f55bd",
-        "interior-2.webp": "e7fdf34e112b6a04ca6063a0b3318263e3d030465e87da847a7620014d4d3afb"
+        "top.webp": "94aa7ebbe98b7f666d420d97646766e23c517db185544aa024ece5e026ab8990",
+        "interior-1.webp": "580d1097157f1f697b059825a5893a80e92c6e441584f8ebee1ce0434f7766ec",
+        "interior-2.webp": "54a8722f044cf09f6ca934027df7f01c3f31a10c0133e520173da759226d2ec0"
       },
       "name": "Jackals Jaw",
       "kind": "Room",
@@ -2394,16 +2394,16 @@
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 2,
+        "hidden_overhead_nodes": 4,
         "removed_roof_triangles": 0
       },
-      "doors": 1,
+      "doors": 3,
       "id": "skyless_ziggurat",
-      "source_hash": "c418fbec099ddbc1cdeba29ce4295bfe9eb4a7cd6c2cbec168f4f54d1e758f68",
+      "source_hash": "395d41861887407906655fd9937263a3ed61eac48337b4c08fe968ebd0933bb1",
       "image_hashes": {
-        "top.webp": "f1acb2886dbc6adb05c773105d0284b860ceb859228b724d18e1be50d616857c",
-        "interior-1.webp": "afefafda9d69e7ab7c666a0fb14569e4dfa68f86c3b7fb62641a48592130a8f4",
-        "interior-2.webp": "1e884ec443c63643b5fb532dd9b8d1ad227a5a7162980805e048cd412a144a3b"
+        "top.webp": "e9d67a183f5e257e87ed8dfa0e504acac6884f2fc5d62663b693170f8c1d8a49",
+        "interior-1.webp": "19e34b5730ce3f3350917daf99b643a67354551282829cbe306c8bdc0194eb87",
+        "interior-2.webp": "8246ab88bc98447a9c5410d1c40f68c67cf5b13876cb865849117cdb953aa57c"
       },
       "name": "Skyless Ziggurat",
       "kind": "Room",
@@ -2844,16 +2844,16 @@
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 2,
+        "hidden_overhead_nodes": 4,
         "removed_roof_triangles": 0
       },
-      "doors": 1,
+      "doors": 3,
       "id": "sunken_sun",
-      "source_hash": "3e6ca93e8dea56b495b8205499dbf24a42eb4f0c3aa4b76513a1f9a8ee6efae2",
+      "source_hash": "1283e122292366a3d14da74a8309a524c3fdefde0ed08362a9dd05b8791a89b9",
       "image_hashes": {
-        "top.webp": "31decba4fa529d200fbe3de0b52167c905b6cd28704e3d7067ca811fbaabd8f6",
-        "interior-1.webp": "97cda995c3546d1b990f48f9c1737b8ed95246a46ed4d83f78e1c4c1135b611b",
-        "interior-2.webp": "90e4e01e1894d2a15c0ae3d610133ae04d3656b84381d37798aa2ed7fd2e48fc"
+        "top.webp": "196791d922e175373ac05c4e3ce30373aa0d29c4186dabaf640b9a98c5685349",
+        "interior-1.webp": "e4459beb9a12be50b1e7c818cdf4b4167625a70751291aa5d1c8a602c14a33f2",
+        "interior-2.webp": "31bbe0505be6ed9b983f6c62453e8afe0c77471c6020e1e7a8946ee4f36b9856"
       },
       "name": "Sunken Sun",
       "kind": "Room",
