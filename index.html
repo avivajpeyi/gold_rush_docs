@@ -1,0 +1,410 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="Documentation and project guides for Gold Rush."
+    >
+    <title>Gold Rush — Documentation</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #24251f;
+        --muted: #74756d;
+        --paper: #fbfaf7;
+        --line: #e9e5db;
+        --gold: #bd8121;
+        --gold-dark: #875810;
+        --gold-wash: #f7f0e2;
+        --sidebar-width: 250px;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        font-size: 16px;
+        line-height: 1.65;
+      }
+
+      a {
+        color: inherit;
+      }
+
+      .topbar {
+        align-items: center;
+        background: #24251f;
+        color: #fff;
+        display: flex;
+        height: 68px;
+        justify-content: space-between;
+        padding: 0 36px;
+      }
+
+      .brand {
+        align-items: center;
+        display: inline-flex;
+        font-size: 17px;
+        font-weight: 700;
+        gap: 11px;
+        letter-spacing: -0.02em;
+        text-decoration: none;
+      }
+
+      .brand-mark {
+        align-items: center;
+        background: var(--gold);
+        border-radius: 8px;
+        color: #24251f;
+        display: inline-flex;
+        font-size: 14px;
+        height: 32px;
+        justify-content: center;
+        width: 32px;
+      }
+
+      .topbar-label {
+        color: #c7c5bc;
+        font-size: 13px;
+      }
+
+      .layout {
+        margin: 0 auto;
+        max-width: 1440px;
+        min-height: calc(100vh - 68px);
+      }
+
+      .sidebar {
+        border-right: 1px solid var(--line);
+        bottom: 0;
+        left: max(0px, calc((100vw - 1440px) / 2));
+        overflow-y: auto;
+        padding: 38px 24px;
+        position: fixed;
+        top: 68px;
+        width: var(--sidebar-width);
+      }
+
+      .sidebar-title {
+        color: var(--muted);
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+        margin: 0 0 13px 10px;
+        text-transform: uppercase;
+      }
+
+      .sidebar nav {
+        display: grid;
+        gap: 4px;
+      }
+
+      .sidebar nav a {
+        border-radius: 6px;
+        color: #55564f;
+        font-size: 14px;
+        padding: 8px 10px;
+        text-decoration: none;
+      }
+
+      .sidebar nav a:hover,
+      .sidebar nav a:focus-visible {
+        background: var(--gold-wash);
+        color: var(--gold-dark);
+        outline: none;
+      }
+
+      main {
+        margin-left: var(--sidebar-width);
+        max-width: 920px;
+        padding: 76px 76px 96px;
+      }
+
+      .eyebrow {
+        color: var(--gold-dark);
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+
+      h1,
+      h2,
+      h3,
+      p {
+        margin-top: 0;
+      }
+
+      h1 {
+        font-size: clamp(42px, 6vw, 64px);
+        letter-spacing: -0.055em;
+        line-height: 1.08;
+        margin: 14px 0 18px;
+      }
+
+      .lead {
+        color: #62635b;
+        font-size: 19px;
+        line-height: 1.65;
+        margin-bottom: 30px;
+        max-width: 620px;
+      }
+
+      .notice {
+        background: var(--gold-wash);
+        border: 1px solid #ead9b7;
+        border-radius: 8px;
+        color: #625133;
+        font-size: 14px;
+        margin: 34px 0 56px;
+        padding: 15px 18px;
+      }
+
+      .notice strong {
+        color: #493816;
+      }
+
+      .section-heading {
+        border-bottom: 1px solid var(--line);
+        margin-bottom: 22px;
+        padding-bottom: 13px;
+      }
+
+      h2 {
+        font-size: 26px;
+        letter-spacing: -0.035em;
+        line-height: 1.25;
+        margin-bottom: 4px;
+      }
+
+      .section-heading p {
+        color: var(--muted);
+        font-size: 14px;
+        margin-bottom: 0;
+      }
+
+      .cards {
+        display: grid;
+        gap: 14px;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .card {
+        background: #fff;
+        border: 1px solid var(--line);
+        border-radius: 9px;
+        min-height: 148px;
+        padding: 20px;
+        text-decoration: none;
+        transition: border-color 140ms ease, transform 140ms ease;
+      }
+
+      .card:hover,
+      .card:focus-visible {
+        border-color: #d2ad6b;
+        outline: none;
+        transform: translateY(-2px);
+      }
+
+      .card h3 {
+        font-size: 16px;
+        letter-spacing: -0.01em;
+        margin-bottom: 7px;
+      }
+
+      .card p {
+        color: var(--muted);
+        font-size: 14px;
+        line-height: 1.55;
+        margin-bottom: 0;
+      }
+
+      .content-section {
+        margin-top: 62px;
+        scroll-margin-top: 30px;
+      }
+
+      .content-section > p {
+        color: #62635b;
+        max-width: 650px;
+      }
+
+      .content-section a {
+        color: var(--gold-dark);
+        text-underline-offset: 3px;
+      }
+
+      footer {
+        border-top: 1px solid var(--line);
+        color: var(--muted);
+        font-size: 13px;
+        margin-top: 72px;
+        padding-top: 20px;
+      }
+
+      @media (max-width: 760px) {
+        .topbar {
+          height: 60px;
+          padding: 0 20px;
+        }
+
+        .topbar-label {
+          display: none;
+        }
+
+        .sidebar {
+          background: var(--paper);
+          border-bottom: 1px solid var(--line);
+          border-right: 0;
+          left: 0;
+          overflow-x: auto;
+          overflow-y: hidden;
+          padding: 10px 16px;
+          right: 0;
+          top: 60px;
+          white-space: nowrap;
+          width: auto;
+          z-index: 1;
+        }
+
+        .sidebar-title {
+          display: none;
+        }
+
+        .sidebar nav {
+          display: flex;
+          gap: 4px;
+          width: max-content;
+        }
+
+        .sidebar nav a {
+          padding: 7px 10px;
+        }
+
+        main {
+          margin-left: 0;
+          padding: 116px 22px 64px;
+        }
+
+        .lead {
+          font-size: 17px;
+        }
+
+        .cards {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        html {
+          scroll-behavior: auto;
+        }
+
+        *,
+        *::before,
+        *::after {
+          transition-duration: 0.01ms !important;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="Gold Rush documentation home">
+        <span class="brand-mark" aria-hidden="true">G</span>
+        <span>Gold Rush</span>
+      </a>
+      <span class="topbar-label">Documentation</span>
+    </header>
+
+    <div class="layout" id="top">
+      <aside class="sidebar" aria-label="Documentation">
+        <p class="sidebar-title">Documentation</p>
+        <nav>
+          <a href="#overview">Overview</a>
+          <a href="#getting-started">Getting started</a>
+          <a href="#guides">Guides</a>
+          <a href="#reference">Reference</a>
+        </nav>
+      </aside>
+
+      <main>
+        <p class="eyebrow">Gold Rush documentation</p>
+        <h1>Find your way around Gold Rush.</h1>
+        <p class="lead">
+          Welcome to the documentation home for Gold Rush. Start with the
+          overview, then use the guides and reference sections to find the
+          information you need.
+        </p>
+
+        <div class="notice" role="status">
+          <strong>Documentation in progress.</strong>
+          Project-specific setup steps and reference details will be added as
+          they are confirmed.
+        </div>
+
+        <section id="overview" aria-labelledby="overview-title">
+          <div class="section-heading">
+            <h2 id="overview-title">Explore the docs</h2>
+            <p>Choose a section to get started.</p>
+          </div>
+          <div class="cards">
+            <a class="card" href="#getting-started">
+              <h3>Getting started</h3>
+              <p>Find setup instructions and the first steps for using Gold Rush.</p>
+            </a>
+            <a class="card" href="#guides">
+              <h3>Guides</h3>
+              <p>Browse task-focused walkthroughs and practical examples.</p>
+            </a>
+            <a class="card" href="#reference">
+              <h3>Reference</h3>
+              <p>Look up detailed information about project features and usage.</p>
+            </a>
+            <a class="card" href="#overview">
+              <h3>Project overview</h3>
+              <p>Get oriented and learn how the documentation is organized.</p>
+            </a>
+          </div>
+        </section>
+
+        <section class="content-section" id="getting-started">
+          <h2>Getting started</h2>
+          <p>
+            Start here for installation and first-use instructions. Verified
+            setup details will be published in this section.
+          </p>
+        </section>
+
+        <section class="content-section" id="guides">
+          <h2>Guides</h2>
+          <p>
+            Step-by-step guides for common tasks will be collected here as the
+            project workflows are documented.
+          </p>
+        </section>
+
+        <section class="content-section" id="reference">
+          <h2>Reference</h2>
+          <p>
+            Detailed feature, command, and API reference material will live
+            here once the project interfaces are confirmed.
+          </p>
+        </section>
+
+        <footer>Gold Rush documentation</footer>
+      </main>
+    </div>
+  </body>
+</html>
