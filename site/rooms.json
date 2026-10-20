@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "room_count": 43,
-  "image_count": 129,
+  "room_count": 48,
+  "image_count": 144,
   "capture": {
     "size": [
       960,
@@ -760,6 +760,156 @@
       "scene": "res://scenes/dungeon/procedural/rooms/DartGalleryGauntlet.tscn",
       "map": "res://levels/trenchbroom/maps/dart_gallery_gauntlet.map",
       "category": "standard"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
+          -4.3,
+          -12.0
+        ],
+        "size": [
+          24.0,
+          7.8,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            37.4,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.4,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -9.84,
+            -2.25,
+            0.0
+          ],
+          "file": "interior-1.webp",
+          "label": "View 0",
+          "target": [
+            0.0,
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            9.84,
+            1.75,
+            0.0
+          ],
+          "file": "interior-2.webp",
+          "label": "View 1",
+          "target": [
+            0.0,
+            -1.0,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "diagonal_tribune",
+      "source_hash": "0f2f9070ba3e56362fd327e589fe89b1393f8d341949cf1aa7a7a65e0704d27d",
+      "image_hashes": {
+        "top.webp": "2e15980c5068a65f2a4dd26f31f9d59f3e7297b57840869694ff690d59654ffb",
+        "interior-1.webp": "a6be387ab2e7db0c75b8d68c9317a2fbe86100d3fd9acf1fef3989aaaf029f76",
+        "interior-2.webp": "fb7244a482d2b4ba57e09130af053bd6dd60eb31b014518eb316849b1f038394"
+      },
+      "name": "Diagonal Tribune",
+      "kind": "Room",
+      "category": "standard",
+      "scene": "res://scenes/dungeon/procedural/rooms/diagonal_tribune.tscn",
+      "map": "res://levels/trenchbroom/maps/diagonal_tribune.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
+          -4.3,
+          -12.0
+        ],
+        "size": [
+          24.0,
+          7.8,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            37.4,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.4,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -2.25,
+            -9.84
+          ],
+          "file": "interior-1.webp",
+          "label": "View 0",
+          "target": [
+            -8.0,
+            -1.0,
+            4.0
+          ]
+        },
+        {
+          "eye": [
+            9.84,
+            1.75,
+            6.56
+          ],
+          "file": "interior-2.webp",
+          "label": "View 1",
+          "target": [
+            -8.0,
+            -1.0,
+            4.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "dogleg_climb",
+      "source_hash": "186680961a16b2c087ddd865821c82225992a76594055878a13e6caf82232e7c",
+      "image_hashes": {
+        "top.webp": "74d059266f1729ba8f6ee280792b96c25ab96ee7c84ba2f9da29b72e0526cc95",
+        "interior-1.webp": "dee2a85bc9d56ea642cdd292b7dbc22beec77461dda22d65db010dd0de5f2efe",
+        "interior-2.webp": "83017707f8684d956ff0a607d217667ac6411e4ba0879088f497a214d6468973"
+      },
+      "name": "Dogleg Climb",
+      "kind": "Room",
+      "category": "standard",
+      "scene": "res://scenes/dungeon/procedural/rooms/dogleg_climb.tscn",
+      "map": "res://levels/trenchbroom/maps/dogleg_climb.map"
     },
     {
       "bounds": {
@@ -2265,6 +2415,81 @@
       "bounds": {
         "origin": [
           -12.0,
+          -4.3,
+          -12.0
+        ],
+        "size": [
+          24.0,
+          7.8,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            37.4,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.4,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -2.25,
+            -9.84
+          ],
+          "file": "interior-1.webp",
+          "label": "View 0",
+          "target": [
+            0.0,
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            1.75,
+            9.84
+          ],
+          "file": "interior-2.webp",
+          "label": "View 1",
+          "target": [
+            0.0,
+            -1.0,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "rising_procession",
+      "source_hash": "8b5fef6b5409c12a33ce56702cced90134d5c725e192b43b35ee6592ae7b9742",
+      "image_hashes": {
+        "top.webp": "0d04f7bb271be241ecc18c5af5d839d67da134dae3002ebadca7f9f2ee898aa1",
+        "interior-1.webp": "d5fdffbfcd970eaaac345d8ee2e7938c3f375f3b6041bd115e8322370abd099f",
+        "interior-2.webp": "236399a3161c3a8aa28606ab8a616bc420241f6d707c91c3ff031763c39f0888"
+      },
+      "name": "Rising Procession",
+      "kind": "Room",
+      "category": "standard",
+      "scene": "res://scenes/dungeon/procedural/rooms/rising_procession.tscn",
+      "map": "res://levels/trenchbroom/maps/rising_procession.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
           -2.3,
           -12.0
         ],
@@ -2860,6 +3085,156 @@
       "category": "relic",
       "scene": "res://scenes/dungeon/procedural/rooms/sunken_sun.tscn",
       "map": "res://levels/trenchbroom/maps/migrated/sunken_sun.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
+          -4.3,
+          -12.0
+        ],
+        "size": [
+          24.0,
+          7.8,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            37.4,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.4,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -2.25,
+            -9.84
+          ],
+          "file": "interior-1.webp",
+          "label": "View 0",
+          "target": [
+            -8.0,
+            -1.0,
+            8.0
+          ]
+        },
+        {
+          "eye": [
+            9.84,
+            1.75,
+            -6.56
+          ],
+          "file": "interior-2.webp",
+          "label": "View 1",
+          "target": [
+            -8.0,
+            -1.0,
+            8.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "switchback_ascent",
+      "source_hash": "13bf15c5aa518b3e016be2836d328d31adf9177eb3d37de5ccc7a91b529840fa",
+      "image_hashes": {
+        "top.webp": "85d5f6c7ba095488130f347e7c532aea2f1e4c28d21b815191327d61fb478f54",
+        "interior-1.webp": "0384c47493a87c6f16e411dddc6bfbcbd354a73af317d3bf97b4d22bfcd720f1",
+        "interior-2.webp": "9ba582e0984e54345a65f962bd9c73747b168fdea91ae986aab5c5570d09efd3"
+      },
+      "name": "Switchback Ascent",
+      "kind": "Room",
+      "category": "standard",
+      "scene": "res://scenes/dungeon/procedural/rooms/switchback_ascent.tscn",
+      "map": "res://levels/trenchbroom/maps/switchback_ascent.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
+          -4.3,
+          -12.0
+        ],
+        "size": [
+          24.0,
+          7.8,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            37.4,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.4,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -2.25,
+            -9.84
+          ],
+          "file": "interior-1.webp",
+          "label": "View 0",
+          "target": [
+            7.0,
+            -1.0,
+            2.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            1.75,
+            9.84
+          ],
+          "file": "interior-2.webp",
+          "label": "View 1",
+          "target": [
+            7.0,
+            -1.0,
+            2.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 2,
+      "id": "terraced_court",
+      "source_hash": "4eb0afdcb4f26e88409e6b6437c94b9c4ff16e0c7f7acf86b0f942246b71b134",
+      "image_hashes": {
+        "top.webp": "04c664aad398a5000d2a9790c9e739736dd89f45ec3698f8eb289ec65b9e999b",
+        "interior-1.webp": "3794242e520969b318193c139f2a4d6f02086aac6461b254b3e104c6f9c3312f",
+        "interior-2.webp": "c9823c0813fc4aa80fb86e9b65292fc8f584a094897633c86b8746dca62d7cce"
+      },
+      "name": "Terraced Court",
+      "kind": "Room",
+      "category": "standard",
+      "scene": "res://scenes/dungeon/procedural/rooms/terraced_court.tscn",
+      "map": "res://levels/trenchbroom/maps/terraced_court.map"
     },
     {
       "bounds": {
