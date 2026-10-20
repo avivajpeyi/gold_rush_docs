@@ -280,30 +280,30 @@
         },
         {
           "eye": [
-            2.0,
-            -4.45,
-            9.0
+            -2.6,
+            -0.45,
+            -8.0
           ],
           "file": "interior-2.webp",
-          "label": "Return from crypt",
+          "label": "West entrance and stair approach",
           "target": [
             0.0,
-            -2.0,
-            -8.0
+            -1.4,
+            -10.2
           ]
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 4,
+        "hidden_overhead_nodes": 6,
         "removed_roof_triangles": 0
       },
-      "doors": 2,
+      "doors": 3,
       "id": "burial_descent",
-      "source_hash": "e70784329d54dc81622855be529cb6805c988211d93036f302bef2b2ed3e0957",
+      "source_hash": "5b59c76fbcde218fa24f7621adfbcec3613af741c69c5a34ca410051c051d23b",
       "image_hashes": {
-        "top.webp": "9afb19b2e1cde00b3438a797dc3106d3c94f397822d5034c12b979cf14a1d68f",
-        "interior-1.webp": "d25e9671217baf55800dcc49ca305a4cee2b72395b56d481a2be578d21a41a42",
-        "interior-2.webp": "c1f9aaa3fbed3e9315c6dbd362c1750f83024555db35d844342d214b601d9256"
+        "top.webp": "fbed365d1e1c7b005dc3e8d742d390183b9933d95ef983d349cec36128a96908",
+        "interior-1.webp": "ab98e230f4b0e39958e4f7812cf0b7a7fa41f37cfecddda08ae69f0d5627fc79",
+        "interior-2.webp": "f9302015acbe880f44ed2170c5d7dd22b1533eba95c0bdaa41f4577df4dc123f"
       },
       "name": "Burial Descent",
       "kind": "Room",
@@ -1255,30 +1255,30 @@
         },
         {
           "eye": [
-            -18.667,
-            2.55,
-            16.0
+            -24.0,
+            -0.45,
+            22.6
           ],
           "file": "interior-2.webp",
-          "label": "Interior",
+          "label": "From rear entrance",
           "target": [
-            0.0,
-            2.3,
-            0.0
+            -24.0,
+            2.1,
+            15.0
           ]
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 4,
+        "hidden_overhead_nodes": 5,
         "removed_roof_triangles": 0
       },
-      "doors": 3,
+      "doors": 4,
       "id": "hundred_pillars",
-      "source_hash": "2d4bc0f62e238cb1db68379f76d320f73d79766b3219b75cdac0439744254b89",
+      "source_hash": "df65ad4333060c8da26fdf887ab91186646a0d4a1ddfbb8db7a2b4faa798b0cf",
       "image_hashes": {
-        "top.webp": "d8024313a2aafe3c79145ff79b2ae5f33a95154afdaf48cad7c2b81a7dcfcff5",
-        "interior-1.webp": "e61b05638d71e80d5298e0b5a1d076fec301b99c352cb44d8519d7fafc4352a8",
-        "interior-2.webp": "9e477fcd2f1396be4d1cadf0609fea9bd102042a5342bc2226e7302e095a48d0"
+        "top.webp": "3267ae0b76a45059fd84e8b6d9f1874d0da7246ea0366d689d7c19b61667023b",
+        "interior-1.webp": "8e36a9fe490686916be6b7ae7b19982e5ccdccfe4949b0eb8d4bac2d842be199",
+        "interior-2.webp": "1d0af1f8729e3808445370a16821eb4983d1ea9fa896b328259ad046ba57b918"
       },
       "name": "Hundred Pillars",
       "kind": "Room",
@@ -1480,30 +1480,30 @@
         },
         {
           "eye": [
-            -13.417,
-            2.55,
-            13.333
+            0.0,
+            -0.45,
+            18.6
           ],
           "file": "interior-2.webp",
-          "label": "Interior",
+          "label": "From rear entrance",
           "target": [
-            -0.05,
-            2.3,
-            0.0
+            0.0,
+            1.8,
+            10.6
           ]
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 4,
+        "hidden_overhead_nodes": 5,
         "removed_roof_triangles": 0
       },
-      "doors": 3,
+      "doors": 4,
       "id": "jackals_jaw",
-      "source_hash": "a99191e984c2e4ec9a23e575b8f79c8883552db8df963214d8da3b3f7bc3b2c2",
+      "source_hash": "35681252cfed9de12b84ff2a1f05dd941ba8cd3b93c57ba62f23163a89c4c711",
       "image_hashes": {
-        "top.webp": "94aa7ebbe98b7f666d420d97646766e23c517db185544aa024ece5e026ab8990",
-        "interior-1.webp": "580d1097157f1f697b059825a5893a80e92c6e441584f8ebee1ce0434f7766ec",
-        "interior-2.webp": "54a8722f044cf09f6ca934027df7f01c3f31a10c0133e520173da759226d2ec0"
+        "top.webp": "c28bb9f044315cd853dcb4393695173014577a0cd8c3fa2ec806e09b0ec6951e",
+        "interior-1.webp": "5a4fc242e8ae0b7db18f88b65275d23022fde0524d3a0e677e65dfe21d58f9d8",
+        "interior-2.webp": "d1c12a75f62d865df18adbbdd9ea674866d094d9828effcecb7b2e6b113368d3"
       },
       "name": "Jackals Jaw",
       "kind": "Room",
@@ -2605,30 +2605,30 @@
         },
         {
           "eye": [
-            16.0,
-            2.55,
-            8.0
+            -4.0,
+            -0.45,
+            22.6
           ],
           "file": "interior-2.webp",
-          "label": "Interior",
+          "label": "From rear entrance",
           "target": [
-            0.0,
-            2.3,
-            0.0
+            -4.0,
+            0.4,
+            10.0
           ]
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 4,
+        "hidden_overhead_nodes": 5,
         "removed_roof_triangles": 0
       },
-      "doors": 3,
+      "doors": 4,
       "id": "skyless_ziggurat",
-      "source_hash": "395d41861887407906655fd9937263a3ed61eac48337b4c08fe968ebd0933bb1",
+      "source_hash": "5df29c036dec82511e2b0549639ae9db813b2c3bf0e31499a2550f0afe088bb9",
       "image_hashes": {
-        "top.webp": "e9d67a183f5e257e87ed8dfa0e504acac6884f2fc5d62663b693170f8c1d8a49",
+        "top.webp": "fe83a19f116a55a99e7c813f840f4403cabde8bb252fc9ae60bc1a05641dac0a",
         "interior-1.webp": "19e34b5730ce3f3350917daf99b643a67354551282829cbe306c8bdc0194eb87",
-        "interior-2.webp": "8246ab88bc98447a9c5410d1c40f68c67cf5b13876cb865849117cdb953aa57c"
+        "interior-2.webp": "9690acab8d5dd3e55d599f51855f150b89fe0edfc9e727ced8748d9a2746aff7"
       },
       "name": "Skyless Ziggurat",
       "kind": "Room",
@@ -3055,30 +3055,30 @@
         },
         {
           "eye": [
-            16.0,
-            -3.45,
-            6.667
+            -4.0,
+            -0.45,
+            18.6
           ],
           "file": "interior-2.webp",
-          "label": "Interior",
+          "label": "From rear entrance",
           "target": [
-            0.0,
-            -3.7,
-            0.0
+            -4.0,
+            -1.0,
+            7.0
           ]
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 4,
+        "hidden_overhead_nodes": 5,
         "removed_roof_triangles": 0
       },
-      "doors": 3,
+      "doors": 4,
       "id": "sunken_sun",
-      "source_hash": "1283e122292366a3d14da74a8309a524c3fdefde0ed08362a9dd05b8791a89b9",
+      "source_hash": "806af50fb90d7c78f71f1b105dbb0de338a27ea7d13646c7bf014966c4583a09",
       "image_hashes": {
-        "top.webp": "196791d922e175373ac05c4e3ce30373aa0d29c4186dabaf640b9a98c5685349",
-        "interior-1.webp": "e4459beb9a12be50b1e7c818cdf4b4167625a70751291aa5d1c8a602c14a33f2",
-        "interior-2.webp": "31bbe0505be6ed9b983f6c62453e8afe0c77471c6020e1e7a8946ee4f36b9856"
+        "top.webp": "eaecdd2e9fe82a5ac4af01ecabf7aa8e6be7be13fa0a210430a527600fea35f5",
+        "interior-1.webp": "339b47298c8fcb3fe8ad47e97e41921256d358b7661de317be7f2a88ec87b44f",
+        "interior-2.webp": "72541b1d0f8e26df86ec6dcf711c208e0f41344a9943424dc6c673670ae43d94"
       },
       "name": "Sunken Sun",
       "kind": "Room",
