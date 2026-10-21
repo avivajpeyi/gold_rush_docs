@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "room_count": 48,
-  "image_count": 144,
+  "room_count": 47,
+  "image_count": 141,
   "capture": {
     "size": [
       960,
@@ -69,22 +69,22 @@
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 0,
-        "removed_roof_triangles": 28
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
       },
       "doors": 2,
       "id": "BlackPitCausewayChamber",
-      "source_hash": "d302b01a643e481d73aaeeb4679af7892e5f7de30090328012c84ee0ae3d61d5",
+      "source_hash": "9117b6ff68966d79d13e493f43f5565609a091c510cab96e08d9a67bc724f4b0",
       "image_hashes": {
-        "top.webp": "f67f41475dd83be28a62546a0f895f2d48f7f69d9cb82dfd2f7d3089c094be35",
-        "interior-1.webp": "1be552b6bc46ee24931daf3a40373111f61e984caad622f7f101e0076cae5401",
-        "interior-2.webp": "62631c5ff0bbeb25e44ff7d53545801187a16a59af547e29fb861684394628e6"
+        "top.webp": "de9c8f9c02e2eb987da769b7402ba1e73981d5bf6b0c025a182cca6d35783347",
+        "interior-1.webp": "3b17cc02bdc2d2e714643db39e0831f3db79736b49df093418d02468ebe194b2",
+        "interior-2.webp": "75066425ae629a6747f30068d3432284c6abb5cfe3db9b4ea58076f688803d8a"
       },
       "name": "Black Pit Causeway Chamber",
       "kind": "Room",
+      "category": "standard",
       "scene": "res://scenes/dungeon/procedural/rooms/BlackPitCausewayChamber.tscn",
-      "map": "res://levels/trenchbroom/maps/black_pit_causeway_chamber.map",
-      "category": "standard"
+      "map": "res://levels/trenchbroom/maps/black_pit_causeway_chamber.map"
     },
     {
       "bounds": {
@@ -299,7 +299,7 @@
       },
       "doors": 3,
       "id": "burial_descent",
-      "source_hash": "5b59c76fbcde218fa24f7621adfbcec3613af741c69c5a34ca410051c051d23b",
+      "source_hash": "58f1e9ba9decb16fcf1f1f1fd7477c36f989548661042c26e467c6637cd92a57",
       "image_hashes": {
         "top.webp": "fbed365d1e1c7b005dc3e8d742d390183b9933d95ef983d349cec36128a96908",
         "interior-1.webp": "ab98e230f4b0e39958e4f7812cf0b7a7fa41f37cfecddda08ae69f0d5627fc79",
@@ -460,81 +460,6 @@
       "category": "standard",
       "scene": "res://scenes/dungeon/procedural/rooms/collapse_passage.tscn",
       "map": "res://levels/trenchbroom/maps/migrated/collapse_passage.map"
-    },
-    {
-      "bounds": {
-        "origin": [
-          -4.0,
-          -2.3,
-          -4.0
-        ],
-        "size": [
-          8.0,
-          4.14,
-          8.0
-        ]
-      },
-      "captures": [
-        {
-          "eye": [
-            0.0,
-            33.91,
-            0.0
-          ],
-          "file": "top.webp",
-          "label": "Top down · roof removed",
-          "target": [
-            0.0,
-            -0.23,
-            0.0
-          ]
-        },
-        {
-          "eye": [
-            0.0,
-            -0.45,
-            -2.6
-          ],
-          "file": "interior-1.webp",
-          "label": "From F doorway",
-          "target": [
-            0.0,
-            -0.45,
-            5.4
-          ]
-        },
-        {
-          "eye": [
-            0.0,
-            -0.45,
-            2.667
-          ],
-          "file": "interior-2.webp",
-          "label": "Interior",
-          "target": [
-            0.0,
-            -0.7,
-            0.0
-          ]
-        }
-      ],
-      "cutaway": {
-        "hidden_overhead_nodes": 2,
-        "removed_roof_triangles": 0
-      },
-      "doors": 1,
-      "id": "collapsed_room",
-      "source_hash": "7c77a2ca021cf4023855ce8c322966ead1289697880c134c063ffa071575fbcf",
-      "image_hashes": {
-        "top.webp": "7493a182559d49eb100bf0fe97aaf7a939361a6787442beda04a9de8ecf99e48",
-        "interior-1.webp": "bd91a3565ec2402683653ac74e5af9923ebd5dfdcba54f86d7181c28d3108735",
-        "interior-2.webp": "6e044c6329063eac91761449647365867b30baf0dfa7282352feb66bffa152bf"
-      },
-      "name": "Collapsed Room",
-      "kind": "Room",
-      "category": "standard",
-      "scene": "res://scenes/dungeon/procedural/rooms/collapsed_room.tscn",
-      "map": "res://levels/trenchbroom/maps/migrated/collapsed_room.map"
     },
     {
       "bounds": {
@@ -744,22 +669,22 @@
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 0,
-        "removed_roof_triangles": 28
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
       },
       "doors": 2,
       "id": "DartGalleryGauntlet",
-      "source_hash": "312cd2d6fd2c9dbd8e1b410bba71781688270f5605e69de267d64fc94af0e5f7",
+      "source_hash": "6653caaf0348d3c09a73fab8cb2fc25faf91cc6baf9a116742d5ae9607b356d9",
       "image_hashes": {
-        "top.webp": "5bb4a6af5d679e51dbbf2cd92191c73ac73c7475335a7301cccc359dbdb61e0e",
-        "interior-1.webp": "a7c314c5ae269286c84257b9413c0f5d8068d91965988d910b6683e51acc5179",
-        "interior-2.webp": "e60c0a75151c74210ce0baee736039e84945610e5009425b545156e3da79b1e6"
+        "top.webp": "1df510126680df2a1e32f2a222fabb5aec3a54163d1e97465ab323fca2619e06",
+        "interior-1.webp": "a2ce0ae0dc9403556d46d334e164a2fa5e420216c938a44c6b61106dd8024f01",
+        "interior-2.webp": "c050da0c2763525060aa0e9e3208d1734fa58c602c3d5ece68bae1e7f13c4297"
       },
       "name": "Dart Gallery Gauntlet",
       "kind": "Room",
+      "category": "standard",
       "scene": "res://scenes/dungeon/procedural/rooms/DartGalleryGauntlet.tscn",
-      "map": "res://levels/trenchbroom/maps/dart_gallery_gauntlet.map",
-      "category": "standard"
+      "map": "res://levels/trenchbroom/maps/dart_gallery_gauntlet.map"
     },
     {
       "bounds": {
@@ -1274,9 +1199,9 @@
       },
       "doors": 4,
       "id": "hundred_pillars",
-      "source_hash": "df65ad4333060c8da26fdf887ab91186646a0d4a1ddfbb8db7a2b4faa798b0cf",
+      "source_hash": "133595d7b8c83abab4f51ef7375c7d92b3f45badac99aa076a46839201c6cba0",
       "image_hashes": {
-        "top.webp": "3267ae0b76a45059fd84e8b6d9f1874d0da7246ea0366d689d7c19b61667023b",
+        "top.webp": "ab7abb93d4e28a11a908b573a25a0df9aa1f86fdc7386b0f50bfc8e436226205",
         "interior-1.webp": "8e36a9fe490686916be6b7ae7b19982e5ccdccfe4949b0eb8d4bac2d842be199",
         "interior-2.webp": "1d0af1f8729e3808445370a16821eb4983d1ea9fa896b328259ad046ba57b918"
       },
@@ -1499,9 +1424,9 @@
       },
       "doors": 4,
       "id": "jackals_jaw",
-      "source_hash": "35681252cfed9de12b84ff2a1f05dd941ba8cd3b93c57ba62f23163a89c4c711",
+      "source_hash": "5c34cb93619d0bc944bbbb8581ed4a3cb18166175aae04f8b335a8fee7570309",
       "image_hashes": {
-        "top.webp": "c28bb9f044315cd853dcb4393695173014577a0cd8c3fa2ec806e09b0ec6951e",
+        "top.webp": "0546855b8daac042e643c88254c79dcd1ac20b11fc976590e28b0ff1664507f2",
         "interior-1.webp": "5a4fc242e8ae0b7db18f88b65275d23022fde0524d3a0e677e65dfe21d58f9d8",
         "interior-2.webp": "d1c12a75f62d865df18adbbdd9ea674866d094d9828effcecb7b2e6b113368d3"
       },
@@ -2544,22 +2469,22 @@
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 0,
-        "removed_roof_triangles": 34
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
       },
       "doors": 2,
       "id": "RiskRewardShrineChamber",
-      "source_hash": "20115d57ee2b56508ce9b934f12668f6c1cd5f246fc6d13eb25df06385d30065",
+      "source_hash": "e0966f56f2f0bfc34c163eae175ac446e8e0eacf1d42305bcedd91f7a660bfa3",
       "image_hashes": {
-        "top.webp": "91beca1894364cd79478e59a2f7383b59e8cd7c0d7105d514598a7adaa4ff151",
-        "interior-1.webp": "005b4ca0e9838211d11678b679ad7d1054f19ced7cd379e8dcf16d8a9b9767d4",
-        "interior-2.webp": "16ded39fcdb39e3eec19b0e51ae672b211ff1b481dd5d62c8ce18ee879a77738"
+        "top.webp": "78f907ea95f3bddb4db97e782ea4b23b447440d61c399b1582320aed9b6955d0",
+        "interior-1.webp": "c85ad37a5c7cce1adb5414f8924712315ac8609237edb405dd108830237a26a7",
+        "interior-2.webp": "56bc4a6b149a5b815ebe9f0256ff0bdcff0b8c343febe15fa57d36722e30fd96"
       },
       "name": "Risk Reward Shrine Chamber",
       "kind": "Room",
+      "category": "standard",
       "scene": "res://scenes/dungeon/procedural/rooms/RiskRewardShrineChamber.tscn",
-      "map": "res://levels/trenchbroom/maps/risk_reward_shrine_chamber.map",
-      "category": "standard"
+      "map": "res://levels/trenchbroom/maps/risk_reward_shrine_chamber.map"
     },
     {
       "bounds": {
@@ -2624,9 +2549,9 @@
       },
       "doors": 4,
       "id": "skyless_ziggurat",
-      "source_hash": "5df29c036dec82511e2b0549639ae9db813b2c3bf0e31499a2550f0afe088bb9",
+      "source_hash": "86770fe0c1a6df4a48e66c901b5f58cde86e1ed245be21e3703abf85d71a3352",
       "image_hashes": {
-        "top.webp": "fe83a19f116a55a99e7c813f840f4403cabde8bb252fc9ae60bc1a05641dac0a",
+        "top.webp": "5dee1d1636dd741642619a2d14208a9c47d80cfde6ee62db86720faed45c141e",
         "interior-1.webp": "19e34b5730ce3f3350917daf99b643a67354551282829cbe306c8bdc0194eb87",
         "interior-2.webp": "9690acab8d5dd3e55d599f51855f150b89fe0edfc9e727ced8748d9a2746aff7"
       },
@@ -2769,22 +2694,22 @@
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 0,
-        "removed_roof_triangles": 86
+        "hidden_overhead_nodes": 4,
+        "removed_roof_triangles": 0
       },
       "doors": 3,
       "id": "SpikeWheelChamber",
-      "source_hash": "6bc051d0bec6db598eb62e55d68a2614258398d4cfa5e639229bbe072db70ab1",
+      "source_hash": "06fc60713d5b6b3035e210490648f4155a3a8c3bad2d2f1ff04c3de4c59e827b",
       "image_hashes": {
-        "top.webp": "c4f6e858f3e467c91ee6cdd571ac182a87c510981f3d57fe7076f1c12fdaf8dc",
-        "interior-1.webp": "6b66cca23ef6aff2d087b82fe6eb4ce0726d0ecd4e1f0c544630a26bf58cffdc",
-        "interior-2.webp": "6dde3e2dfbf513e941d874f161c1d1220deb94a217351c21c09d464ad2966a56"
+        "top.webp": "74019077c7575560def474cac9394ee817b88bc9d00cb394e04626eb37f9edf4",
+        "interior-1.webp": "350283e93d7e1d18c765ebd914e536528bc766d14267b33bddfa90bce445e710",
+        "interior-2.webp": "a9bff4d397cf3aaf15d7f7c2bf539e569101aead31e2ddef8d76c02c69e48562"
       },
       "name": "Spike Wheel Chamber",
       "kind": "Room",
+      "category": "standard",
       "scene": "res://scenes/dungeon/procedural/rooms/SpikeWheelChamber.tscn",
-      "map": "res://levels/trenchbroom/maps/spike_wheel_chamber.map",
-      "category": "standard"
+      "map": "res://levels/trenchbroom/maps/spike_wheel_chamber.map"
     },
     {
       "bounds": {
@@ -2844,22 +2769,22 @@
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 0,
-        "removed_roof_triangles": 28
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
       },
       "doors": 2,
       "id": "SplitLevelKillbox",
-      "source_hash": "bf5ed145e1c679e8c1de69929e9297570443e66791f9aeeb907303cdf3c740ce",
+      "source_hash": "b942e51b09b6fd99c472d677695cb22db21f959b39114678e2bfc47bf55fd201",
       "image_hashes": {
-        "top.webp": "76fee220d2326e6fb61080f908a74f4a2b1cacd76afcb6bc006824006c11c640",
-        "interior-1.webp": "0761914bbd33395ee36e971f015225248ade995b0c9e8802bfac58c9091494f5",
-        "interior-2.webp": "0c8b79471d1ce7ac071db18facabc194db41194a2eca1399f5b706b8413eb655"
+        "top.webp": "ed97c0dcc4b7924fe54b46139d9034fbbb2908bd051be5dda612eb48358d97a5",
+        "interior-1.webp": "599822c5c97a0a1298efc8764b8811485a2b86690f8d494d4ca038c297b75fbf",
+        "interior-2.webp": "88047fb0bb09f7647f9ca2f53fcab1d0ab4aaef8a1f8ea81e7a25a48d90da6b2"
       },
       "name": "Split Level Killbox",
       "kind": "Room",
+      "category": "standard",
       "scene": "res://scenes/dungeon/procedural/rooms/SplitLevelKillbox.tscn",
-      "map": "res://levels/trenchbroom/maps/split_level_killbox.map",
-      "category": "standard"
+      "map": "res://levels/trenchbroom/maps/split_level_killbox.map"
     },
     {
       "bounds": {
@@ -3074,10 +2999,10 @@
       },
       "doors": 4,
       "id": "sunken_sun",
-      "source_hash": "806af50fb90d7c78f71f1b105dbb0de338a27ea7d13646c7bf014966c4583a09",
+      "source_hash": "f41841081f68b484524c8185cf56285235b709c829974e69b662a1fcfd06f01f",
       "image_hashes": {
-        "top.webp": "eaecdd2e9fe82a5ac4af01ecabf7aa8e6be7be13fa0a210430a527600fea35f5",
-        "interior-1.webp": "339b47298c8fcb3fe8ad47e97e41921256d358b7661de317be7f2a88ec87b44f",
+        "top.webp": "93a9d8bfec5023d12f8cd2387f7dbd117b19f920f49aa9200b96e69a3bc64389",
+        "interior-1.webp": "8177ca043540af056c5147d5b218235ce3ba02b37c41f81dc4f927680717284d",
         "interior-2.webp": "72541b1d0f8e26df86ec6dcf711c208e0f41344a9943424dc6c673670ae43d94"
       },
       "name": "Sunken Sun",
@@ -3505,36 +3430,36 @@
         },
         {
           "eye": [
-            2.6,
+            -1.333,
             -0.45,
-            0.0
+            1.333
           ],
           "file": "interior-2.webp",
-          "label": "From R doorway",
+          "label": "Interior",
           "target": [
-            -5.4,
-            -0.45,
+            0.0,
+            -0.7,
             0.0
           ]
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 0,
-        "removed_roof_triangles": 36
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
       },
       "doors": 2,
       "id": "trenchbroom_fuel_shrine",
-      "source_hash": "70273566622e85621c202d5b654890d8c61f4e43348d19b0092cf6146a3edc1b",
+      "source_hash": "cbff2ac015bb21b31b4a63416bccab3f398a5ec6a880f166f1a35f2a552ea465",
       "image_hashes": {
-        "top.webp": "e398d91153062043a22e742fefde060fe0b42d76aafebaf049e5808ec2746676",
-        "interior-1.webp": "1e0425db7dd46360ec17ca386b23928b58fed585f794ef377fb55506181b19d2",
-        "interior-2.webp": "52cb9561874641add463c8536c183bef219466d4eaa1657fbdfc99b97f461841"
+        "top.webp": "04f0948d6593b669cfbe68eddf96881cf3ee92e37d489102dc6ab327c365e222",
+        "interior-1.webp": "db7fa56c398599a1df75ff578852caea8c7ff12c354e2e3b551696d77b934dc7",
+        "interior-2.webp": "9d2d570b113d9dc4b905b7e47ebf8907034641c70f1a990c8fc43e0a32a14589"
       },
       "name": "Trenchbroom Fuel Shrine",
       "kind": "Room",
+      "category": "standard",
       "scene": "res://scenes/dungeon/procedural/rooms/trenchbroom_fuel_shrine.tscn",
-      "map": "res://levels/trenchbroom/maps/fuel_shrine.map",
-      "category": "standard"
+      "map": "res://levels/trenchbroom/maps/fuel_shrine.map"
     },
     {
       "bounds": {
