@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "room_count": 47,
-  "image_count": 141,
+  "room_count": 50,
+  "image_count": 150,
   "capture": {
     "size": [
       960,
@@ -2864,6 +2864,81 @@
     {
       "bounds": {
         "origin": [
+          -16.0,
+          -4.4,
+          -20.0
+        ],
+        "size": [
+          32.0,
+          10.75,
+          40.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            41.725,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            0.975,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.25,
+            -17.0
+          ],
+          "file": "interior-1.webp",
+          "label": "View 0",
+          "target": [
+            0.0,
+            -2.0,
+            3.0
+          ]
+        },
+        {
+          "eye": [
+            -4.5,
+            -2.25,
+            5.0
+          ],
+          "file": "interior-2.webp",
+          "label": "View 1",
+          "target": [
+            0.0,
+            -1.0,
+            11.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 5,
+        "removed_roof_triangles": 0
+      },
+      "doors": 4,
+      "id": "sundered_processional_court",
+      "source_hash": "678ea574041c1a295223899a3b969d4d4596b20dda7eb7c133c60a097c59affa",
+      "image_hashes": {
+        "top.webp": "dfe4f35339c3bd2761cb15ea4f3d92fe6dc63719ee1f7c06629f5ab03cfda1b5",
+        "interior-1.webp": "42451dbbf8b264a7e037542fd1b0988cfc5431cabd117df9dd5d3b77b847816f",
+        "interior-2.webp": "66e6ca3167359a7f432242ecf69e8b59b95ed1b730980b1d52444f0f15b156c2"
+      },
+      "name": "Sundered Processional Court",
+      "kind": "Room",
+      "category": "standard",
+      "scene": "res://scenes/dungeon/procedural/rooms/sundered_processional_court.tscn",
+      "map": "res://levels/trenchbroom/maps/sundered_processional_court.map"
+    },
+    {
+      "bounds": {
+        "origin": [
           -12.0,
           -5.4,
           -12.0
@@ -3010,6 +3085,81 @@
       "category": "relic",
       "scene": "res://scenes/dungeon/procedural/rooms/sunken_sun.tscn",
       "map": "res://levels/trenchbroom/maps/migrated/sunken_sun.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -20.0,
+          -2.4,
+          -20.0
+        ],
+        "size": [
+          40.0,
+          8.75,
+          40.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            40.725,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            1.975,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.25,
+            -17.0
+          ],
+          "file": "interior-1.webp",
+          "label": "View 0",
+          "target": [
+            0.0,
+            0.3,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            16.0,
+            -0.25,
+            13.0
+          ],
+          "file": "interior-2.webp",
+          "label": "View 1",
+          "target": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 5,
+        "removed_roof_triangles": 0
+      },
+      "doors": 4,
+      "id": "sunwheel_arena",
+      "source_hash": "68dcb95311159c3c7e5fe2d2288edf691e2d4a9584a34eb6062276117a1b6456",
+      "image_hashes": {
+        "top.webp": "83bcfaad3d19495ce73b6e04ec7bb527eb009ef9d145a4b0ac58834319a143da",
+        "interior-1.webp": "62ab149c2388efe094ee3876bde7e4bebf57e07265f74290ba72b63b4d1aa31c",
+        "interior-2.webp": "64ae0a126d03bae3009db6634ff69fad61a456373f7a9dc460bcf094364f1de0"
+      },
+      "name": "Sunwheel Arena",
+      "kind": "Room",
+      "category": "standard",
+      "scene": "res://scenes/dungeon/procedural/rooms/sunwheel_arena.tscn",
+      "map": "res://levels/trenchbroom/maps/sunwheel_arena.map"
     },
     {
       "bounds": {
@@ -3460,6 +3610,81 @@
       "category": "standard",
       "scene": "res://scenes/dungeon/procedural/rooms/trenchbroom_fuel_shrine.tscn",
       "map": "res://levels/trenchbroom/maps/fuel_shrine.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -20.0,
+          -2.4,
+          -16.0
+        ],
+        "size": [
+          40.0,
+          8.75,
+          32.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            40.725,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            1.975,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -8.0,
+            -0.25,
+            -13.0
+          ],
+          "file": "interior-1.webp",
+          "label": "View 0",
+          "target": [
+            -3.0,
+            -0.1,
+            -4.0
+          ]
+        },
+        {
+          "eye": [
+            3.0,
+            -0.25,
+            0.0
+          ],
+          "file": "interior-2.webp",
+          "label": "View 1",
+          "target": [
+            15.0,
+            0.0,
+            5.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 6,
+        "removed_roof_triangles": 0
+      },
+      "doors": 4,
+      "id": "twin_court_crypt",
+      "source_hash": "c8d02bf65d18a5198c1b4210a0e17ca8b4f6a2dddcb874f5111c08b95a23db44",
+      "image_hashes": {
+        "top.webp": "a55c883fc170ab1866b56e5a2323f770b652c6ff9805a786ad3618455f5d1738",
+        "interior-1.webp": "ea23f27fd001f0b79ea7e5c879fe019f1e9f96fc75064439dd748d594b9eb112",
+        "interior-2.webp": "2172c2e556a72ce20e28e7b3ad2cece5b45df9cc57267a95d55275d172c2f943"
+      },
+      "name": "Twin Court Crypt",
+      "kind": "Room",
+      "category": "standard",
+      "scene": "res://scenes/dungeon/procedural/rooms/twin_court_crypt.tscn",
+      "map": "res://levels/trenchbroom/maps/twin_court_crypt.map"
     },
     {
       "bounds": {
