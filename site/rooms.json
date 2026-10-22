@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "room_count": 50,
-  "image_count": 150,
+  "room_count": 53,
+  "image_count": 159,
   "capture": {
     "size": [
       960,
@@ -11,6 +11,81 @@
     "geometry": "Saved room meshes, frozen gameplay, open door seals; roof/overhead hidden for top view only"
   },
   "rooms": [
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
+          -2.35,
+          -12.0
+        ],
+        "size": [
+          24.0,
+          5.85,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            36.425,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            0.575,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            0.3,
+            10.0
+          ],
+          "file": "interior-1.webp",
+          "label": "View 0",
+          "target": [
+            0.0,
+            -0.6,
+            -3.0
+          ]
+        },
+        {
+          "eye": [
+            7.0,
+            0.3,
+            7.0
+          ],
+          "file": "interior-2.webp",
+          "label": "View 1",
+          "target": [
+            -3.0,
+            -0.5,
+            -3.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 3,
+        "removed_roof_triangles": 0
+      },
+      "doors": 1,
+      "id": "anubis_trial",
+      "source_hash": "4a64ed10f78a43d7ffe962d632553b2aff745d935f28b993dc6b45383872bdfc",
+      "image_hashes": {
+        "top.webp": "da2d16a5e5d12b4f8e832b1e9676da6439724dfe0c1557a3335c5c30b51b7190",
+        "interior-1.webp": "09557689d027fda16ac2d24dcff462c5d3304bae75fe3d106dda7ab5c26afdf8",
+        "interior-2.webp": "6471ada320d66d514b06f54eea2260b591c899bb505a60d98f88c6a7e468875a"
+      },
+      "name": "Anubis Trial",
+      "kind": "Room",
+      "category": "treasure",
+      "scene": "res://scenes/dungeon/procedural/rooms/anubis_trial.tscn",
+      "map": "res://levels/trenchbroom/maps/anubis_trial.map"
+    },
     {
       "bounds": {
         "origin": [
@@ -1439,6 +1514,81 @@
     {
       "bounds": {
         "origin": [
+          -8.0,
+          -6.4,
+          -12.0
+        ],
+        "size": [
+          16.0,
+          9.9,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            38.45,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -1.45,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            0.3,
+            10.0
+          ],
+          "file": "interior-1.webp",
+          "label": "View 0",
+          "target": [
+            0.0,
+            -0.6,
+            -3.0
+          ]
+        },
+        {
+          "eye": [
+            7.0,
+            0.3,
+            5.0
+          ],
+          "file": "interior-2.webp",
+          "label": "View 1",
+          "target": [
+            -3.0,
+            -0.5,
+            -3.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 4,
+        "removed_roof_triangles": 0
+      },
+      "doors": 1,
+      "id": "judgment_path",
+      "source_hash": "66e456fae91c33a0c9493534c17cfe622d90aa07d503207444f6be1185e71eeb",
+      "image_hashes": {
+        "top.webp": "948e27c007b5a1443761ad39ab29d88e9fa6bf9473c8836628a710e4e7025937",
+        "interior-1.webp": "84ac6a8eae201d7afc51080e41a820651040d90c0cf90fa768ccf982db9de8bc",
+        "interior-2.webp": "0e2603e566b279da6cffb1cb9f7c9d493197694fb5c38a1ef206814150f75570"
+      },
+      "name": "Judgment Path",
+      "kind": "Room",
+      "category": "treasure",
+      "scene": "res://scenes/dungeon/procedural/rooms/judgment_path.tscn",
+      "map": "res://levels/trenchbroom/maps/judgment_path.map"
+    },
+    {
+      "bounds": {
+        "origin": [
           -4.0,
           -2.3,
           -4.0
@@ -2860,6 +3010,81 @@
       "category": "standard",
       "scene": "res://scenes/dungeon/procedural/rooms/split_room.tscn",
       "map": "res://levels/trenchbroom/maps/migrated/split_room.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -8.0,
+          -2.35,
+          -12.0
+        ],
+        "size": [
+          16.0,
+          5.85,
+          24.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            36.425,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            0.575,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            0.3,
+            10.0
+          ],
+          "file": "interior-1.webp",
+          "label": "View 0",
+          "target": [
+            0.0,
+            -0.6,
+            -3.0
+          ]
+        },
+        {
+          "eye": [
+            7.0,
+            0.3,
+            5.0
+          ],
+          "file": "interior-2.webp",
+          "label": "View 1",
+          "target": [
+            -3.0,
+            -0.5,
+            -3.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 6,
+        "removed_roof_triangles": 0
+      },
+      "doors": 1,
+      "id": "sun_shadow",
+      "source_hash": "2376df0d05986f65fe42b30682f7ea70e659ad64e0f28d919459ced0a08416c0",
+      "image_hashes": {
+        "top.webp": "f2fd374d09114ca3bfc81dacd313db9f42b6716e12b67e08f950d0f94c533211",
+        "interior-1.webp": "ea98accdd4915d9cf6286ec3032286402dcfa09655f1ce3ec7bbbbdaea6ce228",
+        "interior-2.webp": "4a99512d2beec1e32daf20b932816adf59519d0864847f11e5e06bb10ebaf0f4"
+      },
+      "name": "Sun Shadow",
+      "kind": "Room",
+      "category": "treasure",
+      "scene": "res://scenes/dungeon/procedural/rooms/sun_shadow.tscn",
+      "map": "res://levels/trenchbroom/maps/sun_shadow.map"
     },
     {
       "bounds": {
