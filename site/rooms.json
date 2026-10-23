@@ -15,12 +15,12 @@
       "bounds": {
         "origin": [
           -12.0,
-          -2.35,
+          -4.0,
           -12.0
         ],
         "size": [
           24.0,
-          5.85,
+          7.6,
           24.0
         ]
       },
@@ -28,57 +28,57 @@
         {
           "eye": [
             0.0,
-            36.425,
+            37.4,
             0.0
           ],
           "file": "top.webp",
           "label": "Top down · roof removed",
           "target": [
             0.0,
-            0.575,
+            -0.2,
             0.0
           ]
         },
         {
           "eye": [
             0.0,
-            0.3,
-            10.0
+            0.05,
+            10.8
           ],
           "file": "interior-1.webp",
           "label": "View 0",
           "target": [
             0.0,
-            -0.6,
+            0.2,
             -3.0
           ]
         },
         {
           "eye": [
             7.0,
-            0.3,
+            0.15,
             7.0
           ],
           "file": "interior-2.webp",
           "label": "View 1",
           "target": [
-            -3.0,
-            -0.5,
+            -2.0,
+            0.0,
             -3.0
           ]
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 3,
+        "hidden_overhead_nodes": 23,
         "removed_roof_triangles": 0
       },
       "doors": 1,
       "id": "anubis_trial",
-      "source_hash": "4a64ed10f78a43d7ffe962d632553b2aff745d935f28b993dc6b45383872bdfc",
+      "source_hash": "80fb0df9c1095f9f45394fa619b7af3a5e234f5792cbf94ffc70518b722e974d",
       "image_hashes": {
-        "top.webp": "da2d16a5e5d12b4f8e832b1e9676da6439724dfe0c1557a3335c5c30b51b7190",
-        "interior-1.webp": "09557689d027fda16ac2d24dcff462c5d3304bae75fe3d106dda7ab5c26afdf8",
-        "interior-2.webp": "6471ada320d66d514b06f54eea2260b591c899bb505a60d98f88c6a7e468875a"
+        "top.webp": "e730cc75fa0867b52e2b98ab683cb7a882d24eaa871731f8515c5225ff72ecc9",
+        "interior-1.webp": "5ae3d16cf62f211005cdcde03ea2a9c5b7993431bdcc8f7f8d1636611cb2e336",
+        "interior-2.webp": "51e68d9312b3249d316962c266228cc80eb1b54953e5fe469b0e39c539c791cf"
       },
       "name": "Anubis Trial",
       "kind": "Room",
@@ -1520,7 +1520,7 @@
         ],
         "size": [
           16.0,
-          9.9,
+          10.0,
           24.0
         ]
       },
@@ -1528,57 +1528,57 @@
         {
           "eye": [
             0.0,
-            38.45,
+            38.6,
             0.0
           ],
           "file": "top.webp",
           "label": "Top down · roof removed",
           "target": [
             0.0,
-            -1.45,
+            -1.4,
             0.0
           ]
         },
         {
           "eye": [
             0.0,
-            0.3,
-            10.0
+            0.05,
+            10.8
           ],
           "file": "interior-1.webp",
           "label": "View 0",
           "target": [
             0.0,
-            -0.6,
+            0.2,
             -3.0
           ]
         },
         {
           "eye": [
-            7.0,
-            0.3,
+            6.0,
+            0.15,
             5.0
           ],
           "file": "interior-2.webp",
           "label": "View 1",
           "target": [
-            -3.0,
-            -0.5,
+            -2.0,
+            0.0,
             -3.0
           ]
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 4,
+        "hidden_overhead_nodes": 17,
         "removed_roof_triangles": 0
       },
       "doors": 1,
       "id": "judgment_path",
-      "source_hash": "66e456fae91c33a0c9493534c17cfe622d90aa07d503207444f6be1185e71eeb",
+      "source_hash": "53c6822a5f0f975921e2395528aa9e8af5427e0e68da0948c9680c83a932d4b1",
       "image_hashes": {
-        "top.webp": "948e27c007b5a1443761ad39ab29d88e9fa6bf9473c8836628a710e4e7025937",
-        "interior-1.webp": "84ac6a8eae201d7afc51080e41a820651040d90c0cf90fa768ccf982db9de8bc",
-        "interior-2.webp": "0e2603e566b279da6cffb1cb9f7c9d493197694fb5c38a1ef206814150f75570"
+        "top.webp": "a457d67ed4f7bf5e0815bdd347a72630fe762788110657f0a74316c753040782",
+        "interior-1.webp": "a9f7834e2538ae6fd7c0cbc1b36c191abb4afa86e30663f98c7e53d41a8f23b9",
+        "interior-2.webp": "6fccf5dffa2c42711b3f34a1da17616c4d13871f7641d0014aa9ccc12148dc73"
       },
       "name": "Judgment Path",
       "kind": "Room",
@@ -3015,12 +3015,12 @@
       "bounds": {
         "origin": [
           -8.0,
-          -2.35,
+          -4.0,
           -12.0
         ],
         "size": [
           16.0,
-          5.85,
+          7.6,
           24.0
         ]
       },
@@ -3028,57 +3028,57 @@
         {
           "eye": [
             0.0,
-            36.425,
+            37.4,
             0.0
           ],
           "file": "top.webp",
           "label": "Top down · roof removed",
           "target": [
             0.0,
-            0.575,
+            -0.2,
             0.0
           ]
         },
         {
           "eye": [
             0.0,
-            0.3,
-            10.0
+            0.05,
+            10.8
           ],
           "file": "interior-1.webp",
           "label": "View 0",
           "target": [
             0.0,
-            -0.6,
+            0.2,
             -3.0
           ]
         },
         {
           "eye": [
-            7.0,
-            0.3,
-            5.0
+            -2.667,
+            -0.45,
+            -4.0
           ],
           "file": "interior-2.webp",
-          "label": "View 1",
+          "label": "Interior",
           "target": [
-            -3.0,
-            -0.5,
-            -3.0
+            0.0,
+            -0.7,
+            0.0
           ]
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 6,
+        "hidden_overhead_nodes": 22,
         "removed_roof_triangles": 0
       },
       "doors": 1,
       "id": "sun_shadow",
-      "source_hash": "2376df0d05986f65fe42b30682f7ea70e659ad64e0f28d919459ced0a08416c0",
+      "source_hash": "52bd8d1c87e7bea282ddf5ba77e43f56127ba52a2a3bab5f455f94107d9814f9",
       "image_hashes": {
-        "top.webp": "f2fd374d09114ca3bfc81dacd313db9f42b6716e12b67e08f950d0f94c533211",
-        "interior-1.webp": "ea98accdd4915d9cf6286ec3032286402dcfa09655f1ce3ec7bbbbdaea6ce228",
-        "interior-2.webp": "4a99512d2beec1e32daf20b932816adf59519d0864847f11e5e06bb10ebaf0f4"
+        "top.webp": "d16c65ac819a99689c7426c3dee042cee2909b672c335b32d15d42c1e5969d70",
+        "interior-1.webp": "b0aaf2d2680f3b6998cd6dc0902db90d4dcae88038be135d4a58d492fdf3b28c",
+        "interior-2.webp": "76df8a9806a9ca6a2259a147ed31d4554432475d2a9c4c5c303a70c71f98c844"
       },
       "name": "Sun Shadow",
       "kind": "Room",
