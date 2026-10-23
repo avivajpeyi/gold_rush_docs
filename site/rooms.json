@@ -74,11 +74,11 @@
       },
       "doors": 1,
       "id": "anubis_trial",
-      "source_hash": "43b38418b5d2ebdb1fbedbf4129ca3c52e4fc572e82486e2d29dc0e117b17d5b",
+      "source_hash": "2c97f7a47e4abd8a6a3d600b962f1e48932714174b61b4d31a064f7dded8aac0",
       "image_hashes": {
-        "top.webp": "e730cc75fa0867b52e2b98ab683cb7a882d24eaa871731f8515c5225ff72ecc9",
-        "interior-1.webp": "5ae3d16cf62f211005cdcde03ea2a9c5b7993431bdcc8f7f8d1636611cb2e336",
-        "interior-2.webp": "51e68d9312b3249d316962c266228cc80eb1b54953e5fe469b0e39c539c791cf"
+        "top.webp": "c2112c4860e985421e93a64101edb6371c0753a1bd288525359c6c1cfa23f9d5",
+        "interior-1.webp": "563e60bd9908f01db9799de807ba1b69255977c6440d373846ab696f7086fc31",
+        "interior-2.webp": "0fd483f01e28732a33e0e09b83bde09c37e9cc6a20f2b2eecdbb9e5eb23a8574"
       },
       "name": "Anubis Trial",
       "kind": "Room",
@@ -1574,11 +1574,11 @@
       },
       "doors": 1,
       "id": "judgment_path",
-      "source_hash": "cab28480c40f8aac8007543181dc3ec555e0a728e9dd4b025d6ce3afc8e5f076",
+      "source_hash": "5c3a73b49795cf9dccb260928e8830c3e105fb736f0838641c684b276f02c662",
       "image_hashes": {
-        "top.webp": "a457d67ed4f7bf5e0815bdd347a72630fe762788110657f0a74316c753040782",
-        "interior-1.webp": "a9f7834e2538ae6fd7c0cbc1b36c191abb4afa86e30663f98c7e53d41a8f23b9",
-        "interior-2.webp": "6fccf5dffa2c42711b3f34a1da17616c4d13871f7641d0014aa9ccc12148dc73"
+        "top.webp": "b414e108d01d463316fd8db3190015dcaabdb9cda46968b11dc49e29db04fc25",
+        "interior-1.webp": "b082b1f28f1d81236dba19164ef553a053d3b460165e181b3ee46368e3426086",
+        "interior-2.webp": "f0e95d30e925606fcb1e965e6edbe7aaf7619c1acacc7c72ca6dc2276d0d6ff7"
       },
       "name": "Judgment Path",
       "kind": "Room",
