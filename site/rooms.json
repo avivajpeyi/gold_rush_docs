@@ -74,7 +74,7 @@
       },
       "doors": 1,
       "id": "anubis_trial",
-      "source_hash": "80fb0df9c1095f9f45394fa619b7af3a5e234f5792cbf94ffc70518b722e974d",
+      "source_hash": "43b38418b5d2ebdb1fbedbf4129ca3c52e4fc572e82486e2d29dc0e117b17d5b",
       "image_hashes": {
         "top.webp": "e730cc75fa0867b52e2b98ab683cb7a882d24eaa871731f8515c5225ff72ecc9",
         "interior-1.webp": "5ae3d16cf62f211005cdcde03ea2a9c5b7993431bdcc8f7f8d1636611cb2e336",
@@ -1574,7 +1574,7 @@
       },
       "doors": 1,
       "id": "judgment_path",
-      "source_hash": "53c6822a5f0f975921e2395528aa9e8af5427e0e68da0948c9680c83a932d4b1",
+      "source_hash": "cab28480c40f8aac8007543181dc3ec555e0a728e9dd4b025d6ce3afc8e5f076",
       "image_hashes": {
         "top.webp": "a457d67ed4f7bf5e0815bdd347a72630fe762788110657f0a74316c753040782",
         "interior-1.webp": "a9f7834e2538ae6fd7c0cbc1b36c191abb4afa86e30663f98c7e53d41a8f23b9",
@@ -3074,7 +3074,7 @@
       },
       "doors": 1,
       "id": "sun_shadow",
-      "source_hash": "52bd8d1c87e7bea282ddf5ba77e43f56127ba52a2a3bab5f455f94107d9814f9",
+      "source_hash": "c2c1d9c5b17182215c8720a3d141de3439a88d41fa461a5ed82bce4ea1497170",
       "image_hashes": {
         "top.webp": "d16c65ac819a99689c7426c3dee042cee2909b672c335b32d15d42c1e5969d70",
         "interior-1.webp": "b0aaf2d2680f3b6998cd6dc0902db90d4dcae88038be135d4a58d492fdf3b28c",
