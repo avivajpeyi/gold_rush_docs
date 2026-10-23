@@ -1574,11 +1574,11 @@
       },
       "doors": 1,
       "id": "judgment_path",
-      "source_hash": "5c3a73b49795cf9dccb260928e8830c3e105fb736f0838641c684b276f02c662",
+      "source_hash": "f6e72fd885698c81ccf1be9302de508db4d9b6900828a51ca51f64d5de61d8f8",
       "image_hashes": {
-        "top.webp": "b414e108d01d463316fd8db3190015dcaabdb9cda46968b11dc49e29db04fc25",
-        "interior-1.webp": "b082b1f28f1d81236dba19164ef553a053d3b460165e181b3ee46368e3426086",
-        "interior-2.webp": "f0e95d30e925606fcb1e965e6edbe7aaf7619c1acacc7c72ca6dc2276d0d6ff7"
+        "top.webp": "41a50d5f1087a603e55550803ed6dbe3e43102c46e7d37335124c98b3c22a9a6",
+        "interior-1.webp": "fec540ba9af16d433d96fe15590c5f62b9eeaf4f6b980268e15c4540e20de074",
+        "interior-2.webp": "d65b716f16844c9c4a01f64c4e6faaf36d746cc39f494e6c568520676ab20ab6"
       },
       "name": "Judgment Path",
       "kind": "Room",
