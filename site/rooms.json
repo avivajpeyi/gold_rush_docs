@@ -4199,11 +4199,11 @@
       },
       "doors": 1,
       "id": "sun_shadow",
-      "source_hash": "44eb52cc1b0e35f396b395680c6ab9dcaac2a62c1a8a0364de5d61e44b80ab08",
+      "source_hash": "1972dfd3193b52521bd89411ceb340d872992570ff7285b910b4d97b9939efcf",
       "image_hashes": {
-        "top.webp": "22e9d23f27dd9c2d4a890ea35118248d6ed3de657278a86b7a476ae2269b1e15",
-        "interior-1.webp": "27af0867a14fff8ae3e638bc47acc9a404cf6ab1c1d57152f4bc293628f0f0cc",
-        "interior-2.webp": "a5ac5b072fed08516a5c01d086da0f8461b896183b190bedb86d4a1a5dbcdf99"
+        "top.webp": "52e265f511891c653a57e9ec0fb0701d9bffbf82f987e5d34666d51cff5fa931",
+        "interior-1.webp": "868ea49ff971e24568d3ef67358735917ccc32d8be047f1b4c30b728c5c90c4d",
+        "interior-2.webp": "76693e97e3806e95390838c644f0caf91f6161e8c8cb3ca2467269319ab7d5b1"
       },
       "name": "Sun Shadow",
       "kind": "Room",
