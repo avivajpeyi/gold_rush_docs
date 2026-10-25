@@ -1499,11 +1499,11 @@
       },
       "doors": 2,
       "id": "fuel_shrine",
-      "source_hash": "ff33f9177580c72ca74660d778dcf564e59e828aa2e4b1fcb5a1c276938fcb16",
+      "source_hash": "0c513edcc891c90c2b197c0956b3eeb3563e0c5c812456b1a0684a0276176a45",
       "image_hashes": {
-        "top.webp": "86721af74b694ecdafb9f7c773eecdfb104cd6ed249886971fbb92f34651df88",
-        "interior-1.webp": "8983fc33479755c952a7ecb6b224121a301cb80a15de12ab44944613cff18cdb",
-        "interior-2.webp": "1801d124d6d9f0d1b437ac9c55ef61583ac8e22b33c67b56c652c0b81ee87f71"
+        "top.webp": "b8cb824a1b220adb8338bfdd79058d80ab7387ebfc72a413b71bf30f53ad0a46",
+        "interior-1.webp": "3066984caab7c3529f0249af5514de22c6872e668d04efbc9ddc76ca3beeced7",
+        "interior-2.webp": "b4f458cc7c12ceef2988653252ab99b9ae0fe8f1ffa533d068367c06f4e551e1"
       },
       "name": "Fuel Shrine",
       "kind": "Room",
