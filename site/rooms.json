@@ -1569,16 +1569,16 @@
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 21,
+        "hidden_overhead_nodes": 22,
         "removed_roof_triangles": 0
       },
       "doors": 3,
       "id": "grand_hypostyle_hall",
-      "source_hash": "1d0524e7826ef78fe3a3304ff88a1145a59cb13d5de419e72b095fa1bda96923",
+      "source_hash": "2214133a668849addec2a1df7502f5002f90113a77769443388398c3f458e497",
       "image_hashes": {
-        "top.webp": "fbc41f488a1da4dbb6daca120f70001d5634fa6bcb7f22937a8a3529a2cf4274",
-        "interior-1.webp": "40e48709254a44a1b2808b9e54ed0f0c754af77d909a40800efa4546a9d63ebd",
-        "interior-2.webp": "e11126045816676b64c42cae257e84262cdfd7d348e82c1672e5dcd8ba796acb"
+        "top.webp": "ed3fe706ce2f866db5d8fe7a25cfa29f44c4a9d1fb1d807b6e80496ba1a4d3f7",
+        "interior-1.webp": "03a0ced2a605e2227d8757bcc00bd7674f6915795c62a576dc3aee0b361a2511",
+        "interior-2.webp": "ec9698206a2694c99bd0f0fcaf6682cda780089e23b56ba31b12fdf409ce7b5b"
       },
       "name": "Grand Hypostyle Hall",
       "kind": "Room",
