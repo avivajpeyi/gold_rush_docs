@@ -2080,30 +2080,30 @@
         },
         {
           "eye": [
-            0.0,
-            -0.45,
-            18.6
+            11.6,
+            2.55,
+            5.8
           ],
           "file": "interior-2.webp",
-          "label": "From rear entrance",
+          "label": "Carved jackal stone seal in its sandstone portal",
           "target": [
-            0.0,
-            1.8,
-            10.6
+            13.0,
+            2.8,
+            9.5
           ]
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 5,
+        "hidden_overhead_nodes": 8,
         "removed_roof_triangles": 0
       },
       "doors": 4,
       "id": "jackals_jaw",
-      "source_hash": "579e1aab09fd59a63418f378ddd2cbe35c9b3f42bc68e7044f48c7e3f152e2fa",
+      "source_hash": "1bbf2736e034fbe6e61a5e96c32ed691b5c6ce6eb41e71b24ad20c9c06b89778",
       "image_hashes": {
-        "top.webp": "7fb445b6a2ad9e48ba0efd015e5190242eb0bbfea9434df22bb451be99878c45",
-        "interior-1.webp": "f04ed0a048baa4efb7beca36fc2e519e3f7cd4d964f329377326ce4ce3491d58",
-        "interior-2.webp": "cf6c820cfeca2ceb9b136717a86268f3c2e18bad415c2405349d174892ba7d1e"
+        "top.webp": "35193680c1763d9bd9c381a571ef7a577dc3ee12bbe66e989e4e1dff27e2c141",
+        "interior-1.webp": "2fa8c4761c4113cf41345c515ba862cb46fb34a5b5529cc1efc2da72187dcd8f",
+        "interior-2.webp": "3b79c8782cf84035f87cf27d8d1ad7e5c460be72c8746a49b8a236e525312d0e"
       },
       "name": "Jackals Jaw",
       "kind": "Room",
