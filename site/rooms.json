@@ -3824,11 +3824,11 @@
       },
       "doors": 2,
       "id": "scarab_switchback",
-      "source_hash": "5d01d1c067db91b7822bd5f5f4621d1955933195f9e2e4d7ef1b969ff8b6708e",
+      "source_hash": "68328a2015e9c512e4c6d2d3bfc676a4d749bbc753902772a430f81c4b815443",
       "image_hashes": {
-        "top.webp": "d5f74ccff28a234316ccbe155285cfd69a192cc25c22f4252e480389fe140e10",
-        "interior-1.webp": "13e09896a01858aa0331fea0079e11d055c007323fb195c3602906b6493e3c69",
-        "interior-2.webp": "74e9a27d34749d54a648551d25f4393c11524e8f52fd854c8e2c7508cec490e2"
+        "top.webp": "710da91d4b5826ad893972cf5a277afed98f4da65032448af6625c205a426579",
+        "interior-1.webp": "02fdcaabee6372804cf9df93492df99ccea1b6547c1a18a5dbfa8f06bcb88661",
+        "interior-2.webp": "f9a233c04711ed017f4a57597947a472955493ddd6f5e6f1b1e0aba5b76a00df"
       },
       "name": "Scarab Switchback",
       "kind": "Room",
