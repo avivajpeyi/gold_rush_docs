@@ -1215,12 +1215,12 @@
       "bounds": {
         "origin": [
           -12.0,
-          -4.3,
+          -8.6,
           -12.0
         ],
         "size": [
           24.0,
-          7.8,
+          12.1,
           24.0
         ]
       },
@@ -1228,14 +1228,14 @@
         {
           "eye": [
             0.0,
-            37.4,
+            39.55,
             0.0
           ],
           "file": "top.webp",
           "label": "Top down · roof removed",
           "target": [
             0.0,
-            -0.4,
+            -2.55,
             0.0
           ]
         },
@@ -1274,11 +1274,11 @@
       },
       "doors": 2,
       "id": "dogleg_climb",
-      "source_hash": "f604647f558a56715525b3fc54a941a04d59e86ab04392c79f89c6fb69879f4d",
+      "source_hash": "60eb149e31a8b1f7b7fe7d4ef9ee9391be265b79195186cd747b39df5dd7fe3a",
       "image_hashes": {
-        "top.webp": "c505b17bc4f992e6f8ce2ee923a11169f977b3b102bc66a3bba9c69cb3fe03c9",
-        "interior-1.webp": "d299700c96565b66f86724102f0fbbfcaa2e4ab3ad751355509adeb4a676a338",
-        "interior-2.webp": "69eeeb50b94b9a3762801855c9a24849e3941ddb7191988085c6f63fd313a664"
+        "top.webp": "10968f5cb1824407f142b711931f55eacf23a2c9c8bef5602fa384b80cce09df",
+        "interior-1.webp": "48384381e85e63367beb79389592cb9e83e4cd8db75a88b0263c0a1f98211241",
+        "interior-2.webp": "75e968acd32b600b72e95ee9918189ec69f89f81c1ba6a956c242358dccba2e7"
       },
       "name": "Dogleg Climb",
       "kind": "Room",
