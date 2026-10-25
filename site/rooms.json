@@ -3749,11 +3749,11 @@
       },
       "doors": 4,
       "id": "pillar_hall_ring",
-      "source_hash": "b3dc5544d0a2096e7c54c8bc21d2cabff0793635582d242348336f0c968357b8",
+      "source_hash": "23717176ed504e8dfa8c2fe18c7fa02b6788fe812332f13f5c03ff317f2b0788",
       "image_hashes": {
-        "top.webp": "5e05e78efcfcf5c382e12aee601ed9982b86531526d995ef4295bc54ed6e04f6",
-        "interior-1.webp": "d1a83b7d74113c0399179c3ab99bb4bb3ebb5035e78a4c96017bb07a511b550e",
-        "interior-2.webp": "db77d01319a94ce061efe39a21b09dec62d13b0f4111b1792960172b402b1c4c"
+        "top.webp": "8922b3488296fd597e1707e84d58b3eb5e89fb128051ba9f2a1b91673bc331e9",
+        "interior-1.webp": "1bd5076bb278586c612925a1bf1c9315f1ba90b78b3a61a2506c4c4f25a5f3c0",
+        "interior-2.webp": "4e13c80e81f3678c2366bc038378f8cfe0bec27ab3ff3a5a3e6fc673e8736d89"
       },
       "name": "Scarab Chasm",
       "kind": "Room",
