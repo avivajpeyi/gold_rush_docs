@@ -3990,81 +3990,6 @@
       "bounds": {
         "origin": [
           -12.0,
-          -2.3,
-          -12.0
-        ],
-        "size": [
-          24.0,
-          5.0,
-          23.6
-        ]
-      },
-      "captures": [
-        {
-          "eye": [
-            0.0,
-            35.2,
-            -0.2
-          ],
-          "file": "top.webp",
-          "label": "Top down · roof removed",
-          "target": [
-            0.0,
-            0.2,
-            -0.2
-          ]
-        },
-        {
-          "eye": [
-            0.0,
-            -0.35,
-            -10.7
-          ],
-          "file": "interior-1.webp",
-          "label": "Entry",
-          "target": [
-            7.0,
-            -1.5,
-            -5.0
-          ]
-        },
-        {
-          "eye": [
-            10.6,
-            -0.35,
-            0.0
-          ],
-          "file": "interior-2.webp",
-          "label": "Side Exit",
-          "target": [
-            0.0,
-            -1.5,
-            -7.4
-          ]
-        }
-      ],
-      "cutaway": {
-        "hidden_overhead_nodes": 4,
-        "removed_roof_triangles": 0
-      },
-      "doors": 3,
-      "id": "SpikeWheelChamber",
-      "source_hash": "ec7fef0e85565efbde4b2d426cba0d8df2e6b5a7ec40015a289c5a2968de14db",
-      "image_hashes": {
-        "top.webp": "7299f067433e63766f78ae214f088be4c6af018842e168b07052fa9608b50c98",
-        "interior-1.webp": "acaeebe151f693c6f1a7d6bb767fdbfcfdd5925c966baa5ce94e49d3906b17c7",
-        "interior-2.webp": "6942a0e8dc620b34a21e307ef4cebe84fcfd06f2334f2691433423cfb3f4dd23"
-      },
-      "name": "Spike Wheel Chamber",
-      "kind": "Room",
-      "category": "standard",
-      "scene": "res://scenes/dungeon/procedural/rooms/SpikeWheelChamber.tscn",
-      "map": "res://levels/trenchbroom/maps/spike_wheel_chamber.map"
-    },
-    {
-      "bounds": {
-        "origin": [
-          -12.0,
           -5.3,
           -12.0
         ],
@@ -5260,6 +5185,81 @@
       "category": "treasure",
       "scene": "res://scenes/dungeon/procedural/rooms/vault_room.tscn",
       "map": "res://levels/trenchbroom/maps/migrated/vault_room.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -12.0,
+          -2.3,
+          -12.0
+        ],
+        "size": [
+          24.0,
+          5.0,
+          23.6
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            35.2,
+            -0.2
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            0.2,
+            -0.2
+          ]
+        },
+        {
+          "eye": [
+            0.0,
+            -0.35,
+            -10.7
+          ],
+          "file": "interior-1.webp",
+          "label": "Entry",
+          "target": [
+            7.0,
+            -1.5,
+            -5.0
+          ]
+        },
+        {
+          "eye": [
+            10.6,
+            -0.35,
+            0.0
+          ],
+          "file": "interior-2.webp",
+          "label": "Side Exit",
+          "target": [
+            0.0,
+            -1.5,
+            -7.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 4,
+        "removed_roof_triangles": 0
+      },
+      "doors": 3,
+      "id": "SpikeWheelChamber",
+      "source_hash": "7db244768d843c3bfb1ffc5497d23f963fef1e7278cd11ca42e722a4b59c4b58",
+      "image_hashes": {
+        "top.webp": "220b0e98d1967ba5952f28b972ace9a40be79fdbcb064b281f531807a7b9d49d",
+        "interior-1.webp": "f2e2eeada4875fa25915a8b5f9603cf981ad03b4de5df886f3c3c824248bec6f",
+        "interior-2.webp": "ae6a72a500294068f7eacfce2fa64bc5e45b50f5404e3e6e4c543170e165eee4"
+      },
+      "name": "Wheel Chamber",
+      "kind": "Room",
+      "category": "standard",
+      "scene": "res://scenes/dungeon/procedural/rooms/SpikeWheelChamber.tscn",
+      "map": "res://levels/trenchbroom/maps/spike_wheel_chamber.map"
     }
   ]
 }
