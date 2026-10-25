@@ -4365,12 +4365,12 @@
       "bounds": {
         "origin": [
           -12.0,
-          -5.4,
+          -10.4,
           -12.0
         ],
         "size": [
           24.0,
-          11.14,
+          16.14,
           24.0
         ]
       },
@@ -4378,14 +4378,14 @@
         {
           "eye": [
             0.0,
-            41.31,
+            43.81,
             0.0
           ],
           "file": "top.webp",
           "label": "Top down · roof removed",
           "target": [
             0.0,
-            0.17,
+            -2.33,
             0.0
           ]
         },
@@ -4424,11 +4424,11 @@
       },
       "doors": 4,
       "id": "sunken_shrine",
-      "source_hash": "1d08e26eba1eefac53121d43953831639d3483e0efdf1b821232808ffc8435af",
+      "source_hash": "96505a4694006ad9563554e3bee763a90289376a80167d57ef1523e58a437c95",
       "image_hashes": {
-        "top.webp": "0176abf033d0b4e2b1ba36fa5a904c76e4a82fd9390cd777b9eb3247f4be8514",
-        "interior-1.webp": "16be73a650bd7a7bda38dbf0c3d810b729b5c616aa09bc8a2c3242033f200d58",
-        "interior-2.webp": "101b46810cb17327d9c37e7fb34cf537b1e46347efa1742789e9e35109b5728d"
+        "top.webp": "5eab925fb3f5cfdb7413c0151b7194567ad1ec33b0df4c511cf99cb305390939",
+        "interior-1.webp": "b6abbeee92c860ff3b3a14549c90fb47d56f483f5a97b1d3237213c5729529ee",
+        "interior-2.webp": "57ab75a0296b2e75d70c243ae86fa9041a4c529f835d7977d61141b64884acec"
       },
       "name": "Sunken Shrine",
       "kind": "Room",
