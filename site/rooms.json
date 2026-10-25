@@ -718,42 +718,42 @@
           "eye": [
             0.0,
             -0.45,
-            -10.6
+            -9.6
           ],
           "file": "interior-1.webp",
-          "label": "From F doorway",
+          "label": "Ceiling spike presses from the entrance",
           "target": [
             0.0,
-            -0.45,
-            13.4
+            0.55,
+            -5.4
           ]
         },
         {
           "eye": [
-            0.0,
-            -0.45,
-            10.6
+            -2.65,
+            -0.5,
+            -4.1
           ],
           "file": "interior-2.webp",
-          "label": "From B doorway",
+          "label": "Full-width spike press from the refuge bay",
           "target": [
             0.0,
-            -0.45,
-            -13.4
+            0.0,
+            -3.5
           ]
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 3,
+        "hidden_overhead_nodes": 8,
         "removed_roof_triangles": 0
       },
       "doors": 2,
       "id": "collapse_passage",
-      "source_hash": "c6bef7aa66646cd63c30e5013c23cd6407fbab4839fd6721cac12f80dddca031",
+      "source_hash": "60c5ee04276d673ca1ed5b64a035dc95174985e06e9a127a0f04074c57f6bf22",
       "image_hashes": {
-        "top.webp": "e1db516396cb97754cfe776df1e8bca1505f1d917026027e404a34a5fd88cc35",
-        "interior-1.webp": "0decb93f23574690a185319184671654e892b99707aedab06e8518f131320ff9",
-        "interior-2.webp": "f574eb909bd8912578d54ae638f98c251e39f3bc4bd82cc92c478eacb08e8513"
+        "top.webp": "0747b3c59778e73d574ca7a8f6447c87f4327eea07dc2eeec0c27c32d668e725",
+        "interior-1.webp": "bc70a3ee8f48244bae9f0f7f161feca29613440ca9b9907c5d888cfcc2c8acb1",
+        "interior-2.webp": "1f7594b559a5b13736b07666f0a93fa7d44dd8cde204b24de6986b567c3dafc0"
       },
       "name": "Collapse Passage",
       "kind": "Room",
