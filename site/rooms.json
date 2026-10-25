@@ -941,30 +941,30 @@
         },
         {
           "eye": [
-            0.0,
-            -0.45,
-            -9.8
+            3.0,
+            -0.35,
+            -10.5
           ],
           "file": "interior-1.webp",
-          "label": "Clear first firing lane and staggered cover",
+          "label": "Alternating dart rows and pylon cover",
           "target": [
-            4.0,
-            -0.1,
-            -3.0
+            0.0,
+            -0.35,
+            0.0
           ]
         },
         {
           "eye": [
-            6.0,
+            -3.8,
             -0.45,
-            -1.4
+            -3.9
           ],
           "file": "interior-2.webp",
-          "label": "Middle firing lane and opposite cover gap",
+          "label": "Six-slot pillar bank and receiving face",
           "target": [
-            -3.0,
-            -0.15,
-            3.0
+            -1.05,
+            -0.95,
+            -2.5
           ]
         }
       ],
@@ -974,11 +974,11 @@
       },
       "doors": 3,
       "id": "dart_court",
-      "source_hash": "d0da96f5a9b8bbe6db48e88a3809e2db32ce9f6f0570712f35f0a41aa9665059",
+      "source_hash": "b8cb90f85bc6c82e97306cac5ae089ac32bf9a7ce48c7f78b4508935a8edd67a",
       "image_hashes": {
-        "top.webp": "c8b0fa79c38b941b413945e6cc183020eb37365dc61fbe20d50e3f952e1c2b07",
-        "interior-1.webp": "9f77ef55e2ba19dd6b5a84a04398b4b252ee4f0a3cc2cc44368a8637c1dfec9d",
-        "interior-2.webp": "65867af30a6764d6a3995bc717229db660a19c87868b7d12c17a238793f97428"
+        "top.webp": "d2b9bb0f89cf952af0e926f432c0a14d2748642670138fd25a1ba1c9b6849ef3",
+        "interior-1.webp": "73af4dc06ff5b62577947ec3b597047c35b923579120f45b6cae2983446a47a7",
+        "interior-2.webp": "74299fb9779f87aa76c7008a58ed84419cbfb773a034cff62276ffd4ec80d980"
       },
       "name": "Dart Court",
       "kind": "Room",
