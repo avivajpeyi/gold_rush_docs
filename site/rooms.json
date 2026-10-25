@@ -3969,16 +3969,16 @@
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 12,
+        "hidden_overhead_nodes": 10,
         "removed_roof_triangles": 0
       },
       "doors": 3,
       "id": "spawn_room",
-      "source_hash": "bb1b7a79d4aea741655684fd8c6dd0d24fbf368e853bf786e9dd58c15e219eb8",
+      "source_hash": "5515d28a551d15e7d80a1bd45073f460a83acaa5060168b1f24974266db02af1",
       "image_hashes": {
-        "top.webp": "58a7083d0b4c64904d11ab977e99a9b964122ac88a8b7fcb6a83c1a9aee35027",
-        "interior-1.webp": "aa59f88969717b5ca80c47a615163ff39203da867db76c9db4065e8066367ad6",
-        "interior-2.webp": "96f14846a88e015dab4a454ce82cf633b6223251c3224e1a0c45a294a2147e3c"
+        "top.webp": "3ac2fc28ed13aee4f73875dfe4bbfba569fcfa3561bfe10240ae274124cbfc26",
+        "interior-1.webp": "64f6015edee9e03e6a90af5f9c781dc5eba1913fef6b157326ab15664f11d677",
+        "interior-2.webp": "e4297f9a57169f7b9b239dbddeeec95da332f0bb7e8cc2e5e2f64112382d9576"
       },
       "name": "Spawn Room",
       "kind": "Entrance",
