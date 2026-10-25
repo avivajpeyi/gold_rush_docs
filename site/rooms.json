@@ -3465,12 +3465,12 @@
       "bounds": {
         "origin": [
           -12.0,
-          -4.3,
+          -8.6,
           -12.0
         ],
         "size": [
           24.0,
-          7.8,
+          12.1,
           24.0
         ]
       },
@@ -3478,42 +3478,42 @@
         {
           "eye": [
             0.0,
-            37.4,
+            39.55,
             0.0
           ],
           "file": "top.webp",
           "label": "Top down · roof removed",
           "target": [
             0.0,
-            -0.4,
+            -2.55,
             0.0
           ]
         },
         {
           "eye": [
-            0.0,
-            -2.25,
-            -9.84
+            -6.0,
+            1.55,
+            8.8
           ],
           "file": "interior-1.webp",
-          "label": "View 0",
+          "label": "Raised procession ramp above the western pit",
           "target": [
-            0.0,
-            -1.0,
-            0.0
+            -4.5,
+            -2.0,
+            -1.0
           ]
         },
         {
           "eye": [
-            0.0,
-            1.75,
-            9.84
+            7.0,
+            -2.45,
+            -9.5
           ],
           "file": "interior-2.webp",
-          "label": "View 1",
+          "label": "Lower landing beside the eastern pit",
           "target": [
-            0.0,
-            -1.0,
+            4.0,
+            -2.0,
             0.0
           ]
         }
@@ -3524,11 +3524,11 @@
       },
       "doors": 2,
       "id": "rising_procession",
-      "source_hash": "bc7ebf9101b011345c63c38dd661aacc44e3695b31a97ebd227612d0340b45f1",
+      "source_hash": "c40691c39dc62ceaefbc46852abbf7d135d96a6e70785d72e6112d12e9ea8b40",
       "image_hashes": {
-        "top.webp": "5040068299a6a9a342ee44277f07458200813e57c207a80dcc68659e68b1151a",
-        "interior-1.webp": "44b2b8bb070632753b184c0f0094fd1dcc1a7684bf050438562a3785c1aa1a54",
-        "interior-2.webp": "7a729994c1fd6a369165ecbce12dd47dfa06b8f651895bb17e18182359894f97"
+        "top.webp": "11571430056bf5c2400052c1784660c008016b293ec3e2e7f435d2fce8d6380c",
+        "interior-1.webp": "b3149554732e3ad1499bc60b08632a1999636eda71de6edfbc103f4071125fbe",
+        "interior-2.webp": "3a815386455facfb44db8d04736f0e6b2c05b6a93ee8090e797bb37b91fbb5c4"
       },
       "name": "Rising Procession",
       "kind": "Room",
