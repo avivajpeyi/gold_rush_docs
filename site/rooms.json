@@ -1617,43 +1617,43 @@
         {
           "eye": [
             0.0,
-            -0.35,
-            -14.5
+            -0.45,
+            -14.6
           ],
           "file": "interior-1.webp",
-          "label": "Entry",
+          "label": "Crescent axes and clear sandstone floor",
           "target": [
             0.0,
-            1.0,
-            -3.0
+            -0.45,
+            20.6
           ]
         },
         {
           "eye": [
-            0.0,
-            -0.35,
-            14.5
+            2.4,
+            -0.3,
+            -14.0
           ],
           "file": "interior-2.webp",
-          "label": "Return",
+          "label": "Forged axe and fixed ceiling hinge",
           "target": [
             0.0,
-            1.0,
-            3.0
+            1.8,
+            -10.0
           ]
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 3,
+        "hidden_overhead_nodes": 7,
         "removed_roof_triangles": 0
       },
       "doors": 2,
       "id": "hall_of_pendulums",
-      "source_hash": "00d11f809b91bc559ccfdb3a793af8855f0f60ef21727d9090c7d7f398cde3f1",
+      "source_hash": "279ee5d0bd2c2034923279316119bd07022db174fbb5ee0682ad66d9033dd7fd",
       "image_hashes": {
-        "top.webp": "9088811ac3b4787985cde65fd5f5c42f121e0d260dde02807b367aefdc4c36d7",
-        "interior-1.webp": "ce1c96ccf7582f5b641b9dd7740e589a49b0d012fd06dd3d5ccc48e8e71dc9d0",
-        "interior-2.webp": "a9f8c184149d9956289d036252ec0cf6efade2ceda6b4b5a08b358baabc952f9"
+        "top.webp": "bf65b378f13a0a348748989a574b40ccd39ea3a8d522eedf46412cbb3e59951d",
+        "interior-1.webp": "ee55a386410c40881a61c0d2019df289ea3e29321e5a6f4e9f9d85916b4b9b5f",
+        "interior-2.webp": "bd61327003671fb738bdb2c9f81980e0e14a51a85c2045ded2ea2c299699bb04"
       },
       "name": "Hall Of Pendulums",
       "kind": "Room",
