@@ -942,29 +942,29 @@
         {
           "eye": [
             0.0,
-            -0.35,
-            -10.6
+            -0.45,
+            -9.8
           ],
           "file": "interior-1.webp",
-          "label": "Entry",
+          "label": "Clear first firing lane and staggered cover",
           "target": [
-            -5.0,
-            1.0,
-            -6.0
+            4.0,
+            -0.1,
+            -3.0
           ]
         },
         {
           "eye": [
-            0.0,
-            -0.35,
-            10.6
+            6.0,
+            -0.45,
+            -1.4
           ],
           "file": "interior-2.webp",
-          "label": "Return",
+          "label": "Middle firing lane and opposite cover gap",
           "target": [
-            3.0,
-            1.0,
-            6.0
+            -3.0,
+            -0.15,
+            3.0
           ]
         }
       ],
@@ -974,11 +974,11 @@
       },
       "doors": 3,
       "id": "dart_court",
-      "source_hash": "c202c3920bfd4e3146ea6a78711c84e54c9d403efc14213e4f570e8b7f3061b3",
+      "source_hash": "d0da96f5a9b8bbe6db48e88a3809e2db32ce9f6f0570712f35f0a41aa9665059",
       "image_hashes": {
-        "top.webp": "cf3fd9aa781cbbafddba59864729fa2533a1b9d4428e26bf8babf9be62f3451b",
-        "interior-1.webp": "a8d6496dcf11ac496db9a353f920cdbdcfe1172d1b1bad265f04a7e4da546004",
-        "interior-2.webp": "25296687bbb50e5140603388c7d962e2b4b836ed4668e45859beb48ca4f1443b"
+        "top.webp": "c8b0fa79c38b941b413945e6cc183020eb37365dc61fbe20d50e3f952e1c2b07",
+        "interior-1.webp": "9f77ef55e2ba19dd6b5a84a04398b4b252ee4f0a3cc2cc44368a8637c1dfec9d",
+        "interior-2.webp": "65867af30a6764d6a3995bc717229db660a19c87868b7d12c17a238793f97428"
       },
       "name": "Dart Court",
       "kind": "Room",
