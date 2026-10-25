@@ -1664,6 +1664,81 @@
     {
       "bounds": {
         "origin": [
+          -8.0,
+          -2.3,
+          -8.0
+        ],
+        "size": [
+          16.0,
+          4.14,
+          16.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            5.15,
+            -0.45,
+            -4.3
+          ],
+          "file": "interior-1.webp",
+          "label": "First jaw from its safe waiting bay",
+          "target": [
+            5.15,
+            0.0,
+            -2.1
+          ]
+        },
+        {
+          "eye": [
+            3.5,
+            -0.45,
+            0.0
+          ],
+          "file": "interior-2.webp",
+          "label": "Zigzag across the middle refuge toward the second jaw",
+          "target": [
+            -5.15,
+            -0.1,
+            2.3
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 13,
+        "removed_roof_triangles": 0
+      },
+      "doors": 4,
+      "id": "pillar_hall_baffles",
+      "source_hash": "4ef11e5c61088ea7cb74297aa15125723b5e3a6f72ce8614dce9d96630909c1d",
+      "image_hashes": {
+        "top.webp": "620a15a80bb416b065f066dcb28756f9d1e2452190767da0f0d1e30a27e9882f",
+        "interior-1.webp": "65489f6f0ed92ed60b247b6f4c78afb7d55da7aebe64bb16c9cb4cdaa56cae45",
+        "interior-2.webp": "7370e39d213e2dbf0db0fce8496bae5c1e498ec0440bd070168c543775de3dbe"
+      },
+      "name": "Hall of Two Jaws",
+      "kind": "Room",
+      "category": "standard",
+      "scene": "res://scenes/dungeon/procedural/rooms/pillar_hall_baffles.tscn",
+      "map": "res://levels/trenchbroom/maps/pillar_hall_baffles.map"
+    },
+    {
+      "bounds": {
+        "origin": [
           -28.0,
           -7.0,
           -24.0
@@ -3014,156 +3089,6 @@
     {
       "bounds": {
         "origin": [
-          -8.0,
-          -2.3,
-          -8.0
-        ],
-        "size": [
-          16.0,
-          4.14,
-          16.0
-        ]
-      },
-      "captures": [
-        {
-          "eye": [
-            0.0,
-            33.91,
-            0.0
-          ],
-          "file": "top.webp",
-          "label": "Top down · roof removed",
-          "target": [
-            0.0,
-            -0.23,
-            0.0
-          ]
-        },
-        {
-          "eye": [
-            -4.0,
-            -0.45,
-            -6.6
-          ],
-          "file": "interior-1.webp",
-          "label": "From F doorway",
-          "target": [
-            -4.0,
-            -0.45,
-            9.4
-          ]
-        },
-        {
-          "eye": [
-            4.0,
-            -0.45,
-            6.6
-          ],
-          "file": "interior-2.webp",
-          "label": "From B doorway",
-          "target": [
-            4.0,
-            -0.45,
-            -9.4
-          ]
-        }
-      ],
-      "cutaway": {
-        "hidden_overhead_nodes": 5,
-        "removed_roof_triangles": 0
-      },
-      "doors": 4,
-      "id": "pillar_hall_baffles",
-      "source_hash": "83b4e6a75b892d7d2fe7520d923894fcc3006ef7f1c776641160098c78642c4b",
-      "image_hashes": {
-        "top.webp": "6971f8c139c693df12a8a1e797e445830533387c168fbfea6d789b8f1d6030ec",
-        "interior-1.webp": "f2730f1ea9321f6a45c455479034048e69c8456812886ee121ed8fa102806f59",
-        "interior-2.webp": "95d96b24bc72b7b50d97a31b2efcd649fb9f77236625d8dd6d177a6bfc5e3e04"
-      },
-      "name": "Pillar Hall Baffles",
-      "kind": "Room",
-      "category": "standard",
-      "scene": "res://scenes/dungeon/procedural/rooms/pillar_hall_baffles.tscn",
-      "map": "res://levels/trenchbroom/maps/pillar_hall_baffles.map"
-    },
-    {
-      "bounds": {
-        "origin": [
-          -8.0,
-          -2.3,
-          -8.0
-        ],
-        "size": [
-          16.0,
-          4.14,
-          16.0
-        ]
-      },
-      "captures": [
-        {
-          "eye": [
-            0.0,
-            33.91,
-            0.0
-          ],
-          "file": "top.webp",
-          "label": "Top down · roof removed",
-          "target": [
-            0.0,
-            -0.23,
-            0.0
-          ]
-        },
-        {
-          "eye": [
-            -4.0,
-            -0.45,
-            -6.6
-          ],
-          "file": "interior-1.webp",
-          "label": "From F doorway",
-          "target": [
-            -4.0,
-            -0.45,
-            9.4
-          ]
-        },
-        {
-          "eye": [
-            4.0,
-            -0.45,
-            6.6
-          ],
-          "file": "interior-2.webp",
-          "label": "From B doorway",
-          "target": [
-            4.0,
-            -0.45,
-            -9.4
-          ]
-        }
-      ],
-      "cutaway": {
-        "hidden_overhead_nodes": 5,
-        "removed_roof_triangles": 0
-      },
-      "doors": 4,
-      "id": "pillar_hall_ring",
-      "source_hash": "e314e4ebb63c1190f22f77c7fdb97fde64d7af1a131f4f3416b251e410f0fd0a",
-      "image_hashes": {
-        "top.webp": "0c6a3c7e4ac88ace90fe725ca8097170a0fffad60e5f8a16db257e44137f52ef",
-        "interior-1.webp": "4b88ee466d39c62ee0304d1f8d35cd4047e81034bca88d65aca48d034691e68a",
-        "interior-2.webp": "0a1400811455bb51996a804f2574798a1ace6bb465a31f9a7f3830b030cfc592"
-      },
-      "name": "Pillar Hall Ring",
-      "kind": "Room",
-      "category": "standard",
-      "scene": "res://scenes/dungeon/procedural/rooms/pillar_hall_ring.tscn",
-      "map": "res://levels/trenchbroom/maps/pillar_hall_ring.map"
-    },
-    {
-      "bounds": {
-        "origin": [
           -4.0,
           -5.74,
           -8.0
@@ -3760,6 +3685,81 @@
       "category": "standard",
       "scene": "res://scenes/dungeon/procedural/rooms/rolling_suns_quarry.tscn",
       "map": "res://levels/trenchbroom/maps/rolling_suns_quarry.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -8.0,
+          -7.0,
+          -8.0
+        ],
+        "size": [
+          16.0,
+          8.84,
+          16.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            36.26,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -2.58,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -3.6,
+            -0.45,
+            -6.2
+          ],
+          "file": "interior-1.webp",
+          "label": "Black chasm, jump spur and central offering",
+          "target": [
+            0.0,
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            6.45,
+            -0.45,
+            -5.7
+          ],
+          "file": "interior-2.webp",
+          "label": "Narrow circuit and opposing dart bank",
+          "target": [
+            6.45,
+            -0.45,
+            6.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 5,
+        "removed_roof_triangles": 0
+      },
+      "doors": 4,
+      "id": "pillar_hall_ring",
+      "source_hash": "b3dc5544d0a2096e7c54c8bc21d2cabff0793635582d242348336f0c968357b8",
+      "image_hashes": {
+        "top.webp": "5e05e78efcfcf5c382e12aee601ed9982b86531526d995ef4295bc54ed6e04f6",
+        "interior-1.webp": "d1a83b7d74113c0399179c3ab99bb4bb3ebb5035e78a4c96017bb07a511b550e",
+        "interior-2.webp": "db77d01319a94ce061efe39a21b09dec62d13b0f4111b1792960172b402b1c4c"
+      },
+      "name": "Scarab Chasm",
+      "kind": "Room",
+      "category": "standard",
+      "scene": "res://scenes/dungeon/procedural/rooms/pillar_hall_ring.tscn",
+      "map": "res://levels/trenchbroom/maps/pillar_hall_ring.map"
     },
     {
       "bounds": {
