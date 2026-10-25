@@ -2789,6 +2789,81 @@
     {
       "bounds": {
         "origin": [
+          -8.0,
+          -2.3,
+          -8.0
+        ],
+        "size": [
+          16.0,
+          4.14,
+          16.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            33.91,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            -0.23,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -4.7,
+            -0.45,
+            -5.3
+          ],
+          "file": "interior-1.webp",
+          "label": "Raised pharaoh shrine with two ramp approaches",
+          "target": [
+            0.0,
+            -0.45,
+            -0.1
+          ]
+        },
+        {
+          "eye": [
+            4.9,
+            -0.45,
+            4.9
+          ],
+          "file": "interior-2.webp",
+          "label": "Side loop around the offering dais",
+          "target": [
+            0.0,
+            -0.7,
+            0.4
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 5,
+        "removed_roof_triangles": 0
+      },
+      "doors": 4,
+      "id": "pillar_hall",
+      "source_hash": "1d899df64e3e5b450c480a3f18dbada4a28c8a93538102ad1051fb30e4886cdd",
+      "image_hashes": {
+        "top.webp": "9bc4bac9f514e1501220bfcc4da33a662d03b06c9aef94316729c9acf4b550e2",
+        "interior-1.webp": "737ebc6007d47edd520b8f867495f1c43ed50c8cea70b3a2848cdabb1cf94e3c",
+        "interior-2.webp": "b347b85a4afb3048df3af5bef58dd68e11b45351739fba47b0e425bebdebe4d1"
+      },
+      "name": "Offering Court",
+      "kind": "Room",
+      "category": "standard",
+      "scene": "res://scenes/dungeon/procedural/rooms/pillar_hall.tscn",
+      "map": "res://levels/trenchbroom/maps/migrated/pillar_hall.map"
+    },
+    {
+      "bounds": {
+        "origin": [
           -12.0,
           -6.0,
           -12.0
@@ -2935,81 +3010,6 @@
       "category": "standard",
       "scene": "res://scenes/dungeon/procedural/rooms/pendulum_court.tscn",
       "map": "res://levels/trenchbroom/maps/pendulum_court.map"
-    },
-    {
-      "bounds": {
-        "origin": [
-          -8.0,
-          -2.3,
-          -8.0
-        ],
-        "size": [
-          16.0,
-          4.14,
-          16.0
-        ]
-      },
-      "captures": [
-        {
-          "eye": [
-            0.0,
-            33.91,
-            0.0
-          ],
-          "file": "top.webp",
-          "label": "Top down · roof removed",
-          "target": [
-            0.0,
-            -0.23,
-            0.0
-          ]
-        },
-        {
-          "eye": [
-            -4.0,
-            -0.45,
-            -6.6
-          ],
-          "file": "interior-1.webp",
-          "label": "From F doorway",
-          "target": [
-            -4.0,
-            -0.45,
-            9.4
-          ]
-        },
-        {
-          "eye": [
-            4.0,
-            -0.45,
-            6.6
-          ],
-          "file": "interior-2.webp",
-          "label": "From B doorway",
-          "target": [
-            4.0,
-            -0.45,
-            -9.4
-          ]
-        }
-      ],
-      "cutaway": {
-        "hidden_overhead_nodes": 5,
-        "removed_roof_triangles": 0
-      },
-      "doors": 4,
-      "id": "pillar_hall",
-      "source_hash": "be9c603d422ac58e3e07f78a147fa2b8c38d66b99d5897f908a2eca5435728e8",
-      "image_hashes": {
-        "top.webp": "b77af5a653384abc8e4d6c67f5e2de97bf48ff0dde3cceda478d822e9e3b5998",
-        "interior-1.webp": "fb825caaedf5e89d22817354e02a50123839d11236b4c1fba2536bd1f16d6f2a",
-        "interior-2.webp": "57b94fa5b28408719c7aed51eaece9732c8487fae40b69b68fb430700c1e084f"
-      },
-      "name": "Pillar Hall",
-      "kind": "Room",
-      "category": "standard",
-      "scene": "res://scenes/dungeon/procedural/rooms/pillar_hall.tscn",
-      "map": "res://levels/trenchbroom/maps/migrated/pillar_hall.map"
     },
     {
       "bounds": {
