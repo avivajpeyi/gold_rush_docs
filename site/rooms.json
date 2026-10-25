@@ -1021,25 +1021,25 @@
             -10.7
           ],
           "file": "interior-1.webp",
-          "label": "Entry",
+          "label": "Clear firing bank and columns integrated with the divider",
           "target": [
-            1.0,
-            -0.5,
-            -6.0
+            -3.0,
+            -0.1,
+            -5.7
           ]
         },
         {
           "eye": [
-            0.0,
+            -6.0,
             -0.45,
-            10.5
+            5.9
           ],
           "file": "interior-2.webp",
-          "label": "Return",
+          "label": "Open southern court and offering plinth",
           "target": [
-            0.0,
-            -2.0,
-            -10.7
+            -8.0,
+            -1.5,
+            10.6
           ]
         }
       ],
@@ -1049,11 +1049,11 @@
       },
       "doors": 3,
       "id": "dart_court_v2",
-      "source_hash": "b1c5845114346bf518fc4b385727b0e338daed11054813c96fd0c1ca62a7a97c",
+      "source_hash": "0e71c6b0dc30c4b0a2d7ead61acff5457b23aff6046b5181a189b2d0a41989b6",
       "image_hashes": {
-        "top.webp": "ae818d185731ac2bbb468e4a7e5b2842f0f8f44f6dcaaa585367783f7c32438e",
-        "interior-1.webp": "0d00e2101a8f84cf4bee9d4581771b26c6f529be1dedec155104ba83bb98d668",
-        "interior-2.webp": "3fdb7182a19ef2419207097dc168e10807df1ee70b56437c3d529a7602573c9e"
+        "top.webp": "fc0df1d97a1e00b13b864636d331105ab58adaaacee160b58fcd3709e04643f8",
+        "interior-1.webp": "0cb416d822b7e81d7ae39db6661f53a841c79fad3b33fa3361bd82b6a6f74280",
+        "interior-2.webp": "efa703cd03f4f38bb5a35b3aeab7b1c24e229f3f47857015f31f65884e4ccf7b"
       },
       "name": "Dart Court V2",
       "kind": "Room",
