@@ -3866,29 +3866,29 @@
         },
         {
           "eye": [
-            -4.0,
+            -3.0,
             -0.45,
-            -22.6
+            -17.7
           ],
           "file": "interior-1.webp",
-          "label": "From F doorway",
+          "label": "Broken direct approach below the summit",
           "target": [
-            -4.0,
-            -0.45,
-            25.4
+            0.0,
+            -2.5,
+            -10.0
           ]
         },
         {
           "eye": [
-            -4.0,
-            -0.45,
-            22.6
+            19.0,
+            2.55,
+            11.3
           ],
           "file": "interior-2.webp",
-          "label": "From rear entrance",
+          "label": "Three cracked covers across the eastern bridge",
           "target": [
-            -4.0,
-            0.4,
+            12.3,
+            0.6,
             10.0
           ]
         }
@@ -3899,11 +3899,11 @@
       },
       "doors": 4,
       "id": "skyless_ziggurat",
-      "source_hash": "ddc7af1d874e23fbc9d89e8deffd7a2920dada057840c1ee3dc03169691dd3f4",
+      "source_hash": "a6b06f95f6c3a049df2e5b2fe1f14d4919ae54374b61e733f03bd93308fe37d7",
       "image_hashes": {
-        "top.webp": "55ac48e1c79c62d9d52d978f3b646efc87d7640bae25bd893a0b6d8d2af13f2d",
-        "interior-1.webp": "7945aaf4dddc1856fb76c71b8f0e18dbb2f0117776af1177990ba0bdcb1d314c",
-        "interior-2.webp": "ddc56a76639896803d1b18dc6418b87329ecccce6f7182ffaa06eb994134fc98"
+        "top.webp": "0faf42a4f77a3a629cfe1e7ff0639906a89d87f79c44c3a8ee48eacec45f600a",
+        "interior-1.webp": "e5776d6b921548fb0188c23e6994082595c8292a48c8da81f7c882451ded5058",
+        "interior-2.webp": "bb51973755dd94b2fbf0b03667fc4574b779d271da26231119a606c493df6e73"
       },
       "name": "Skyless Ziggurat",
       "kind": "Room",
