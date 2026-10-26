@@ -1,0 +1,3286 @@
+{
+  "version": 1,
+  "export_date": "2026-10-26",
+  "template_hash": "c8e7cf071a9a546c648291c1d2bc079d8015064b2aa0783e5485556809277bb6",
+  "raw_export_hashes": {
+    "cyclic_two_key": "ed0326cd6d76061399a715818c9645db62d63e2e08066ecf89baa2bdb74b79e4",
+    "exploration_two_key": "be7eef95fbe96656180ddc0d833ade22ea2dc0d3c138d86b82183957b010784c",
+    "legacy": "0d9ce4cc5fedaa31ec00090369eb4c2b98b42db0e732de0247a54fcaed9bb9bd"
+  },
+  "basis": "Accepted production exports, starting with no campaign keys. Static collider floors and walls; internal heights flattened. Room count excludes generated connector tiles.",
+  "layouts": [
+    {
+      "id": "cyclic_two_key-42",
+      "mode": "cyclic_two_key",
+      "mode_label": "Normal tomb",
+      "style_label": "Revision 4",
+      "title": "Normal tomb · 42",
+      "requested_seed": 42,
+      "accepted_seed": 42,
+      "attempts": 1,
+      "image": "images/layouts/cyclic_two_key-42.svg",
+      "image_hash": "646a96b4b17babf5c62c91c8df17160dac94d08c9b8e4c2c0935387280676474",
+      "footprint_m": [
+        144.15,
+        112.15
+      ],
+      "room_count": 20,
+      "corridor_count": 9,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(17, 0, 6)/3",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(10, 0, 11)/1",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 3,
+          "key": "canopic_passage@(17, 0, 7)/2",
+          "gallery_id": "canopic_passage_chicane",
+          "name": "Canopic Passage Chicane",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "dart_court@(12, 0, 1)/3",
+          "gallery_id": "dart_court_v2",
+          "name": "Dart Court V2",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "dual_route_gallery@(15, 0, 8)/0",
+          "gallery_id": "dual_route_gallery",
+          "name": "Dual Route Gallery",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "fuel_shrine@(16, 0, 11)/3",
+          "gallery_id": "fuel_shrine",
+          "name": "Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "grand_hypostyle_hall@(15, 0, 12)/2",
+          "gallery_id": "grand_hypostyle_hall",
+          "name": "Grand Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "hypostyle_hall@(7, 0, 8)/1",
+          "gallery_id": "hypostyle_hall",
+          "name": "Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "jackal_measure@(12, 0, 4)/3",
+          "gallery_id": "jackal_measure",
+          "name": "Jackal Measure",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "l_shaped_passage@(16, 0, 2)/2",
+          "gallery_id": "l_shaped_passage",
+          "name": "L Shaped Passage",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "ledge@(10, 0, 6)/2",
+          "gallery_id": "pit_ledge_room",
+          "name": "Pit Ledge Room",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "obelisk_junction@(10, 0, 8)/0",
+          "gallery_id": "obelisk_junction",
+          "name": "Obelisk Junction",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "obelisk_terrace@(14, 0, 5)/1",
+          "gallery_id": "obelisk_terrace",
+          "name": "Obelisk Terrace",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "pillar@(13, 0, 11)/1",
+          "gallery_id": "pillar_hall_ring",
+          "name": "Scarab Chasm",
+          "label": ""
+        },
+        {
+          "number": 15,
+          "key": "planks@(17, 0, 4)/0",
+          "gallery_id": "pit_planks_room",
+          "name": "Pit Planks Room",
+          "label": ""
+        },
+        {
+          "number": 16,
+          "key": "skyless_ziggurat@(1, 0, 7)/3",
+          "gallery_id": "skyless_ziggurat",
+          "name": "Skyless Ziggurat",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 17,
+          "key": "split@(11, 0, 10)/0",
+          "gallery_id": "split_room",
+          "name": "Split Room",
+          "label": ""
+        },
+        {
+          "number": 18,
+          "key": "sun_shadow@(6, 0, 3)/1",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 19,
+          "key": "sunken_shrine@(9, 0, 3)/1",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        },
+        {
+          "number": 20,
+          "key": "vault@(13, 0, 6)/3",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "cyclic_two_key-43",
+      "mode": "cyclic_two_key",
+      "mode_label": "Normal tomb",
+      "style_label": "Revision 4",
+      "title": "Normal tomb · 43",
+      "requested_seed": 43,
+      "accepted_seed": 43,
+      "attempts": 1,
+      "image": "images/layouts/cyclic_two_key-43.svg",
+      "image_hash": "7ee1ed714a5735594f638afe13f6a1a3cf2bcf8df3615ed124b735563d8f70cd",
+      "footprint_m": [
+        112.15,
+        136.15
+      ],
+      "room_count": 20,
+      "corridor_count": 9,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(6, 0, 4)/0",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(11, 0, 9)/2",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 3,
+          "key": "canopic_passage@(7, 0, 4)/3",
+          "gallery_id": "canopic_passage_chicane",
+          "name": "Canopic Passage Chicane",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "collapse_passage@(4, 0, 7)/0",
+          "gallery_id": "collapse_passage",
+          "name": "Collapse Passage",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "dart_court@(1, 0, 7)/0",
+          "gallery_id": "dart_court_v2",
+          "name": "Dart Court V2",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "dual_route_gallery@(8, 0, 5)/1",
+          "gallery_id": "dual_route_gallery",
+          "name": "Dual Route Gallery",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "fuel_shrine@(11, 0, 5)/0",
+          "gallery_id": "fuel_shrine",
+          "name": "Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "grand_hypostyle_hall@(12, 0, 3)/3",
+          "gallery_id": "grand_hypostyle_hall",
+          "name": "Grand Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "hypostyle_hall@(8, 0, 12)/2",
+          "gallery_id": "hypostyle_hall",
+          "name": "Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "jackals_jaw@(7, 0, 15)/0",
+          "gallery_id": "jackals_jaw",
+          "name": "Jackals Jaw",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 11,
+          "key": "l_shaped_passage@(2, 0, 4)/3",
+          "gallery_id": "l_shaped_passage",
+          "name": "L Shaped Passage",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "ledge@(6, 0, 11)/3",
+          "gallery_id": "pit_ledge_room",
+          "name": "Pit Ledge Room",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "obelisk_junction@(8, 0, 10)/1",
+          "gallery_id": "obelisk_junction",
+          "name": "Obelisk Junction",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "obelisk_terrace@(5, 0, 5)/2",
+          "gallery_id": "obelisk_terrace",
+          "name": "Obelisk Terrace",
+          "label": ""
+        },
+        {
+          "number": 15,
+          "key": "pillar@(11, 0, 7)/2",
+          "gallery_id": "pillar_hall",
+          "name": "Offering Court",
+          "label": ""
+        },
+        {
+          "number": 16,
+          "key": "planks@(4, 0, 4)/1",
+          "gallery_id": "pit_planks_room",
+          "name": "Pit Planks Room",
+          "label": ""
+        },
+        {
+          "number": 17,
+          "key": "split@(10, 0, 9)/1",
+          "gallery_id": "split_room",
+          "name": "Split Room",
+          "label": ""
+        },
+        {
+          "number": 18,
+          "key": "sun_shadow@(3, 0, 13)/2",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 19,
+          "key": "sunken_shrine@(3, 0, 10)/2",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        },
+        {
+          "number": 20,
+          "key": "vault@(6, 0, 8)/0",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "cyclic_two_key-44",
+      "mode": "cyclic_two_key",
+      "mode_label": "Normal tomb",
+      "style_label": "Revision 4",
+      "title": "Normal tomb · 44",
+      "requested_seed": 44,
+      "accepted_seed": 44,
+      "attempts": 1,
+      "image": "images/layouts/cyclic_two_key-44.svg",
+      "image_hash": "cd3703d3f059058414d64e8365d6f41912bf5422700abcaa06ae014e829e6304",
+      "footprint_m": [
+        112.15,
+        136.15
+      ],
+      "room_count": 20,
+      "corridor_count": 9,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(9, 0, 17)/2",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(2, 0, 10)/0",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 3,
+          "key": "canopic_passage@(6, 0, 17)/1",
+          "gallery_id": "canopic_passage",
+          "name": "Canopic Passage",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "collapse_passage@(11, 0, 12)/2",
+          "gallery_id": "collapse_passage",
+          "name": "Collapse Passage",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "dart_court@(12, 0, 12)/2",
+          "gallery_id": "dart_court_v2",
+          "name": "Dart Court V2",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "dual_route_gallery@(5, 0, 15)/3",
+          "gallery_id": "dual_route_gallery",
+          "name": "Dual Route Gallery",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "fuel_shrine@(4, 0, 16)/2",
+          "gallery_id": "fuel_shrine",
+          "name": "Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "grand_hypostyle_hall@(1, 0, 15)/1",
+          "gallery_id": "grand_hypostyle_hall",
+          "name": "Grand Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "hypostyle_hall@(5, 0, 7)/0",
+          "gallery_id": "hypostyle_hall",
+          "name": "Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "l_shaped_passage@(12, 0, 16)/1",
+          "gallery_id": "l_shaped_passage",
+          "name": "L Shaped Passage",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "obelisk_junction@(6, 0, 10)/3",
+          "gallery_id": "obelisk_junction",
+          "name": "Obelisk Junction",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "obelisk_terrace@(8, 0, 14)/0",
+          "gallery_id": "obelisk_terrace",
+          "name": "Obelisk Terrace",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "pillar@(3, 0, 13)/0",
+          "gallery_id": "pillar_hall_baffles",
+          "name": "Hall of Two Jaws",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "planks@(8, 0, 10)/1",
+          "gallery_id": "pit_planks_room",
+          "name": "Pit Planks Room",
+          "label": ""
+        },
+        {
+          "number": 15,
+          "key": "split@(5, 0, 11)/3",
+          "gallery_id": "split_room",
+          "name": "Split Room",
+          "label": ""
+        },
+        {
+          "number": 16,
+          "key": "sun_shadow@(11, 0, 6)/0",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 17,
+          "key": "sunken_shrine@(10, 0, 9)/0",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        },
+        {
+          "number": 18,
+          "key": "sunken_sun@(3, 0, 2)/2",
+          "gallery_id": "sunken_sun",
+          "name": "Sunken Sun",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 19,
+          "key": "trap_gallery@(10, 0, 17)/3",
+          "gallery_id": "trap_gallery",
+          "name": "Trap Gallery",
+          "label": ""
+        },
+        {
+          "number": 20,
+          "key": "vault@(8, 0, 13)/2",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "cyclic_two_key-45",
+      "mode": "cyclic_two_key",
+      "mode_label": "Normal tomb",
+      "style_label": "Revision 4",
+      "title": "Normal tomb · 45",
+      "requested_seed": 45,
+      "accepted_seed": 45,
+      "attempts": 1,
+      "image": "images/layouts/cyclic_two_key-45.svg",
+      "image_hash": "ffac0566a13f588850bbdb22b000ab3ff1f0a336391519ebfe08b32e07e5a760",
+      "footprint_m": [
+        112.15,
+        144.15
+      ],
+      "room_count": 20,
+      "corridor_count": 9,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(9, 0, 17)/2",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(2, 0, 10)/0",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 3,
+          "key": "canopic_passage@(6, 0, 17)/1",
+          "gallery_id": "canopic_passage_islands",
+          "name": "Canopic Passage Islands",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "dart_court@(12, 0, 12)/2",
+          "gallery_id": "dart_court_v2",
+          "name": "Dart Court V2",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "dual_route_gallery@(5, 0, 15)/3",
+          "gallery_id": "dual_route_gallery",
+          "name": "Dual Route Gallery",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "fuel_shrine@(4, 0, 16)/2",
+          "gallery_id": "fuel_shrine",
+          "name": "Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "grand_hypostyle_hall@(1, 0, 15)/1",
+          "gallery_id": "grand_hypostyle_hall",
+          "name": "Grand Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "hundred_pillars@(3, 0, 1)/2",
+          "gallery_id": "hundred_pillars",
+          "name": "Hundred Pillars",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 9,
+          "key": "hypostyle_hall@(5, 0, 7)/0",
+          "gallery_id": "hypostyle_hall",
+          "name": "Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "l_shaped_passage@(12, 0, 16)/1",
+          "gallery_id": "l_shaped_passage",
+          "name": "L Shaped Passage",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "obelisk_junction@(6, 0, 10)/3",
+          "gallery_id": "obelisk_junction",
+          "name": "Obelisk Junction",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "obelisk_terrace@(8, 0, 14)/0",
+          "gallery_id": "obelisk_terrace",
+          "name": "Obelisk Terrace",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "pillar@(3, 0, 13)/0",
+          "gallery_id": "pillar_hall_ring",
+          "name": "Scarab Chasm",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "planks@(8, 0, 10)/1",
+          "gallery_id": "pit_planks_room",
+          "name": "Pit Planks Room",
+          "label": ""
+        },
+        {
+          "number": 15,
+          "key": "processional_hall@(11, 0, 12)/2",
+          "gallery_id": "processional_hall",
+          "name": "Processional Hall",
+          "label": ""
+        },
+        {
+          "number": 16,
+          "key": "split@(5, 0, 11)/3",
+          "gallery_id": "split_room",
+          "name": "Split Room",
+          "label": ""
+        },
+        {
+          "number": 17,
+          "key": "sun_shadow@(11, 0, 6)/0",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 18,
+          "key": "sunken_shrine@(10, 0, 9)/0",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        },
+        {
+          "number": 19,
+          "key": "trap_gallery@(10, 0, 17)/3",
+          "gallery_id": "trap_gallery",
+          "name": "Trap Gallery",
+          "label": ""
+        },
+        {
+          "number": 20,
+          "key": "vault@(8, 0, 13)/2",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "cyclic_two_key-1001",
+      "mode": "cyclic_two_key",
+      "mode_label": "Normal tomb",
+      "style_label": "Revision 4",
+      "title": "Normal tomb · 1001",
+      "requested_seed": 1001,
+      "accepted_seed": 1001,
+      "attempts": 1,
+      "image": "images/layouts/cyclic_two_key-1001.svg",
+      "image_hash": "0b101ce472f9da95b41d36683cae139a684313dff420e7e420ac1eec58ed81b1",
+      "footprint_m": [
+        144.15,
+        112.15
+      ],
+      "room_count": 20,
+      "corridor_count": 9,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(4, 0, 9)/1",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(9, 0, 2)/3",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 3,
+          "key": "canopic_passage@(4, 0, 6)/0",
+          "gallery_id": "canopic_passage",
+          "name": "Canopic Passage",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "dart_court@(7, 0, 12)/1",
+          "gallery_id": "dart_court_v2",
+          "name": "Dart Court V2",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "dual_route_gallery@(5, 0, 5)/2",
+          "gallery_id": "dual_route_gallery",
+          "name": "Dual Route Gallery",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "fuel_shrine@(5, 0, 4)/1",
+          "gallery_id": "fuel_shrine",
+          "name": "Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "grand_hypostyle_hall@(3, 0, 1)/0",
+          "gallery_id": "grand_hypostyle_hall",
+          "name": "Grand Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "hundred_pillars@(15, 0, 3)/1",
+          "gallery_id": "hundred_pillars",
+          "name": "Hundred Pillars",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 9,
+          "key": "hypostyle_hall@(12, 0, 5)/3",
+          "gallery_id": "hypostyle_hall",
+          "name": "Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "l_shaped_passage@(4, 0, 12)/0",
+          "gallery_id": "l_shaped_passage",
+          "name": "L Shaped Passage",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "ledge@(4, 0, 10)/2",
+          "gallery_id": "pit_ledge_room",
+          "name": "Pit Ledge Room",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "long_gallery@(7, 0, 11)/1",
+          "gallery_id": "long_gallery",
+          "name": "Long Gallery",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "obelisk_junction@(10, 0, 6)/2",
+          "gallery_id": "obelisk_junction",
+          "name": "Obelisk Junction",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "obelisk_terrace@(5, 0, 8)/3",
+          "gallery_id": "obelisk_terrace",
+          "name": "Obelisk Terrace",
+          "label": ""
+        },
+        {
+          "number": 15,
+          "key": "pillar@(7, 0, 3)/3",
+          "gallery_id": "pillar_hall_ring",
+          "name": "Scarab Chasm",
+          "label": ""
+        },
+        {
+          "number": 16,
+          "key": "planks@(11, 0, 8)/0",
+          "gallery_id": "pit_planks_room",
+          "name": "Pit Planks Room",
+          "label": ""
+        },
+        {
+          "number": 17,
+          "key": "split@(9, 0, 5)/2",
+          "gallery_id": "split_room",
+          "name": "Split Room",
+          "label": ""
+        },
+        {
+          "number": 18,
+          "key": "sun_shadow@(13, 0, 11)/3",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 19,
+          "key": "sunken_shrine@(10, 0, 10)/3",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        },
+        {
+          "number": 20,
+          "key": "vault@(8, 0, 8)/1",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "cyclic_two_key-1002",
+      "mode": "cyclic_two_key",
+      "mode_label": "Normal tomb",
+      "style_label": "Revision 4",
+      "title": "Normal tomb · 1002",
+      "requested_seed": 1002,
+      "accepted_seed": 1002,
+      "attempts": 1,
+      "image": "images/layouts/cyclic_two_key-1002.svg",
+      "image_hash": "ff524a55c20f5451043ff0dfc6345868a87616058d7dc71a32e3156e4d16e64e",
+      "footprint_m": [
+        144.15,
+        112.15
+      ],
+      "room_count": 20,
+      "corridor_count": 9,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(17, 0, 6)/3",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(10, 0, 11)/1",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 3,
+          "key": "canopic_passage@(17, 0, 7)/2",
+          "gallery_id": "canopic_passage_islands",
+          "name": "Canopic Passage Islands",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "dart_court@(12, 0, 1)/3",
+          "gallery_id": "dart_court_v2",
+          "name": "Dart Court V2",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "dual_route_gallery@(15, 0, 8)/0",
+          "gallery_id": "dual_route_gallery",
+          "name": "Dual Route Gallery",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "fuel_shrine@(16, 0, 11)/3",
+          "gallery_id": "fuel_shrine",
+          "name": "Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "grand_hypostyle_hall@(15, 0, 12)/2",
+          "gallery_id": "grand_hypostyle_hall",
+          "name": "Grand Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "hypostyle_hall@(7, 0, 8)/1",
+          "gallery_id": "hypostyle_hall",
+          "name": "Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "l_shaped_passage@(16, 0, 2)/2",
+          "gallery_id": "l_shaped_passage",
+          "name": "L Shaped Passage",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "ledge@(17, 0, 4)/0",
+          "gallery_id": "pit_ledge_room",
+          "name": "Pit Ledge Room",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "long_gallery@(12, 0, 4)/3",
+          "gallery_id": "long_gallery",
+          "name": "Long Gallery",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "obelisk_junction@(10, 0, 8)/0",
+          "gallery_id": "obelisk_junction",
+          "name": "Obelisk Junction",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "obelisk_terrace@(14, 0, 5)/1",
+          "gallery_id": "obelisk_terrace",
+          "name": "Obelisk Terrace",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "pillar@(13, 0, 11)/1",
+          "gallery_id": "pillar_hall",
+          "name": "Offering Court",
+          "label": ""
+        },
+        {
+          "number": 15,
+          "key": "planks@(10, 0, 6)/2",
+          "gallery_id": "pit_planks_room",
+          "name": "Pit Planks Room",
+          "label": ""
+        },
+        {
+          "number": 16,
+          "key": "skyless_ziggurat@(1, 0, 7)/3",
+          "gallery_id": "skyless_ziggurat",
+          "name": "Skyless Ziggurat",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 17,
+          "key": "split@(11, 0, 10)/0",
+          "gallery_id": "split_room",
+          "name": "Split Room",
+          "label": ""
+        },
+        {
+          "number": 18,
+          "key": "sun_shadow@(6, 0, 3)/1",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 19,
+          "key": "sunken_shrine@(9, 0, 3)/1",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        },
+        {
+          "number": 20,
+          "key": "vault@(13, 0, 6)/3",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "exploration_two_key-42",
+      "mode": "exploration_two_key",
+      "mode_label": "Ramped exploration",
+      "style_label": "Revision 5",
+      "title": "Ramped exploration · 42",
+      "requested_seed": 42,
+      "accepted_seed": 42,
+      "attempts": 1,
+      "image": "images/layouts/exploration_two_key-42.svg",
+      "image_hash": "056bd56c19a855423811a0e306ae70223eb23a533ed5e8482811a6628759357d",
+      "footprint_m": [
+        144.15,
+        112.0
+      ],
+      "room_count": 21,
+      "corridor_count": 10,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(17, 0, 6)/3",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(10, 0, 11)/1",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 3,
+          "key": "burial_hall_complex@(15, 0, 12)/2",
+          "gallery_id": "burial_hall_complex",
+          "name": "Burial Hall Complex",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "canopic_passage@(17, 0, 7)/2",
+          "gallery_id": "canopic_passage_chicane",
+          "name": "Canopic Passage Chicane",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "dual_route_gallery@(15, 0, 8)/0",
+          "gallery_id": "dual_route_gallery",
+          "name": "Dual Route Gallery",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "fuel_shrine@(16, 0, 11)/3",
+          "gallery_id": "fuel_shrine",
+          "name": "Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "hypostyle_hall@(7, 0, 8)/1",
+          "gallery_id": "hypostyle_hall",
+          "name": "Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "inner_route_landing@(10, 0, 6)/1",
+          "gallery_id": "inner_route_landing",
+          "name": "Inner Route Landing",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "jackal_measure@(12, 0, 4)/3",
+          "gallery_id": "jackal_measure",
+          "name": "Jackal Measure",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "keyed_route_threshold@(12, 0, 6)/1",
+          "gallery_id": "keyed_route_threshold",
+          "name": "Keyed Route Threshold",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "l_shaped_passage@(16, 0, 2)/2",
+          "gallery_id": "l_shaped_passage",
+          "name": "L Shaped Passage",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "ledge@(13, 0, 8)/2",
+          "gallery_id": "pit_ledge_room",
+          "name": "Pit Ledge Room",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "obelisk_junction@(10, 0, 8)/0",
+          "gallery_id": "obelisk_junction",
+          "name": "Obelisk Junction",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "obelisk_terrace@(14, 0, 5)/1",
+          "gallery_id": "obelisk_terrace",
+          "name": "Obelisk Terrace",
+          "label": ""
+        },
+        {
+          "number": 15,
+          "key": "offset_terrace_complex@(12, 0, 1)/3",
+          "gallery_id": "offset_terrace_complex",
+          "name": "Offset Terrace Complex",
+          "label": ""
+        },
+        {
+          "number": 16,
+          "key": "pillar@(13, 0, 11)/1",
+          "gallery_id": "pillar_hall_ring",
+          "name": "Scarab Chasm",
+          "label": ""
+        },
+        {
+          "number": 17,
+          "key": "planks@(17, 0, 4)/0",
+          "gallery_id": "pit_planks_room",
+          "name": "Pit Planks Room",
+          "label": ""
+        },
+        {
+          "number": 18,
+          "key": "skyless_ziggurat@(1, 0, 7)/3",
+          "gallery_id": "skyless_ziggurat",
+          "name": "Skyless Ziggurat",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 19,
+          "key": "split@(11, 0, 10)/0",
+          "gallery_id": "split_room",
+          "name": "Split Room",
+          "label": ""
+        },
+        {
+          "number": 20,
+          "key": "sun_shadow@(6, 0, 3)/1",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 21,
+          "key": "sunken_shrine@(9, 0, 3)/1",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "exploration_two_key-43",
+      "mode": "exploration_two_key",
+      "mode_label": "Ramped exploration",
+      "style_label": "Revision 5",
+      "title": "Ramped exploration · 43",
+      "requested_seed": 43,
+      "accepted_seed": 43,
+      "attempts": 1,
+      "image": "images/layouts/exploration_two_key-43.svg",
+      "image_hash": "7197cfe177369b81c1c1cecbd535030b6c73a09b14ba600fbf87248e8717952b",
+      "footprint_m": [
+        112.0,
+        136.15
+      ],
+      "room_count": 21,
+      "corridor_count": 10,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(6, 0, 4)/0",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(11, 0, 9)/2",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 3,
+          "key": "burial_hall_complex@(12, 0, 3)/3",
+          "gallery_id": "burial_hall_complex",
+          "name": "Burial Hall Complex",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "canopic_passage@(7, 0, 4)/3",
+          "gallery_id": "canopic_passage_chicane",
+          "name": "Canopic Passage Chicane",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "collapse_passage@(4, 0, 7)/0",
+          "gallery_id": "collapse_passage",
+          "name": "Collapse Passage",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "dual_route_gallery@(8, 0, 5)/1",
+          "gallery_id": "dual_route_gallery",
+          "name": "Dual Route Gallery",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "fuel_shrine@(11, 0, 5)/0",
+          "gallery_id": "fuel_shrine",
+          "name": "Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "hypostyle_hall@(8, 0, 12)/2",
+          "gallery_id": "hypostyle_hall",
+          "name": "Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "inner_route_landing@(6, 0, 11)/2",
+          "gallery_id": "inner_route_landing",
+          "name": "Inner Route Landing",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "jackals_jaw@(7, 0, 15)/0",
+          "gallery_id": "jackals_jaw",
+          "name": "Jackals Jaw",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 11,
+          "key": "keyed_route_threshold@(6, 0, 8)/2",
+          "gallery_id": "keyed_route_threshold",
+          "name": "Keyed Route Threshold",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "l_shaped_passage@(2, 0, 4)/3",
+          "gallery_id": "l_shaped_passage",
+          "name": "L Shaped Passage",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "ledge@(8, 0, 8)/3",
+          "gallery_id": "pit_ledge_room",
+          "name": "Pit Ledge Room",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "obelisk_junction@(8, 0, 10)/1",
+          "gallery_id": "obelisk_junction",
+          "name": "Obelisk Junction",
+          "label": ""
+        },
+        {
+          "number": 15,
+          "key": "obelisk_terrace@(5, 0, 5)/2",
+          "gallery_id": "obelisk_terrace",
+          "name": "Obelisk Terrace",
+          "label": ""
+        },
+        {
+          "number": 16,
+          "key": "offset_terrace_complex@(1, 0, 7)/0",
+          "gallery_id": "offset_terrace_complex",
+          "name": "Offset Terrace Complex",
+          "label": ""
+        },
+        {
+          "number": 17,
+          "key": "pillar@(11, 0, 7)/2",
+          "gallery_id": "pillar_hall",
+          "name": "Offering Court",
+          "label": ""
+        },
+        {
+          "number": 18,
+          "key": "planks@(4, 0, 4)/1",
+          "gallery_id": "pit_planks_room",
+          "name": "Pit Planks Room",
+          "label": ""
+        },
+        {
+          "number": 19,
+          "key": "split@(10, 0, 9)/1",
+          "gallery_id": "split_room",
+          "name": "Split Room",
+          "label": ""
+        },
+        {
+          "number": 20,
+          "key": "sun_shadow@(3, 0, 13)/2",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 21,
+          "key": "sunken_shrine@(3, 0, 10)/2",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "exploration_two_key-44",
+      "mode": "exploration_two_key",
+      "mode_label": "Ramped exploration",
+      "style_label": "Revision 5",
+      "title": "Ramped exploration · 44",
+      "requested_seed": 44,
+      "accepted_seed": 44,
+      "attempts": 1,
+      "image": "images/layouts/exploration_two_key-44.svg",
+      "image_hash": "3209e9d250d6d8de12decbf98dcc1863c23d2649de65e345f18ede0979cc4c7e",
+      "footprint_m": [
+        112.0,
+        136.15
+      ],
+      "room_count": 21,
+      "corridor_count": 10,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(9, 0, 17)/2",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(2, 0, 10)/0",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 3,
+          "key": "burial_hall_complex@(1, 0, 15)/1",
+          "gallery_id": "burial_hall_complex",
+          "name": "Burial Hall Complex",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "canopic_passage@(6, 0, 17)/1",
+          "gallery_id": "canopic_passage",
+          "name": "Canopic Passage",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "collapse_passage@(11, 0, 12)/2",
+          "gallery_id": "collapse_passage",
+          "name": "Collapse Passage",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "dual_route_gallery@(5, 0, 15)/3",
+          "gallery_id": "dual_route_gallery",
+          "name": "Dual Route Gallery",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "fuel_shrine@(4, 0, 16)/2",
+          "gallery_id": "fuel_shrine",
+          "name": "Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "hypostyle_hall@(5, 0, 7)/0",
+          "gallery_id": "hypostyle_hall",
+          "name": "Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "inner_route_landing@(8, 0, 10)/0",
+          "gallery_id": "inner_route_landing",
+          "name": "Inner Route Landing",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "keyed_route_threshold@(8, 0, 12)/0",
+          "gallery_id": "keyed_route_threshold",
+          "name": "Keyed Route Threshold",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "l_shaped_passage@(12, 0, 16)/1",
+          "gallery_id": "l_shaped_passage",
+          "name": "L Shaped Passage",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "obelisk_junction@(6, 0, 10)/3",
+          "gallery_id": "obelisk_junction",
+          "name": "Obelisk Junction",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "obelisk_terrace@(8, 0, 14)/0",
+          "gallery_id": "obelisk_terrace",
+          "name": "Obelisk Terrace",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "offset_terrace_complex@(12, 0, 12)/2",
+          "gallery_id": "offset_terrace_complex",
+          "name": "Offset Terrace Complex",
+          "label": ""
+        },
+        {
+          "number": 15,
+          "key": "pillar@(3, 0, 13)/0",
+          "gallery_id": "pillar_hall_baffles",
+          "name": "Hall of Two Jaws",
+          "label": ""
+        },
+        {
+          "number": 16,
+          "key": "planks@(6, 0, 13)/1",
+          "gallery_id": "pit_planks_room",
+          "name": "Pit Planks Room",
+          "label": ""
+        },
+        {
+          "number": 17,
+          "key": "split@(5, 0, 11)/3",
+          "gallery_id": "split_room",
+          "name": "Split Room",
+          "label": ""
+        },
+        {
+          "number": 18,
+          "key": "sun_shadow@(11, 0, 6)/0",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 19,
+          "key": "sunken_shrine@(10, 0, 9)/0",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        },
+        {
+          "number": 20,
+          "key": "sunken_sun@(3, 0, 2)/2",
+          "gallery_id": "sunken_sun",
+          "name": "Sunken Sun",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 21,
+          "key": "trap_gallery@(10, 0, 17)/3",
+          "gallery_id": "trap_gallery",
+          "name": "Trap Gallery",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "exploration_two_key-45",
+      "mode": "exploration_two_key",
+      "mode_label": "Ramped exploration",
+      "style_label": "Revision 5",
+      "title": "Ramped exploration · 45",
+      "requested_seed": 45,
+      "accepted_seed": 45,
+      "attempts": 1,
+      "image": "images/layouts/exploration_two_key-45.svg",
+      "image_hash": "87f2e6cd11e999fd3b9f1e651604d97f570cc799f8d4a4269c4437777ba95b6a",
+      "footprint_m": [
+        112.0,
+        144.15
+      ],
+      "room_count": 21,
+      "corridor_count": 10,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(9, 0, 17)/2",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(2, 0, 10)/0",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 3,
+          "key": "burial_hall_complex@(1, 0, 15)/1",
+          "gallery_id": "burial_hall_complex",
+          "name": "Burial Hall Complex",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "canopic_passage@(6, 0, 17)/1",
+          "gallery_id": "canopic_passage_islands",
+          "name": "Canopic Passage Islands",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "dual_route_gallery@(5, 0, 15)/3",
+          "gallery_id": "dual_route_gallery",
+          "name": "Dual Route Gallery",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "fuel_shrine@(4, 0, 16)/2",
+          "gallery_id": "fuel_shrine",
+          "name": "Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "hundred_pillars@(3, 0, 1)/2",
+          "gallery_id": "hundred_pillars",
+          "name": "Hundred Pillars",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 8,
+          "key": "hypostyle_hall@(5, 0, 7)/0",
+          "gallery_id": "hypostyle_hall",
+          "name": "Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "inner_route_landing@(8, 0, 10)/0",
+          "gallery_id": "inner_route_landing",
+          "name": "Inner Route Landing",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "keyed_route_threshold@(8, 0, 12)/0",
+          "gallery_id": "keyed_route_threshold",
+          "name": "Keyed Route Threshold",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "l_shaped_passage@(12, 0, 16)/1",
+          "gallery_id": "l_shaped_passage",
+          "name": "L Shaped Passage",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "obelisk_junction@(6, 0, 10)/3",
+          "gallery_id": "obelisk_junction",
+          "name": "Obelisk Junction",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "obelisk_terrace@(8, 0, 14)/0",
+          "gallery_id": "obelisk_terrace",
+          "name": "Obelisk Terrace",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "offset_terrace_complex@(12, 0, 12)/2",
+          "gallery_id": "offset_terrace_complex",
+          "name": "Offset Terrace Complex",
+          "label": ""
+        },
+        {
+          "number": 15,
+          "key": "pillar@(3, 0, 13)/0",
+          "gallery_id": "pillar_hall_ring",
+          "name": "Scarab Chasm",
+          "label": ""
+        },
+        {
+          "number": 16,
+          "key": "planks@(6, 0, 13)/1",
+          "gallery_id": "pit_planks_room",
+          "name": "Pit Planks Room",
+          "label": ""
+        },
+        {
+          "number": 17,
+          "key": "processional_hall@(11, 0, 12)/2",
+          "gallery_id": "processional_hall",
+          "name": "Processional Hall",
+          "label": ""
+        },
+        {
+          "number": 18,
+          "key": "split@(5, 0, 11)/3",
+          "gallery_id": "split_room",
+          "name": "Split Room",
+          "label": ""
+        },
+        {
+          "number": 19,
+          "key": "sun_shadow@(11, 0, 6)/0",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 20,
+          "key": "sunken_shrine@(10, 0, 9)/0",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        },
+        {
+          "number": 21,
+          "key": "trap_gallery@(10, 0, 17)/3",
+          "gallery_id": "trap_gallery",
+          "name": "Trap Gallery",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "exploration_two_key-1001",
+      "mode": "exploration_two_key",
+      "mode_label": "Ramped exploration",
+      "style_label": "Revision 5",
+      "title": "Ramped exploration · 1001",
+      "requested_seed": 1001,
+      "accepted_seed": 1001,
+      "attempts": 1,
+      "image": "images/layouts/exploration_two_key-1001.svg",
+      "image_hash": "2bc25b5632d3e93d8d4b9ed9694158a3ce9092f0bc80a4281ddecf0fd53be6ab",
+      "footprint_m": [
+        144.15,
+        112.0
+      ],
+      "room_count": 21,
+      "corridor_count": 10,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(4, 0, 9)/1",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(9, 0, 2)/3",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 3,
+          "key": "burial_hall_complex@(3, 0, 1)/0",
+          "gallery_id": "burial_hall_complex",
+          "name": "Burial Hall Complex",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "canopic_passage@(4, 0, 6)/0",
+          "gallery_id": "canopic_passage",
+          "name": "Canopic Passage",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "dual_route_gallery@(5, 0, 5)/2",
+          "gallery_id": "dual_route_gallery",
+          "name": "Dual Route Gallery",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "fuel_shrine@(5, 0, 4)/1",
+          "gallery_id": "fuel_shrine",
+          "name": "Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "hundred_pillars@(15, 0, 3)/1",
+          "gallery_id": "hundred_pillars",
+          "name": "Hundred Pillars",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 8,
+          "key": "hypostyle_hall@(12, 0, 5)/3",
+          "gallery_id": "hypostyle_hall",
+          "name": "Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "inner_route_landing@(11, 0, 8)/3",
+          "gallery_id": "inner_route_landing",
+          "name": "Inner Route Landing",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "keyed_route_threshold@(8, 0, 8)/3",
+          "gallery_id": "keyed_route_threshold",
+          "name": "Keyed Route Threshold",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "l_shaped_passage@(4, 0, 12)/0",
+          "gallery_id": "l_shaped_passage",
+          "name": "L Shaped Passage",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "ledge@(4, 0, 10)/2",
+          "gallery_id": "pit_ledge_room",
+          "name": "Pit Ledge Room",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "long_gallery@(7, 0, 11)/1",
+          "gallery_id": "long_gallery",
+          "name": "Long Gallery",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "obelisk_junction@(10, 0, 6)/2",
+          "gallery_id": "obelisk_junction",
+          "name": "Obelisk Junction",
+          "label": ""
+        },
+        {
+          "number": 15,
+          "key": "obelisk_terrace@(5, 0, 8)/3",
+          "gallery_id": "obelisk_terrace",
+          "name": "Obelisk Terrace",
+          "label": ""
+        },
+        {
+          "number": 16,
+          "key": "offset_terrace_complex@(7, 0, 12)/1",
+          "gallery_id": "offset_terrace_complex",
+          "name": "Offset Terrace Complex",
+          "label": ""
+        },
+        {
+          "number": 17,
+          "key": "pillar@(7, 0, 3)/3",
+          "gallery_id": "pillar_hall_ring",
+          "name": "Scarab Chasm",
+          "label": ""
+        },
+        {
+          "number": 18,
+          "key": "planks@(8, 0, 6)/0",
+          "gallery_id": "pit_planks_room",
+          "name": "Pit Planks Room",
+          "label": ""
+        },
+        {
+          "number": 19,
+          "key": "split@(9, 0, 5)/2",
+          "gallery_id": "split_room",
+          "name": "Split Room",
+          "label": ""
+        },
+        {
+          "number": 20,
+          "key": "sun_shadow@(13, 0, 11)/3",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 21,
+          "key": "sunken_shrine@(10, 0, 10)/3",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "exploration_two_key-1002",
+      "mode": "exploration_two_key",
+      "mode_label": "Ramped exploration",
+      "style_label": "Revision 5",
+      "title": "Ramped exploration · 1002",
+      "requested_seed": 1002,
+      "accepted_seed": 1002,
+      "attempts": 1,
+      "image": "images/layouts/exploration_two_key-1002.svg",
+      "image_hash": "65c975249e4b2c3a5d2c3a3ce27bd3f31586101d2737ddff76802d267c34d6c5",
+      "footprint_m": [
+        144.15,
+        112.0
+      ],
+      "room_count": 21,
+      "corridor_count": 10,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(17, 0, 6)/3",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(10, 0, 11)/1",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 3,
+          "key": "burial_hall_complex@(15, 0, 12)/2",
+          "gallery_id": "burial_hall_complex",
+          "name": "Burial Hall Complex",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "canopic_passage@(17, 0, 7)/2",
+          "gallery_id": "canopic_passage_islands",
+          "name": "Canopic Passage Islands",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "dual_route_gallery@(15, 0, 8)/0",
+          "gallery_id": "dual_route_gallery",
+          "name": "Dual Route Gallery",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "fuel_shrine@(16, 0, 11)/3",
+          "gallery_id": "fuel_shrine",
+          "name": "Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "hypostyle_hall@(7, 0, 8)/1",
+          "gallery_id": "hypostyle_hall",
+          "name": "Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "inner_route_landing@(10, 0, 6)/1",
+          "gallery_id": "inner_route_landing",
+          "name": "Inner Route Landing",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "keyed_route_threshold@(12, 0, 6)/1",
+          "gallery_id": "keyed_route_threshold",
+          "name": "Keyed Route Threshold",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "l_shaped_passage@(16, 0, 2)/2",
+          "gallery_id": "l_shaped_passage",
+          "name": "L Shaped Passage",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "ledge@(17, 0, 4)/0",
+          "gallery_id": "pit_ledge_room",
+          "name": "Pit Ledge Room",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "long_gallery@(12, 0, 4)/3",
+          "gallery_id": "long_gallery",
+          "name": "Long Gallery",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "obelisk_junction@(10, 0, 8)/0",
+          "gallery_id": "obelisk_junction",
+          "name": "Obelisk Junction",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "obelisk_terrace@(14, 0, 5)/1",
+          "gallery_id": "obelisk_terrace",
+          "name": "Obelisk Terrace",
+          "label": ""
+        },
+        {
+          "number": 15,
+          "key": "offset_terrace_complex@(12, 0, 1)/3",
+          "gallery_id": "offset_terrace_complex",
+          "name": "Offset Terrace Complex",
+          "label": ""
+        },
+        {
+          "number": 16,
+          "key": "pillar@(13, 0, 11)/1",
+          "gallery_id": "pillar_hall",
+          "name": "Offering Court",
+          "label": ""
+        },
+        {
+          "number": 17,
+          "key": "planks@(13, 0, 8)/2",
+          "gallery_id": "pit_planks_room",
+          "name": "Pit Planks Room",
+          "label": ""
+        },
+        {
+          "number": 18,
+          "key": "skyless_ziggurat@(1, 0, 7)/3",
+          "gallery_id": "skyless_ziggurat",
+          "name": "Skyless Ziggurat",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 19,
+          "key": "split@(11, 0, 10)/0",
+          "gallery_id": "split_room",
+          "name": "Split Room",
+          "label": ""
+        },
+        {
+          "number": 20,
+          "key": "sun_shadow@(6, 0, 3)/1",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": "Minor relic shrine"
+        },
+        {
+          "number": 21,
+          "key": "sunken_shrine@(9, 0, 3)/1",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "legacy-42",
+      "mode": "legacy",
+      "mode_label": "Legacy generator",
+      "style_label": "Crossroads",
+      "title": "Crossroads · 42",
+      "requested_seed": 42,
+      "accepted_seed": 1672691090,
+      "attempts": 3,
+      "image": "images/layouts/legacy-42.svg",
+      "image_hash": "cfa3810d245ba6ecd53ae4ef6ae04fabfe4879726c2a5f8e914c1e16029fe68e",
+      "footprint_m": [
+        120.3,
+        120.15
+      ],
+      "room_count": 14,
+      "corridor_count": 26,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(2, 0, 2)/0",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(2, 0, 11)/1",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": ""
+        },
+        {
+          "number": 3,
+          "key": "black_pit_causeway_chamber@(11, 1, 1)/3",
+          "gallery_id": "BlackPitCausewayChamber",
+          "name": "Black Pit Causeway Chamber",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "dogleg_climb@(5, 0, 7)/0",
+          "gallery_id": "dogleg_climb",
+          "name": "Dogleg Climb",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "fuel_shrine@(10, 1, 7)/3",
+          "gallery_id": "fuel_shrine",
+          "name": "Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "junction@(3, 0, 2)/2",
+          "gallery_id": "junction_room",
+          "name": "Junction Room",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "processional_hall@(2, 0, 3)/0",
+          "gallery_id": "processional_hall",
+          "name": "Processional Hall",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "skyless_ziggurat@(9, 1, 9)/2",
+          "gallery_id": "skyless_ziggurat",
+          "name": "Skyless Ziggurat",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 9,
+          "key": "sunken_hourglass@(4, 0, 4)/2",
+          "gallery_id": "sunken_hourglass",
+          "name": "Sunken Hourglass",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "switchback_ascent@(8, 0, 3)/1",
+          "gallery_id": "switchback_ascent",
+          "name": "Switchback Ascent",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "terraced_court@(5, 0, 11)/1",
+          "gallery_id": "terraced_court",
+          "name": "Terraced Court",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "treasure@(15, 1, 11)/1",
+          "gallery_id": "treasure_room",
+          "name": "Treasure Room",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "twin_court_crypt@(11, 1, 4)/1",
+          "gallery_id": "twin_court_crypt",
+          "name": "Twin Court Crypt",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "vault@(12, 1, 15)/0",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "legacy-2026",
+      "mode": "legacy",
+      "mode_label": "Legacy generator",
+      "style_label": "Forks",
+      "title": "Forks · 2026",
+      "requested_seed": 2026,
+      "accepted_seed": 3782147510,
+      "attempts": 3,
+      "image": "images/layouts/legacy-2026.svg",
+      "image_hash": "c346658fbab80db3eeef3981d17bc3e95c590d343c7bad5a5ceb6ebca037033b",
+      "footprint_m": [
+        128.15,
+        120.15
+      ],
+      "room_count": 12,
+      "corridor_count": 27,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(2, 0, 4)/0",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "fuel_shrine@(3, 0, 9)/3",
+          "gallery_id": "trenchbroom_fuel_shrine",
+          "name": "Trenchbroom Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 3,
+          "key": "processional_hall@(11, 1, 2)/0",
+          "gallery_id": "processional_hall",
+          "name": "Processional Hall",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "rising_procession@(5, 0, 10)/1",
+          "gallery_id": "rising_procession",
+          "name": "Rising Procession",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "scarab_switchback@(10, 1, 5)/2",
+          "gallery_id": "scarab_switchback",
+          "name": "Scarab Switchback",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "skyless_ziggurat@(9, 1, 8)/1",
+          "gallery_id": "skyless_ziggurat",
+          "name": "Skyless Ziggurat",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 7,
+          "key": "spike_wheel_chamber@(2, 0, 10)/0",
+          "gallery_id": "SpikeWheelChamber",
+          "name": "Wheel Chamber",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "sun_shadow@(13, 1, 14)/3",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "sunken_shrine@(1, 0, 5)/3",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "switchback_ascent@(5, 0, 4)/0",
+          "gallery_id": "switchback_ascent",
+          "name": "Switchback Ascent",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "treasure@(11, 1, 14)/3",
+          "gallery_id": "treasure_room",
+          "name": "Treasure Room",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "vault@(15, 1, 10)/1",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "legacy-1003",
+      "mode": "legacy",
+      "mode_label": "Legacy generator",
+      "style_label": "Circuit",
+      "title": "Circuit · 1003",
+      "requested_seed": 1003,
+      "accepted_seed": 1257319183,
+      "attempts": 2,
+      "image": "images/layouts/legacy-1003.svg",
+      "image_hash": "5259294885d0cf3bae547c731507d4dbe4352387d85663cb36d8b36d4134fcc0",
+      "footprint_m": [
+        128.15,
+        136.3
+      ],
+      "room_count": 13,
+      "corridor_count": 43,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(2, 0, 2)/0",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(10, 1, 5)/0",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": ""
+        },
+        {
+          "number": 3,
+          "key": "black_pit_causeway_chamber@(1, 0, 8)/3",
+          "gallery_id": "BlackPitCausewayChamber",
+          "name": "Black Pit Causeway Chamber",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "canopic_passage@(9, 1, 2)/2",
+          "gallery_id": "canopic_passage",
+          "name": "Canopic Passage",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "dart_court@(10, 1, 13)/2",
+          "gallery_id": "dart_court_v2",
+          "name": "Dart Court V2",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "diagonal_tribune@(5, 0, 4)/0",
+          "gallery_id": "diagonal_tribune",
+          "name": "Diagonal Tribune",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "grand_hypostyle_hall@(1, 0, 3)/1",
+          "gallery_id": "grand_hypostyle_hall",
+          "name": "Grand Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "jackals_jaw@(9, 1, 8)/0",
+          "gallery_id": "jackals_jaw",
+          "name": "Jackals Jaw",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 9,
+          "key": "long_gallery@(10, 1, 1)/1",
+          "gallery_id": "long_gallery",
+          "name": "Long Gallery",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "scarab_switchback@(4, 0, 1)/2",
+          "gallery_id": "scarab_switchback",
+          "name": "Scarab Switchback",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "switchback_ascent@(5, 0, 10)/0",
+          "gallery_id": "switchback_ascent",
+          "name": "Switchback Ascent",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "treasure@(9, 1, 15)/0",
+          "gallery_id": "treasure_room",
+          "name": "Treasure Room",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "vault@(14, 1, 2)/0",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "legacy-1000",
+      "mode": "legacy",
+      "mode_label": "Legacy generator",
+      "style_label": "Forks",
+      "title": "Forks · 1000",
+      "requested_seed": 1000,
+      "accepted_seed": 3984316430,
+      "attempts": 4,
+      "image": "images/layouts/legacy-1000.svg",
+      "image_hash": "dd7ea1249de28afc125096ab62370a6297c2cd073afddc50b2b5f56ef411bb83",
+      "footprint_m": [
+        128.15,
+        128.15
+      ],
+      "room_count": 12,
+      "corridor_count": 29,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(2, 0, 3)/0",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(12, 1, 7)/3",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": ""
+        },
+        {
+          "number": 3,
+          "key": "dogleg_climb@(5, 0, 4)/0",
+          "gallery_id": "dogleg_climb",
+          "name": "Dogleg Climb",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "long_gallery@(11, 1, 5)/1",
+          "gallery_id": "long_gallery",
+          "name": "Long Gallery",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "obelisk_terrace@(9, 1, 7)/0",
+          "gallery_id": "obelisk_terrace",
+          "name": "Obelisk Terrace",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "pillar@(9, 1, 5)/0",
+          "gallery_id": "pillar_hall",
+          "name": "Offering Court",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "rising_procession@(5, 0, 10)/1",
+          "gallery_id": "rising_procession",
+          "name": "Rising Procession",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "skyless_ziggurat@(9, 1, 10)/1",
+          "gallery_id": "skyless_ziggurat",
+          "name": "Skyless Ziggurat",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 9,
+          "key": "split_level_killbox@(1, 0, 4)/2",
+          "gallery_id": "SplitLevelKillbox",
+          "name": "Split Level Killbox",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "sunken_hourglass@(3, 0, 1)/1",
+          "gallery_id": "sunken_hourglass",
+          "name": "Sunken Hourglass",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "treasure@(14, 1, 4)/2",
+          "gallery_id": "treasure_room",
+          "name": "Treasure Room",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "vault@(15, 1, 12)/1",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "legacy-1001",
+      "mode": "legacy",
+      "mode_label": "Legacy generator",
+      "style_label": "Forks",
+      "title": "Forks · 1001",
+      "requested_seed": 1001,
+      "accepted_seed": 2701224669,
+      "attempts": 20,
+      "image": "images/layouts/legacy-1001.svg",
+      "image_hash": "bca3abaa427c5587dad74cc3e6f0ab4e912f451e294fc58787c62237b8519de3",
+      "footprint_m": [
+        136.3,
+        128.3
+      ],
+      "room_count": 12,
+      "corridor_count": 22,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(4, 0, 2)/0",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(13, 0, 2)/3",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": ""
+        },
+        {
+          "number": 3,
+          "key": "hundred_pillars@(10, 1, 9)/1",
+          "gallery_id": "hundred_pillars",
+          "name": "Hundred Pillars",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 4,
+          "key": "junction@(4, 0, 3)/3",
+          "gallery_id": "junction_room",
+          "name": "Junction Room",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "long_gallery@(2, 1, 12)/1",
+          "gallery_id": "long_gallery",
+          "name": "Long Gallery",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "rising_procession@(4, 0, 5)/0",
+          "gallery_id": "rising_procession",
+          "name": "Rising Procession",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "spike_wheel_chamber@(10, 0, 2)/3",
+          "gallery_id": "SpikeWheelChamber",
+          "name": "Wheel Chamber",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "sunken_hourglass@(1, 0, 2)/3",
+          "gallery_id": "sunken_hourglass",
+          "name": "Sunken Hourglass",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "sunwheel_arena@(5, 1, 10)/2",
+          "gallery_id": "sunwheel_arena",
+          "name": "Sunwheel Arena",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "terraced_court@(10, 0, 5)/0",
+          "gallery_id": "terraced_court",
+          "name": "Terraced Court",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "treasure@(1, 1, 12)/3",
+          "gallery_id": "treasure_room",
+          "name": "Treasure Room",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "vault@(7, 1, 15)/0",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "legacy-1002",
+      "mode": "legacy",
+      "mode_label": "Legacy generator",
+      "style_label": "Crossroads",
+      "title": "Crossroads · 1002",
+      "requested_seed": 1002,
+      "accepted_seed": 1002,
+      "attempts": 1,
+      "image": "images/layouts/legacy-1002.svg",
+      "image_hash": "478f0cfc1e2fdff30e800745d693eb78167bd19a3531abd831883af16cc03609",
+      "footprint_m": [
+        128.3,
+        136.3
+      ],
+      "room_count": 14,
+      "corridor_count": 55,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(2, 0, 4)/0",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "diagonal_tribune@(5, 0, 7)/0",
+          "gallery_id": "diagonal_tribune",
+          "name": "Diagonal Tribune",
+          "label": ""
+        },
+        {
+          "number": 3,
+          "key": "hypostyle_hall@(11, 1, 4)/2",
+          "gallery_id": "hypostyle_hall",
+          "name": "Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "l_shaped_passage@(3, 0, 12)/3",
+          "gallery_id": "l_shaped_passage",
+          "name": "L Shaped Passage",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "long_gallery@(13, 1, 7)/3",
+          "gallery_id": "long_gallery",
+          "name": "Long Gallery",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "scarab_switchback@(3, 0, 4)/1",
+          "gallery_id": "scarab_switchback",
+          "name": "Scarab Switchback",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "skyless_ziggurat@(9, 1, 8)/0",
+          "gallery_id": "skyless_ziggurat",
+          "name": "Skyless Ziggurat",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 8,
+          "key": "split@(11, 1, 14)/3",
+          "gallery_id": "split_room",
+          "name": "Split Room",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "split_level_killbox@(11, 1, 1)/0",
+          "gallery_id": "SplitLevelKillbox",
+          "name": "Split Level Killbox",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "sun_shadow@(1, 0, 5)/2",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "switchback_ascent@(8, 0, 3)/1",
+          "gallery_id": "switchback_ascent",
+          "name": "Switchback Ascent",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "terraced_court@(5, 0, 11)/1",
+          "gallery_id": "terraced_court",
+          "name": "Terraced Court",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "treasure@(15, 1, 9)/1",
+          "gallery_id": "treasure_room",
+          "name": "Treasure Room",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "vault@(9, 1, 15)/2",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "legacy-1004",
+      "mode": "legacy",
+      "mode_label": "Legacy generator",
+      "style_label": "Circuit",
+      "title": "Circuit · 1004",
+      "requested_seed": 1004,
+      "accepted_seed": 3211631638,
+      "attempts": 8,
+      "image": "images/layouts/legacy-1004.svg",
+      "image_hash": "6d53f49e0f5361438c47f30e22a435c4d102490f1265e413f3e747014af7755d",
+      "footprint_m": [
+        128.3,
+        112.15
+      ],
+      "room_count": 13,
+      "corridor_count": 27,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(2, 0, 3)/0",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "anubis_trial@(4, 0, 1)/3",
+          "gallery_id": "anubis_trial",
+          "name": "Anubis Trial",
+          "label": ""
+        },
+        {
+          "number": 3,
+          "key": "dogleg_climb@(5, 0, 10)/0",
+          "gallery_id": "dogleg_climb",
+          "name": "Dogleg Climb",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "long_gallery@(12, 1, 1)/3",
+          "gallery_id": "long_gallery",
+          "name": "Long Gallery",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "pillar@(1, 0, 1)/0",
+          "gallery_id": "pillar_hall",
+          "name": "Offering Court",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "rising_procession@(5, 0, 4)/1",
+          "gallery_id": "rising_procession",
+          "name": "Rising Procession",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "scarab_switchback@(10, 1, 2)/2",
+          "gallery_id": "scarab_switchback",
+          "name": "Scarab Switchback",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "skyless_ziggurat@(9, 1, 8)/1",
+          "gallery_id": "skyless_ziggurat",
+          "name": "Skyless Ziggurat",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 9,
+          "key": "spike_wheel_chamber@(1, 0, 7)/0",
+          "gallery_id": "SpikeWheelChamber",
+          "name": "Wheel Chamber",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "split_level_killbox@(1, 0, 4)/2",
+          "gallery_id": "SplitLevelKillbox",
+          "name": "Split Level Killbox",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "sunken_shrine@(9, 1, 5)/3",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "treasure@(15, 1, 2)/0",
+          "gallery_id": "treasure_room",
+          "name": "Treasure Room",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "vault@(12, 1, 14)/0",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "legacy-1005",
+      "mode": "legacy",
+      "mode_label": "Legacy generator",
+      "style_label": "Forks",
+      "title": "Forks · 1005",
+      "requested_seed": 1005,
+      "accepted_seed": 870976786,
+      "attempts": 3,
+      "image": "images/layouts/legacy-1005.svg",
+      "image_hash": "db893ee0b39944fe0e9ead189743c70081f633a2e6f0a9e7123a0b9395cf228d",
+      "footprint_m": [
+        136.3,
+        120.3
+      ],
+      "room_count": 12,
+      "corridor_count": 38,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(2, 0, 3)/0",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "fuel_shrine@(15, 1, 10)/3",
+          "gallery_id": "fuel_shrine",
+          "name": "Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 3,
+          "key": "judgment_path@(9, 1, 2)/3",
+          "gallery_id": "judgment_path",
+          "name": "Judgment Path",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "junction@(15, 1, 11)/3",
+          "gallery_id": "junction_room",
+          "name": "Junction Room",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "skyless_ziggurat@(9, 1, 10)/0",
+          "gallery_id": "skyless_ziggurat",
+          "name": "Skyless Ziggurat",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 6,
+          "key": "split_level_killbox@(1, 0, 4)/2",
+          "gallery_id": "SplitLevelKillbox",
+          "name": "Split Level Killbox",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "sunken_hourglass@(12, 1, 7)/1",
+          "gallery_id": "sunken_hourglass",
+          "name": "Sunken Hourglass",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "switchback_ascent@(8, 0, 4)/1",
+          "gallery_id": "switchback_ascent",
+          "name": "Switchback Ascent",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "terraced_court@(5, 0, 10)/1",
+          "gallery_id": "terraced_court",
+          "name": "Terraced Court",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "treasure@(15, 1, 12)/0",
+          "gallery_id": "treasure_room",
+          "name": "Treasure Room",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "twin_court_crypt@(1, 0, 10)/1",
+          "gallery_id": "twin_court_crypt",
+          "name": "Twin Court Crypt",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "vault@(15, 1, 8)/1",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "legacy-1006",
+      "mode": "legacy",
+      "mode_label": "Legacy generator",
+      "style_label": "Forks",
+      "title": "Forks · 1006",
+      "requested_seed": 1006,
+      "accepted_seed": 2825289234,
+      "attempts": 2,
+      "image": "images/layouts/legacy-1006.svg",
+      "image_hash": "b16d16714ff47f8d8f76c7ff966ee50051734cb096c371550f0b3e5a9d8238d1",
+      "footprint_m": [
+        120.15,
+        128.3
+      ],
+      "room_count": 12,
+      "corridor_count": 31,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(3, 0, 2)/0",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "jackal_measure@(5, 0, 2)/0",
+          "gallery_id": "jackal_measure",
+          "name": "Jackal Measure",
+          "label": ""
+        },
+        {
+          "number": 3,
+          "key": "long_gallery@(11, 0, 2)/2",
+          "gallery_id": "long_gallery",
+          "name": "Long Gallery",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "processional_hall@(8, 0, 4)/1",
+          "gallery_id": "processional_hall",
+          "name": "Processional Hall",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "rising_procession@(10, 0, 5)/0",
+          "gallery_id": "rising_procession",
+          "name": "Rising Procession",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "skyless_ziggurat@(8, 1, 9)/1",
+          "gallery_id": "skyless_ziggurat",
+          "name": "Skyless Ziggurat",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 7,
+          "key": "split_level_killbox@(1, 1, 13)/1",
+          "gallery_id": "SplitLevelKillbox",
+          "name": "Split Level Killbox",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "sun_shadow@(2, 0, 3)/2",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "terraced_court@(4, 0, 5)/0",
+          "gallery_id": "terraced_court",
+          "name": "Terraced Court",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "treasure@(11, 1, 15)/0",
+          "gallery_id": "treasure_room",
+          "name": "Treasure Room",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "twin_court_crypt@(4, 1, 11)/1",
+          "gallery_id": "twin_court_crypt",
+          "name": "Twin Court Crypt",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "vault@(14, 1, 11)/1",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "legacy-1007",
+      "mode": "legacy",
+      "mode_label": "Legacy generator",
+      "style_label": "Crossroads",
+      "title": "Crossroads · 1007",
+      "requested_seed": 1007,
+      "accepted_seed": 484634391,
+      "attempts": 6,
+      "image": "images/layouts/legacy-1007.svg",
+      "image_hash": "3e996dcef48a1b40c6b2c922da958b694fcaa30adbc3bf1be49a5feab4ce1f15",
+      "footprint_m": [
+        120.25,
+        128.3
+      ],
+      "room_count": 14,
+      "corridor_count": 29,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(2, 0, 4)/0",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "jackals_jaw@(9, 1, 10)/2",
+          "gallery_id": "jackals_jaw",
+          "name": "Jackals Jaw",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 3,
+          "key": "junction@(11, 1, 15)/2",
+          "gallery_id": "junction_room",
+          "name": "Junction Room",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "l_shaped_passage@(2, 0, 11)/1",
+          "gallery_id": "l_shaped_passage",
+          "name": "L Shaped Passage",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "long_gallery@(12, 1, 1)/2",
+          "gallery_id": "long_gallery",
+          "name": "Long Gallery",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "rising_procession@(5, 0, 7)/1",
+          "gallery_id": "rising_procession",
+          "name": "Rising Procession",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "scarab_switchback@(11, 1, 4)/0",
+          "gallery_id": "scarab_switchback",
+          "name": "Scarab Switchback",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "split_level_killbox@(10, 1, 7)/2",
+          "gallery_id": "SplitLevelKillbox",
+          "name": "Split Level Killbox",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "sun_shadow@(14, 1, 10)/0",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "sundered_processional_court@(1, 0, 6)/2",
+          "gallery_id": "sundered_processional_court",
+          "name": "Sundered Processional Court",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "switchback_ascent@(8, 0, 3)/1",
+          "gallery_id": "switchback_ascent",
+          "name": "Switchback Ascent",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "terraced_court@(5, 0, 11)/1",
+          "gallery_id": "terraced_court",
+          "name": "Terraced Court",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "treasure@(12, 1, 15)/1",
+          "gallery_id": "treasure_room",
+          "name": "Treasure Room",
+          "label": ""
+        },
+        {
+          "number": 14,
+          "key": "vault@(15, 1, 13)/1",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "legacy-1008",
+      "mode": "legacy",
+      "mode_label": "Legacy generator",
+      "style_label": "Circuit",
+      "title": "Circuit · 1008",
+      "requested_seed": 1008,
+      "accepted_seed": 2438946842,
+      "attempts": 8,
+      "image": "images/layouts/legacy-1008.svg",
+      "image_hash": "efddd060c864360061664d0e03f518358fceb63a16d033cf897016a2ea00b6f3",
+      "footprint_m": [
+        136.3,
+        136.3
+      ],
+      "room_count": 13,
+      "corridor_count": 43,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(4, 0, 2)/0",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "dart_gallery_gauntlet@(11, 0, 2)/2",
+          "gallery_id": "DartGalleryGauntlet",
+          "name": "Dart Gallery Gauntlet",
+          "label": ""
+        },
+        {
+          "number": 3,
+          "key": "diagonal_tribune@(10, 0, 5)/3",
+          "gallery_id": "diagonal_tribune",
+          "name": "Diagonal Tribune",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "grand_hypostyle_hall@(7, 1, 11)/3",
+          "gallery_id": "grand_hypostyle_hall",
+          "name": "Grand Hypostyle Hall",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "judgment_path@(3, 0, 4)/2",
+          "gallery_id": "judgment_path",
+          "name": "Judgment Path",
+          "label": ""
+        },
+        {
+          "number": 6,
+          "key": "long_gallery@(5, 0, 3)/0",
+          "gallery_id": "long_gallery",
+          "name": "Long Gallery",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "processional_hall@(13, 1, 15)/1",
+          "gallery_id": "processional_hall",
+          "name": "Processional Hall",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "risk_reward_shrine_chamber@(1, 0, 1)/1",
+          "gallery_id": "RiskRewardShrineChamber",
+          "name": "Risk Reward Shrine Chamber",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "skyless_ziggurat@(10, 1, 9)/0",
+          "gallery_id": "skyless_ziggurat",
+          "name": "Skyless Ziggurat",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 10,
+          "key": "sunken_hourglass@(4, 1, 13)/3",
+          "gallery_id": "sunken_hourglass",
+          "name": "Sunken Hourglass",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "switchback_ascent@(4, 0, 8)/0",
+          "gallery_id": "switchback_ascent",
+          "name": "Switchback Ascent",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "treasure@(11, 1, 15)/3",
+          "gallery_id": "treasure_room",
+          "name": "Treasure Room",
+          "label": ""
+        },
+        {
+          "number": 13,
+          "key": "vault@(2, 1, 14)/3",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "legacy-1009",
+      "mode": "legacy",
+      "mode_label": "Legacy generator",
+      "style_label": "Forks",
+      "title": "Forks · 1009",
+      "requested_seed": 1009,
+      "accepted_seed": 3243635659,
+      "attempts": 17,
+      "image": "images/layouts/legacy-1009.svg",
+      "image_hash": "43ebe96bc09f64cef6324987785d0ef8304c509e595964c6379fda62c4058a78",
+      "footprint_m": [
+        104.3,
+        112.15
+      ],
+      "room_count": 12,
+      "corridor_count": 27,
+      "rooms": [
+        {
+          "number": 1,
+          "key": "spawn@(2, 0, 2)/0",
+          "gallery_id": "spawn_room",
+          "name": "Spawn Room",
+          "label": "Entrance / exit"
+        },
+        {
+          "number": 2,
+          "key": "dart_gallery_gauntlet@(2, 1, 11)/1",
+          "gallery_id": "DartGalleryGauntlet",
+          "name": "Dart Gallery Gauntlet",
+          "label": ""
+        },
+        {
+          "number": 3,
+          "key": "diagonal_tribune@(4, 0, 5)/3",
+          "gallery_id": "diagonal_tribune",
+          "name": "Diagonal Tribune",
+          "label": ""
+        },
+        {
+          "number": 4,
+          "key": "fuel_shrine@(1, 0, 2)/3",
+          "gallery_id": "trenchbroom_fuel_shrine",
+          "name": "Trenchbroom Fuel Shrine",
+          "label": ""
+        },
+        {
+          "number": 5,
+          "key": "jackals_jaw@(8, 1, 9)/1",
+          "gallery_id": "jackals_jaw",
+          "name": "Jackals Jaw",
+          "label": "Main relic chamber"
+        },
+        {
+          "number": 6,
+          "key": "processional_hall@(5, 0, 2)/2",
+          "gallery_id": "processional_hall",
+          "name": "Processional Hall",
+          "label": ""
+        },
+        {
+          "number": 7,
+          "key": "rising_procession@(10, 0, 5)/0",
+          "gallery_id": "rising_procession",
+          "name": "Rising Procession",
+          "label": ""
+        },
+        {
+          "number": 8,
+          "key": "scarab_switchback@(1, 0, 3)/2",
+          "gallery_id": "scarab_switchback",
+          "name": "Scarab Switchback",
+          "label": ""
+        },
+        {
+          "number": 9,
+          "key": "sun_shadow@(11, 0, 2)/0",
+          "gallery_id": "sun_shadow",
+          "name": "Sun Shadow",
+          "label": ""
+        },
+        {
+          "number": 10,
+          "key": "sunken_shrine@(5, 1, 10)/1",
+          "gallery_id": "sunken_shrine",
+          "name": "Sunken Shrine",
+          "label": ""
+        },
+        {
+          "number": 11,
+          "key": "treasure@(6, 1, 13)/0",
+          "gallery_id": "treasure_room",
+          "name": "Treasure Room",
+          "label": ""
+        },
+        {
+          "number": 12,
+          "key": "vault@(9, 1, 14)/0",
+          "gallery_id": "vault_room",
+          "name": "Vault Room",
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

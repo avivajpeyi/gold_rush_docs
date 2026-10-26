@@ -11,6 +11,12 @@ Categories describe authored roles; rewards depend on the generated run.
 **[Browse the searchable gallery](https://avivajpeyi.github.io/gold_rush_docs/)** ·
 [Capture metadata](site/rooms.json)
 
+**[Dungeon layout references](https://avivajpeyi.github.io/gold_rush_docs/layouts.html)**
+show 24 seeded top-down plans: normal tombs, optional ramped exploration and
+legacy forks/crossroads/circuits. Enlarge or download each SVG and use its numbered
+room key to open the matching room images. Plans project static collision with
+heights flattened; each carries a metric scale and its requested/accepted seed.
+
 These are geometry review images under fixed inspection lighting. Interior views
 keep the roofs; top-down views hide roofs and overhead beams. Gameplay is frozen,
 door seals are open, and procedural dressing is absent. Footprints describe the
@@ -46,6 +52,25 @@ the game source and private repository are not needed to browse it.
 The included GitHub Pages workflow publishes `site/` on pushes to `main`. The
 repository’s Pages source must be **GitHub Actions**. To preview offline, serve
 `site/` with `python3 -m http.server --directory site` or open `site/index.html`.
+
+## Refresh dungeon plans
+
+From the game root, first import a disposable copy so the export uses separate
+saves and does not alter the live editor project. Choose a new destination if it
+already exists:
+
+```sh
+python3 tools/validate_import.py "$GODOT_BIN" --destination build/docs_layout_runtime
+python3 tools/update_dungeon_layout_gallery.py --generate \
+  --project build/docs_layout_runtime --godot "$GODOT_BIN"
+python3 tools/update_dungeon_layout_gallery.py --check
+```
+
+The layout updater runs the existing production exporter with no starting keys,
+checks connectivity and unique horizontal footprints, and publishes only SVGs,
+room references and summary metadata. Raw exports and logs stay in the game’s
+`build/` directory. Its `--check` needs neither Godot nor the raw exports. Refresh
+the room gallery first when the room catalogue changes.
 
 ## All spaces
 
