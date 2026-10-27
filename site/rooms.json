@@ -74,11 +74,11 @@
       },
       "doors": 1,
       "id": "anubis_trial",
-      "source_hash": "00d3213da38c1872e754d6e94b50ac7946327ab8541fb1e30e9fc0a7bdf0a287",
+      "source_hash": "45ff4d4a2b117a7120d1a947b5bc97f33d505f86aa47181fed2f4a19e422cc77",
       "image_hashes": {
-        "top.webp": "60045c49bd5f8d30b78f70049e9f778f900dd15b6790d4e8e447d8ec1d8d4562",
-        "interior-1.webp": "967a938ed59823d170a60c30c19ff63b2912900fb5cffa9142252867c576982d",
-        "interior-2.webp": "8c0ee83360d6e37fb866074829ce86ed75020503d3e425792fd9e9008cd78a91"
+        "top.webp": "c30e803b6f665cce5d1d1ac97cb603b4ecff0a90a1e841941e7236188b44f5dd",
+        "interior-1.webp": "317c9c9fb6ab395303adec2d57f5464bba5d322665ba3b48c3665b1522c21002",
+        "interior-2.webp": "f18b0a4ef94013a6eaba0454bc9ba2424e45af8acbd7149df72bfaf24f4b591b"
       },
       "name": "Anubis Trial",
       "kind": "Room",
@@ -149,11 +149,11 @@
       },
       "doors": 2,
       "id": "BlackPitCausewayChamber",
-      "source_hash": "cf3534730626c6c1d028626987a458ff8fc99fbec716b15e1c39dfa5ff024d21",
+      "source_hash": "1b7b166ee3bed67d53afbd2e5626b43338b4e2bad3448c2597ba1c10b97adf0a",
       "image_hashes": {
-        "top.webp": "3262d2c1443f8657046b45e6d7a0a628640814759873999a1c45f6d44d0763ae",
-        "interior-1.webp": "165feea3d98bf627e5576deb70bcb62b2f9292cc3b45287fe5b0c865a2c4e6b4",
-        "interior-2.webp": "ec6c4041815c2273ffa5500e92c8aa22822e0426d8e0ede1c5c651c177a813ea"
+        "top.webp": "290c615a60359867c51796f6c59f821045e76c9f2cd1cf85e394a2b12966c900",
+        "interior-1.webp": "63523897e822c452f51be6331f8939c5d006022b35971b4fd2e173b16374b399",
+        "interior-2.webp": "7fa88768089ba72ad2ac71f32ea7137e3393051813dffd22b677b40c3cfd28d7"
       },
       "name": "Black Pit Causeway Chamber",
       "kind": "Room",
@@ -224,11 +224,11 @@
       },
       "doors": 3,
       "id": "boulder_descent",
-      "source_hash": "f7bbc925249e8637093d5864f585c4dc6c9080bd9b7d85a8cecfb9f9892f07f6",
+      "source_hash": "bd0fa6671c0da1fa16e36216591864ce570d33bf3fc8433ee3a39b635dac1378",
       "image_hashes": {
-        "top.webp": "5526357ce922af6d0aaac5c97b876c041648fb7ddbe19094be510b80e7d783fc",
-        "interior-1.webp": "38da2eb932d1cc8dbc058047431083f1105f71c9eca969916600c4ec8b4d3efe",
-        "interior-2.webp": "63a7307623bb5ca163417cfeebf68bb8444d67eda8d796ec2b6779eb2e9e6f8a"
+        "top.webp": "468a7535d8b94e0d137ad51ae96572e3d55caf8b589a38c45386ea7cba85ef05",
+        "interior-1.webp": "4cfc44c3456059b398a816d3eadda0857986342c225d4ce7ca1c66214cc3cfe7",
+        "interior-2.webp": "e95d2c2cc4751da732b04f3a3f9bf84be4a4ba52ea90e1f2033bf4fe788ed0f6"
       },
       "name": "Boulder Descent",
       "kind": "Room",
@@ -299,11 +299,11 @@
       },
       "doors": 2,
       "id": "broken_bridge_chamber",
-      "source_hash": "c7caae2d76424ae7853bf3b03b6d39b9f1932f4ce654e6360a6db576adcff24a",
+      "source_hash": "8d74909561d231f715f29c4c04acbb063150a204a079de0822cabe82e4e8b99d",
       "image_hashes": {
-        "top.webp": "719fc125202fb3f12303a71504a71f10182608ab122b9a659a3b422bdcf2e2a3",
-        "interior-1.webp": "717ea54e07e51a3b17bbc61100a64513974e3c8fb8742beb219732031260fabb",
-        "interior-2.webp": "73f79e674f8937fb34544bc91515b691a79e7ecd093b2dad6b4ed598a9c2a037"
+        "top.webp": "5cebaecc984bf55d1e6da68c642d159866c76de1837a84d3f679e89f5f26095c",
+        "interior-1.webp": "f2fcab1cb7c174911a5403c4c04aa1ff210021ea42d75bf1c850a3f1a7b02eba",
+        "interior-2.webp": "873b73d9fb769ab5d83bad4a057968abd01220704bce44772ff0688946883547"
       },
       "name": "Broken Bridge Chamber",
       "kind": "Room",
@@ -374,11 +374,11 @@
       },
       "doors": 3,
       "id": "burial_descent",
-      "source_hash": "86ab36d821ea8d303b50b90a37314db390d50546cb9c9846bbacedece1019b16",
+      "source_hash": "c4656821bf2e44846128eaca990adad8362792da470ff4998f59fa9fd1096c68",
       "image_hashes": {
-        "top.webp": "069bc87cdcb27e3c736bc4a518dbc4e15485f6fed7e2cfd88e5cb363896da0d0",
-        "interior-1.webp": "7a507b790b88b5adaed6c9e33d600d35fed607b720a7845b023c0da1621e097f",
-        "interior-2.webp": "7d026ec4b67a7740ff1d8e41e75aac22c19fe949351863a0b859ad15a16f9f6c"
+        "top.webp": "1af0ed6b6ac93fec29e9401c13d0532c803222801f108faf2a767913bdc879d0",
+        "interior-1.webp": "141d398b112b6693e1f0f5e6101137b3b9b556b46cd5ee33f4822ea7e42dfb56",
+        "interior-2.webp": "48e0eedb3c3737ebbc632416519dd5cac0a80d59f3094106258dc6e072940428"
       },
       "name": "Burial Descent",
       "kind": "Room",
@@ -449,11 +449,11 @@
       },
       "doors": 2,
       "id": "burial_hall_complex",
-      "source_hash": "dbe5cd5cb204b959390b3c20eb0a554b688ab0a0418c0016b2322f887f68b7c1",
+      "source_hash": "b16f216cc691c0319aa889e1ffbb773c7ea84f5b0fa65f01119cc8762dc89020",
       "image_hashes": {
-        "top.webp": "62dd8c2c3c6b69d8eaf2e4a030358099ceb9e82f80f99b67459bb3400f76bc9d",
-        "interior-1.webp": "5aff0981194729a739e1efb89b548f8c83a145f1d5d2f2267b189d39b4e9c283",
-        "interior-2.webp": "e296ae0ccdc30a7b5c96a8a34d7372ed57954149d0f8bec5ffb0fda7637d6faa"
+        "top.webp": "5802b4f2922e3b1d1390d1ed0c207d311e8cc6c92996742470a550eed7a1c4e0",
+        "interior-1.webp": "20a2aae65e5fa6475cabefa0374474919dc9058f90e887a25f451e0796a9a056",
+        "interior-2.webp": "54d1c35058be9051ffdd29160fec256c0eb02a699548fa571d530ae25b0914c7"
       },
       "name": "Burial Hall Complex",
       "kind": "Room",
@@ -524,11 +524,11 @@
       },
       "doors": 2,
       "id": "canopic_passage",
-      "source_hash": "76ef978210927fb0b1b8db8bed84c776c2cdd0a4dba23e2586598e6e3d1bfebe",
+      "source_hash": "c84b4cb5ebc8d6d8dba5541df04a19b16d56f28520ef4637189b0b18aab569bf",
       "image_hashes": {
-        "top.webp": "39a5eec42ba8ec4be672df5598dc10b6bb323dcd2606ffa49fc6914b5836258d",
-        "interior-1.webp": "3bb0c9a36ce7865fff2032d1b10e78a7c2dd356a9064538d40d101143b2e8de0",
-        "interior-2.webp": "49833cd536391c59daaf6cdb0505604ba0d34479b2388bcfced797d71fbf2c64"
+        "top.webp": "c742d57f08c82055059ed308a14bcaa85d4e48bb13aa60afa4e6e70a01193474",
+        "interior-1.webp": "171badfc8257f10bab2e2524c18d383f9d631d22be9cfcd961aa9355843fca8f",
+        "interior-2.webp": "87c84930e14f784861ac4ae152b10a6b0a59bd15a5b59e2909eb5a0f48dbc45c"
       },
       "name": "Canopic Passage",
       "kind": "Room",
@@ -599,11 +599,11 @@
       },
       "doors": 2,
       "id": "canopic_passage_chicane",
-      "source_hash": "b86232f6767e49cabf8ab986bc4de6e10916cc37aec3ff531ed3967a59140814",
+      "source_hash": "937d38aca4a97e25d83a6ada531f559f79efc31ac91c2321fa091265d2e0c7ff",
       "image_hashes": {
-        "top.webp": "f392e04aa868fe1cfb218de552a1752c75db2b346b266378f12bee384a094bbc",
-        "interior-1.webp": "e2263bbbe0cc4a309d4250cbf6a034728b4d280575280a9c929d60b07edf6fe2",
-        "interior-2.webp": "df87c02a66eb323154b4136efda8d8acb52d26c081bfb0f4437318dfd3229c31"
+        "top.webp": "3c7ff659700b423e3ff88e40ce1205c855c3856cb8ff4962852a5a8d649cc1fa",
+        "interior-1.webp": "35f6fc2dd495e6c961568d39ccb3014177483ca9251332a6f6f1ad7e0afeef6a",
+        "interior-2.webp": "67439cc2acc6816d235dc59cdb22347c6324c64e52bea8fe6485358e8a63c0a5"
       },
       "name": "Canopic Passage Chicane",
       "kind": "Room",
@@ -674,11 +674,11 @@
       },
       "doors": 2,
       "id": "canopic_passage_islands",
-      "source_hash": "c2dff6cfa570fc76cc269c31515241d522020e5dd96ebc044a7c2eae13c48d53",
+      "source_hash": "663182f9f26f50c9637b9cbea44d81c0a2c1f57ea91d7d54dec11dc6771ee2af",
       "image_hashes": {
-        "top.webp": "f3ab91f480e1261135557da5b7d6b63529a19a616467ec4922bfdda2825bc1e7",
-        "interior-1.webp": "e4688f53398ec2cd0e7d4842f7fa5216fc45c335f83d5520c2980808c7331439",
-        "interior-2.webp": "c370ea35ca1ea741dd078680c21716656d4f9c641edaecb4dbeeef4aaa05eb51"
+        "top.webp": "bc663c9c50e4fed47b3b092b60c9397ff79727900b738f5f44041c5465800cc7",
+        "interior-1.webp": "a61fa29be8925d5340b0a2c97616862aeaa6f69db9205a9c5bf986cb90cde365",
+        "interior-2.webp": "6cb6f44e89f28cb886cd65541328af73fedade2861625fda46b1abeaa5af7228"
       },
       "name": "Canopic Passage Islands",
       "kind": "Room",
@@ -749,11 +749,11 @@
       },
       "doors": 2,
       "id": "collapse_passage",
-      "source_hash": "0d392e226528098551b77b998ec8309f4a63eb3b2728fa1d7d454e6b91c09d8f",
+      "source_hash": "e21bb2b4de7b8dbace3f8fca688f4c5c48c2def52a8043a5c6655e2283ab5b10",
       "image_hashes": {
-        "top.webp": "9bb27457d14b2311f7fd10bc67d218c1c83902ac59ff39556e378a4c1f04df00",
-        "interior-1.webp": "bc70a3ee8f48244bae9f0f7f161feca29613440ca9b9907c5d888cfcc2c8acb1",
-        "interior-2.webp": "1f7594b559a5b13736b07666f0a93fa7d44dd8cde204b24de6986b567c3dafc0"
+        "top.webp": "61200e668307b87db46a22df0fdc2aa76ab3effbe82eb7bdf3945cb2e2a58896",
+        "interior-1.webp": "0ef2dc05009640fcdae7025b416ec4e00ade7bfa179820fa934c22d966619d91",
+        "interior-2.webp": "5d53e743b671a663ee8f8e0423f03445271ed9af088bd0197b61aac09e0fd911"
       },
       "name": "Collapse Passage",
       "kind": "Room",
@@ -824,11 +824,11 @@
       },
       "doors": 4,
       "id": "corridor",
-      "source_hash": "efdb380e5d9ab98fee35901b035ab5ef028e325d1346690ff457ea9ac924a4fa",
+      "source_hash": "c62a2a1069558c6905333590706fc6abe598146e79a7a6a38626c90ea0bbe6db",
       "image_hashes": {
-        "top.webp": "40b94801c4923c38e8e760a9fa586cc815521b6189d9db3eda29f813a1b2652c",
-        "interior-1.webp": "8b189e10aa8c3e648369f538286215a22112974137f82efa169c4538f7e7e2fa",
-        "interior-2.webp": "1c9ba2a139c4886c4af732816569347cdff01e0eab6cb88073120ea63cd4d902"
+        "top.webp": "d6640e220473bd219f66b850ce4a1ad4561713208db3b9cfe4a5381722eae1d4",
+        "interior-1.webp": "6efa348cb0a303f46ab6dae604a971cc2b90f8ed2c69ad940d4eea65f3a1fb1b",
+        "interior-2.webp": "cadcb9d0cb77c1ab4d463f8976e2c71b76c02f5a05fc8121bca86586a0b27384"
       },
       "name": "Corridor",
       "kind": "Corridor",
@@ -899,11 +899,11 @@
       },
       "doors": 1,
       "id": "counterweight_well",
-      "source_hash": "c4427ff607638d37aad15d932398773cb5e5cc7e73f00bc6150307a6a1ede097",
+      "source_hash": "bd961e3c5ee756fc5ab7e7e75fe7ae9c91cc7e9497f65860812ec37cf4f96cf9",
       "image_hashes": {
-        "top.webp": "409c70aef92c7cef616de48c841897f743889761964e9ccc21ddbeab39c15a1f",
-        "interior-1.webp": "477d7361a9b380e29270234b798a2557e6c8d7fe6995dac70ffe61bba9e39ce9",
-        "interior-2.webp": "4f9542e6306b10d20c0c4b9d1d90be850a5075a71c3d6446fc6e2e53bc2acae2"
+        "top.webp": "6b2dbe888ef10ac188b50ca4ded5643fc33c15286e132b764badf0774b475636",
+        "interior-1.webp": "0890cb5c6467f3401185fb6084e7f5ddb52ad407f6ab11faae39dd7929bebea3",
+        "interior-2.webp": "b5389d674340d9859ad637346e5c80c8ff1b191e6ac2f1012b7a79bc4f482393"
       },
       "name": "Counterweight Well",
       "kind": "Room",
@@ -974,11 +974,11 @@
       },
       "doors": 3,
       "id": "dart_court",
-      "source_hash": "40500a5e53243c7b7d1421b56f7193e7f51963f61063f66a134c21fcd9fccf0c",
+      "source_hash": "abedff53ed7505536e6d20c1c68d71eb7dc0f3394bd17def67bced376de48f20",
       "image_hashes": {
-        "top.webp": "a69bf4585bf1ed88aafad23bc6664b119ee36fbaa03e518a6e13b37c85088d41",
-        "interior-1.webp": "6e743784d7ace8a186ba09a646ea5f020f2b8403f8be66f517d00ecb42119684",
-        "interior-2.webp": "41fc42c9c1d5c31f2f826596690b869fd5305382aa366bfe053c7d510a45cc33"
+        "top.webp": "d20dca112dac826a7c4ff89a68d01c4d815632aeb40cafcf9d815a66fbccb713",
+        "interior-1.webp": "d7ef0d6ebfb314d8e2dd9898eec585e0a0d866d823213da744dbaa04d6cb7437",
+        "interior-2.webp": "cac2d77403fe7954c7f8822f4a44010723f65c7326d0285aa662afda84614f28"
       },
       "name": "Dart Court",
       "kind": "Room",
@@ -1049,11 +1049,11 @@
       },
       "doors": 3,
       "id": "dart_court_v2",
-      "source_hash": "62d3cd3d908fa9b349cc7515454297be342b6ba48eca73fae0e2c77f7b3510c1",
+      "source_hash": "494faa0ce3e5edd3174a4d1a06298f855fd693a291514b446f9e5a8a65670a9f",
       "image_hashes": {
-        "top.webp": "6cad03043650813d7ce7fee9f864d7f5af6d375ed92285366361756dfe84b41f",
-        "interior-1.webp": "c0c7abdc749dff557e3fac35011fcce0c3fd2ef42bb7b03dc16e379038ea1b12",
-        "interior-2.webp": "3b33cd693b82d50ce22dbb596079132bbd1e98b686f3e9207f9cb7fc1861f671"
+        "top.webp": "993e2a6d538e8bbcd58f5b8343ea3ac0acb8fdc60fec623bbb52ea06e092e99b",
+        "interior-1.webp": "0cf542264cb237316945f5eb077e4e02179612e4338993662c4439a84937c64f",
+        "interior-2.webp": "ffbb5db37f1cddc76811d0c96ef96300b3be695aef8abe2b3873f82af65c085b"
       },
       "name": "Dart Court V2",
       "kind": "Room",
@@ -1124,11 +1124,11 @@
       },
       "doors": 2,
       "id": "DartGalleryGauntlet",
-      "source_hash": "9d7b6be28aa9e0267b2063b6c916fba7a1df6d6886e77e743da6962849cfb6ad",
+      "source_hash": "f4e6cecdc6019880649d99a7f7b6ba06b5ea7c691d26c581c3de60ca7e4e9451",
       "image_hashes": {
-        "top.webp": "c49392da646f064605cd5c8970c8608bb3956fd76a90b9133eb6b7cc09d68f11",
-        "interior-1.webp": "68a77e70442cdf48c965d51f441ced40ffba5c631ac561b7173a84e83e2573e7",
-        "interior-2.webp": "a8b94a3ea8a7338d80eb6c68fcb1656c90f9077da8cb529c41fa75aa67379b99"
+        "top.webp": "7fa1d6ed05ce3b503970c9e30fa40dcdef8e77b5a20faeed4f211ab6db332819",
+        "interior-1.webp": "01ee2edca7b864aae0aac7d64bf12f39297ca2fd8fdfa0df64f5900ff92a2005",
+        "interior-2.webp": "d67d36ca5cb0588f51303a6e24b28aa655cb69381561e7952d5d3cfbbd6c2c3f"
       },
       "name": "Dart Gallery Gauntlet",
       "kind": "Room",
@@ -1199,11 +1199,11 @@
       },
       "doors": 2,
       "id": "diagonal_tribune",
-      "source_hash": "554ff50cb81367231a964e85cc80ff51cc4571084a97ea5ce850c118d24a708e",
+      "source_hash": "f10c6b03a883cc9d47135821b6419a422e06e748baf0785f4c28a8a88e9ec6e8",
       "image_hashes": {
-        "top.webp": "c451194738679129651c433ed7629d95638bc63da7006c03243f38f56801924b",
-        "interior-1.webp": "23e10caf726bb58f29ae0dff97b64cd9a56cfad3ec46d829896b026cac0f029c",
-        "interior-2.webp": "b5e294b95f309412820e6466ed6fbe3480daefed13ff378be554f65efe0b71f4"
+        "top.webp": "f12bd8b52aceb3a8417767c39ef3ccbff49ba8a3e0212b8c51c2e4176400c04a",
+        "interior-1.webp": "a562e48e3a7eaf762d720c2b9a9007b28b89dfa00e2fade28ec7ca9224ff349f",
+        "interior-2.webp": "e64330b5c3bc6525c7fb86031d08b41184a06797031094555db37579cab1993f"
       },
       "name": "Diagonal Tribune",
       "kind": "Room",
@@ -1274,11 +1274,11 @@
       },
       "doors": 2,
       "id": "dogleg_climb",
-      "source_hash": "121b6a0298a482125a066bb0c5c1b2e156040405d34c23ef21394b0a42f6bb11",
+      "source_hash": "7373aa362f122c16f80cffc659ed15bd769406f067b95cce19b09b22638c087b",
       "image_hashes": {
-        "top.webp": "56d2dc6fbb90210560878332217c87da3e22bd712806626094bfc40ad71a6e76",
-        "interior-1.webp": "e1fda886c8c58f6c41634a86b49be7ad27bba522a188df4f28b7806c3c69b9e2",
-        "interior-2.webp": "75e968acd32b600b72e95ee9918189ec69f89f81c1ba6a956c242358dccba2e7"
+        "top.webp": "2ac690fad1bcf63c426fdb0ffc6c743d5f7b60ba2789b0e62ba816d1c873eaa4",
+        "interior-1.webp": "1a8c1abfae73e823810a5e1b885ae691e2281e7636e355fdc8fef43b1f2fa1e2",
+        "interior-2.webp": "d7b8ed882c578283e6cda6fd0c451754de6b233d2afe9d48d34b5c8e12e208ab"
       },
       "name": "Dogleg Climb",
       "kind": "Room",
@@ -1349,11 +1349,11 @@
       },
       "doors": 2,
       "id": "dual_route_gallery",
-      "source_hash": "8e9360af95ec73e3b092ac742c7e9bc36e793203fbee2919aaec80e8ecde089f",
+      "source_hash": "ae03b753216d78cec3ecc0450c7ce4b42429ee7e185dcdce03aa7227a1a92c9c",
       "image_hashes": {
-        "top.webp": "2792cb6e3a59eec908fbb59124c9b6e91c4e15bb02d730df1da7e1de45a0a3a7",
-        "interior-1.webp": "0e3cc0f301b21b4a601e648afe86a3f6f27f064dbc8e318f6023c8eed0ce0972",
-        "interior-2.webp": "ddc694490c5a315f9a7ed9ec6e21af387f63093ea6754eba1271fd83036154e9"
+        "top.webp": "2aa9c571ad2820fdbdf186790d517429f358e7fd691f1e8d43311ac3e75f692b",
+        "interior-1.webp": "640bf21e62671e14e908977f8b5d5ab9b52e13e93bc0cc1a69f5681561891039",
+        "interior-2.webp": "e303e842e60fa01441a1247c6426561ae93b187fb99c9a7418c33fed3e1af63a"
       },
       "name": "Dual Route Gallery",
       "kind": "Room",
@@ -1424,11 +1424,11 @@
       },
       "doors": 2,
       "id": "falling_causeway",
-      "source_hash": "ad736402f43c4c4c85759b9a8ab942f4b5698194bbd91c7dcab3b4b6f79f9453",
+      "source_hash": "6ab256928476ca159087fdd842dde69879e2ee58e50c69cbdb5f632a0136e26a",
       "image_hashes": {
-        "top.webp": "23cae7313ebcd4dfd3421d9a1e1f0e82a7869946a7fa6edb5d989c7d8e477473",
-        "interior-1.webp": "cf7d2227ad6c84faffc25f66002abb3d1f861d5a0fc214d21ebd8e2e2662f7be",
-        "interior-2.webp": "de72504d61acca55a9033f544cde6e533d2fbe605011327667262fb4cc45890f"
+        "top.webp": "d2919ad2dee237f4dd97ff703901b68ae83e1229080db52330aa13c8d42e2d63",
+        "interior-1.webp": "9f7e8eb58f69a72a9b7576e02993f195cccb2143114c6263ab02664cc2c4d697",
+        "interior-2.webp": "06918d1161e7d77cf1de47627a2e689fe45fac0d078d9b185d82c1b1664732c7"
       },
       "name": "Falling Causeway",
       "kind": "Room",
@@ -1499,11 +1499,11 @@
       },
       "doors": 2,
       "id": "fuel_shrine",
-      "source_hash": "545938e597f97f999cb0ae9c21fea41bf1957e84355b6992508417e2aaa7b40c",
+      "source_hash": "90c17c8b7ae9c37cfc1bb281267f60224c6c2047cc34e63ff16174574f416cc1",
       "image_hashes": {
-        "top.webp": "21b8a902673f67238965500f75a846977ff2cffdc181775566e54c6dc08e6ee0",
-        "interior-1.webp": "5df4c8e723dbf2d404ba5a11248be121f288942861369026904c50c3186fbd8b",
-        "interior-2.webp": "0bf4952efa1d1c73633c74349f0f750ece570264f1a4b1d1a3ef241094ee474f"
+        "top.webp": "2e478032345c36b8c2a26475e9e78d31b4b6ec61dbe5d5e0f30b9822b96e8b67",
+        "interior-1.webp": "ef83645dcd7b269291a8d1d9727faad2a4651824ecbeae86e3457e27b7620c8a",
+        "interior-2.webp": "1801d124d6d9f0d1b437ac9c55ef61583ac8e22b33c67b56c652c0b81ee87f71"
       },
       "name": "Fuel Shrine",
       "kind": "Room",
@@ -1574,11 +1574,11 @@
       },
       "doors": 3,
       "id": "grand_hypostyle_hall",
-      "source_hash": "cb2fe90720f276d00517f66c98b0fb5000d682b3b229b4b25495ab24a5c904c5",
+      "source_hash": "8665b9213970bcd27daba24d690c245f1e23fec2eeb7660b5411b22b68ad3d27",
       "image_hashes": {
-        "top.webp": "a8c6655ae5826a04b973b76833402aaca879347fe2e38c9063d67aba60a692c2",
-        "interior-1.webp": "fd32cc4f845d85e43503a2cc5b537bc443d05389000cceed3f77dc7ca81e69e6",
-        "interior-2.webp": "4de9ab8242959e6421d67c5cc20c37cfcb7c039203bd8fe9401d9487f018862a"
+        "top.webp": "fbe24a2aaee422a644e851dda5c72b8ab24c2899e802a338a554063c2e9a9428",
+        "interior-1.webp": "3d202531e9756f4e3641aa357ca81bb38a7d4721c54579fce632d8d1f7ef4d81",
+        "interior-2.webp": "5d9999c535499380f21a44a6cc6db36a7d46899980065fd2c4ac9f9355363e06"
       },
       "name": "Grand Hypostyle Hall",
       "kind": "Room",
@@ -1649,11 +1649,11 @@
       },
       "doors": 2,
       "id": "hall_of_pendulums",
-      "source_hash": "71986d6a453cfc65ec1e3e8bb5067fb7d19a449302338b90a4b0c271d62e5e4c",
+      "source_hash": "7fb68f4197aeb5e0d926f213f2d3b49ae86df7d533c9c32a4ae4071c17cc2069",
       "image_hashes": {
         "top.webp": "80650e4470f95394655abaf3904a5aa407c1e0ccb31178ed5c0b13978e8629e3",
-        "interior-1.webp": "a045fc913226c40c8f6626a59834bdfe61a15b72f403e64df2539f5c23ac9e58",
-        "interior-2.webp": "32825874f3001e97e32c152434cfcee0c57cac04ef3f82abe432d5540602e89f"
+        "interior-1.webp": "bd766009eb680cd8a77b9b769b8722687ce6bfcbe0dc7b0ec221589628c18033",
+        "interior-2.webp": "fe362a9e097070efba31d8c3a2fb80c87b68f9a3523a1fdb675811c3739e8bd1"
       },
       "name": "Hall Of Pendulums",
       "kind": "Room",
@@ -1724,11 +1724,11 @@
       },
       "doors": 4,
       "id": "pillar_hall_baffles",
-      "source_hash": "f6d1318418938f36274da602590102826ba8e74c69e77285d77237a1a43f7ede",
+      "source_hash": "675be056ebf2074efa2a13e6ec97600c3a7445cb0cb9626fb426cedcdbb6516b",
       "image_hashes": {
-        "top.webp": "b5c5ddcdde44a025fcc2e880c8eb06a7d527733cc235f0f8bd705b0543f067ed",
-        "interior-1.webp": "65489f6f0ed92ed60b247b6f4c78afb7d55da7aebe64bb16c9cb4cdaa56cae45",
-        "interior-2.webp": "7370e39d213e2dbf0db0fce8496bae5c1e498ec0440bd070168c543775de3dbe"
+        "top.webp": "9e4ef4e3184164cc3ce66c602a375e1bcd065a83ac653c0b1ff5d73a4a12898b",
+        "interior-1.webp": "3860946741b419cef0c9bb8c96b93b05c9bce115096b5fdb5a26d7b58745cdac",
+        "interior-2.webp": "964bad2e2cf4e5f424043e6a643973875b80b2f400789dc8c15c394e8aa23d88"
       },
       "name": "Hall of Two Jaws",
       "kind": "Room",
@@ -1799,11 +1799,11 @@
       },
       "doors": 4,
       "id": "hundred_pillars",
-      "source_hash": "2289de6d8b01f020ced0cd69902078b74bc5b9389486b6ccd8244338f68ca859",
+      "source_hash": "d878ce33c71151569387bd074c24ea338ab3982fe54810b799d138fff1f1fb16",
       "image_hashes": {
-        "top.webp": "6e95cde3a5bce584d4f514fc2544a33f6fd9a2efda9363563f5a32ab1f6cde74",
-        "interior-1.webp": "8092a1a6cae5e96309cb0bd5671a3a277c91671a4b69348ee312efa902f15c7f",
-        "interior-2.webp": "e4632de97830157c90476fc683d5718ff198049b861fe225e72cd6f789beef88"
+        "top.webp": "29c920a6d23a25c3ccea038569a884393b4dfa18df9f5f3ee2dd9c1d6dbae66d",
+        "interior-1.webp": "8bfc26ddab37f669dc3a17240118e75de5b8d27e39f54b49e301b6faebab0405",
+        "interior-2.webp": "95acfd67bc681a5afc65cf4ef756c0d7a3d05c49ae0398c23e7230706ec225e1"
       },
       "name": "Hundred Pillars",
       "kind": "Room",
@@ -1874,11 +1874,11 @@
       },
       "doors": 3,
       "id": "hypostyle_hall",
-      "source_hash": "dc5b6a9d50e64c9c201bbebd96ec45f3006b02a4788dd07414b430c3bf41039b",
+      "source_hash": "149ef9545f89564200ceb1d12f49818a0b465dbc18764739bf2904c4625caa6e",
       "image_hashes": {
-        "top.webp": "d24ebd89202832333c546e637efe61476f3adc42513ed20c8d2a8f119da6fe9d",
-        "interior-1.webp": "3e1cb45666388602977da87f46ebf3287f8b09e1435c1698250df6069e75d0da",
-        "interior-2.webp": "bfd9998e61740c211b02962af04869e9f2ac3a07f8b89f364304c800cfa15ea0"
+        "top.webp": "621068810f0602adeeeadb4078bfdb9cb3c4743258a270762e73c3e1d5f4b863",
+        "interior-1.webp": "20894b820d315aea06c41e916b2ea4d4970459cb127d240721f3795146d46c6b",
+        "interior-2.webp": "173b26e37ec99c049a2e90a2a583cd442a846465705248a57398b581778ce231"
       },
       "name": "Hypostyle Hall",
       "kind": "Room",
@@ -1949,11 +1949,11 @@
       },
       "doors": 3,
       "id": "inner_route_landing",
-      "source_hash": "e70c979e5dc12ef47280a2c44ba271b5a5eac9cf8a591ad508038d497da69d07",
+      "source_hash": "cc6dd436a5e3b415ead5089aadffa0b70fec69716b0886f118b9e02602b179bf",
       "image_hashes": {
-        "top.webp": "55f6ccacde3a2a6e960767de3269aba0c6e8df5f4c6fdb24b21e8de4853ce4e5",
-        "interior-1.webp": "d244a79316a246750e8e0cc42f772e4f25b401af86b41a225207a8122034210c",
-        "interior-2.webp": "8b5519640da64f48a5862d53ef103bb47a9e2e3a96fd39a80403cda001f3fc63"
+        "top.webp": "f5bb0dec6e8b9b794cd23326b23077f42ee024bf55a014a38d855232d58b9e37",
+        "interior-1.webp": "abcb99cb017f2a5426a3bf1b327c18d37b34a41e308ec58b82a83978f651d945",
+        "interior-2.webp": "2f63f5d8a8448c003c88030df7be9d40d85d9d7092b1f0dd95acac225eaaa56e"
       },
       "name": "Inner Route Landing",
       "kind": "Room",
@@ -2024,11 +2024,11 @@
       },
       "doors": 0,
       "id": "intro_room_spikes",
-      "source_hash": "b97f7cea1e72e7bed7d6890b48532d300d05eca266ff6b10a17c500e6b6125ee",
+      "source_hash": "bd3212e7b36377e7b2f903ee3f8f77aabd94a496d74f1c2a0262a4add0e2e95a",
       "image_hashes": {
-        "top.webp": "9cb9df3c831df6a729dc4a9e25c1f7a45a3b79c783f17257454a398d634a99d1",
-        "interior-1.webp": "046fc9db0d24ff80aea3f9f95a6f9adb2be25507fff3312f59a61e7e25950aca",
-        "interior-2.webp": "61f96fd60704d7e2ac61eec8461d63940589b79c6ca99fc727f6543b51406a00"
+        "top.webp": "c54555622cc200b059057032c65ef99e27a119242de68b438695f9fd19a9704a",
+        "interior-1.webp": "ffbd1a6e7b9e3a72c9661358a16e9b7e2815f068d7a9e58d6d555da4f5f807c5",
+        "interior-2.webp": "4e90930b315fda26ea121d5731087ea6b08f04a76f9b255cd4abf4bd60db4e85"
       },
       "name": "Intro Room Spikes",
       "kind": "Entrance",
@@ -2099,11 +2099,11 @@
       },
       "doors": 2,
       "id": "jackal_measure",
-      "source_hash": "e0b98b31aab4de883b1899ad9f378fb44472634f2ef6cb31cb11f8c74c65ac3a",
+      "source_hash": "e8c5660d3b0ba7ef2fd3f7d3921af7239b11541f1eaecd5cac21f377dd212315",
       "image_hashes": {
-        "top.webp": "a9ba8ac36eb7d56710725a3cd63d0039b9e608699ab80663168907a6df7e609f",
-        "interior-1.webp": "bce9a739f7e4e1868bbc16768064596ac42c090434da728f6c8d18aff5f19dc8",
-        "interior-2.webp": "7d49420ec06c3c2da88ff3456e403f29cddad193c66e9a234592b45354a9582c"
+        "top.webp": "a22efbca8f0bf1ba2266dae80d811388c503bd7983c0ebd2aef854d414acc3b2",
+        "interior-1.webp": "9c12bcc63d37e009c4d38ce02f2e318ba4bc191db7ecc8db1c4b570423e80294",
+        "interior-2.webp": "1022b8fff66d74403691d1af979c27641e1db7118cf6eebdea4c36688a800395"
       },
       "name": "Jackal Measure",
       "kind": "Room",
@@ -2174,11 +2174,11 @@
       },
       "doors": 4,
       "id": "jackals_jaw",
-      "source_hash": "817a3c69bad11133a8f7d6be391480404368a1a60d3bce8436cdf1f32c27978d",
+      "source_hash": "d18b03df11078d7b4b5073c0342ae3a0186f27e3c86ee0c0d913e287fefe8261",
       "image_hashes": {
-        "top.webp": "23b7782e65ef486b292dea07bf315985ee7d565b793df1b151234e751af9e8a2",
-        "interior-1.webp": "84175cfc4e2d64bf02710edab9de71768fffac9df61aba86bb8fd794c45708e5",
-        "interior-2.webp": "3b79c8782cf84035f87cf27d8d1ad7e5c460be72c8746a49b8a236e525312d0e"
+        "top.webp": "c25058156ec6430e6d9d72b74d35530eaf908ae731ed3d9fcd4d5da6b62caf03",
+        "interior-1.webp": "e30ba8fe4e2476c34c498db22e071b3cf3a20377c68f875c7e630c993acf10e3",
+        "interior-2.webp": "7eafe55dabab054122630e88fe56192eb986ab9c3545804a47d75efdba2870fd"
       },
       "name": "Jackals Jaw",
       "kind": "Room",
@@ -2249,11 +2249,11 @@
       },
       "doors": 1,
       "id": "judgment_path",
-      "source_hash": "b82fe6daa258bc2b411a80b5cd2a7d5699745543217601ad3aca307fa76fe6d2",
+      "source_hash": "a8d22ce6766f16165fdda4d32b6f3522694e956ad76f77b6f0cdda176ff925c6",
       "image_hashes": {
-        "top.webp": "9d8701d075b2ce39aeeef00a1689348d12817223cf9b8d432832ae3b609a699c",
-        "interior-1.webp": "5264e05cc7d11eb2efd9a79eb12ee65fb019a75f0cbb823703e9db1adffe36c7",
-        "interior-2.webp": "d51ff7540c676a360cc0d67bb9d5a7129ba5338bd005c34ba2f776ce528d44d9"
+        "top.webp": "1e2b3e368afa0b140f68d86c5acd7591852f5008420932a0858790e7903d390e",
+        "interior-1.webp": "d1667c95991a8f57f3fae322bb45cb46a84b3839f610d6827ef83c473c1382f5",
+        "interior-2.webp": "c91d49aa7833e7cdef23231a69ea889adc8b0450cfcb36eb36f5b68535072cea"
       },
       "name": "Judgment Path",
       "kind": "Room",
@@ -2324,11 +2324,11 @@
       },
       "doors": 4,
       "id": "junction_room",
-      "source_hash": "ca945dfcabe7c128e8b66b1e4a10c4e403f3309bbdbb0271561f85c88066b725",
+      "source_hash": "43446cd099b2eeade9964ab9e61ead8f686111239b6e2da2c468e520f7bac6e3",
       "image_hashes": {
-        "top.webp": "276e7eada2d6ab6e1ccf30489cf4b949fd611aaff49162caea5a4fc7700fab8e",
-        "interior-1.webp": "34d5583a16f66c09b7e228138b1fc9540ec8b53269749a01244f82da312f9e84",
-        "interior-2.webp": "c02bce0c7f84bd5b801dda1bf07043029476a01ec7a3b35149deef2bb1fe8e75"
+        "top.webp": "eda91825892078706a2068ecf4ec11931c3a6ddf2f6360f814b59c5c9dc7b93b",
+        "interior-1.webp": "6e575fdbbab57c8ba09742fbb11a569a02affdbe167a57bc627f81539fc7607a",
+        "interior-2.webp": "f758201e9ed859e98cffb69bcc4735d155418800f2544779059c67f033b4a379"
       },
       "name": "Junction Room",
       "kind": "Room",
@@ -2399,11 +2399,11 @@
       },
       "doors": 3,
       "id": "keyed_route_threshold",
-      "source_hash": "72094c60900d493708ebbb1ff7c3b50c848277329d9b7b01a0cb3082801164a0",
+      "source_hash": "bc50b62a5b809ac4fe79228b3a3ae45d0650dfed446930e124e6507c826786fc",
       "image_hashes": {
-        "top.webp": "b9b98945010714e3b9ef5ff30a066b87f594821122dab33445688577ba4e38b7",
-        "interior-1.webp": "105f247687b943aa03ae9cd73264a77b19ce951ecc5963652033ab051392a52c",
-        "interior-2.webp": "1ce02e28102bcc09b8feedb87f9499821acc65b1926d68c0dfe5292cdcb2dbba"
+        "top.webp": "e076576189b6ddf4300a71f9fe6dd8ed9b1b2a6f9e4d24d5d30ab62f46a6473e",
+        "interior-1.webp": "cc5bc208bf048dd8577b5b8108f0a07909037c07220e1ccdf12e0a929176b67d",
+        "interior-2.webp": "48c9e72cacbbb665958fe651a2df3add3d5a20ef34c00d721c2d16a95786bf92"
       },
       "name": "Keyed Route Threshold",
       "kind": "Room",
@@ -2474,11 +2474,11 @@
       },
       "doors": 2,
       "id": "l_shaped_passage",
-      "source_hash": "8e0aa686d40657b3bdfed60bed6e53aafc2f19df517a82721bfc14a53689f9bb",
+      "source_hash": "27f2c8df52d9644d736c6fe97033611f71ca4cc0ee3f8d9a1b301dcbabe6ee07",
       "image_hashes": {
-        "top.webp": "f315e6648036bde258d9eaf07d1676213a14206ad6f6748afabfb2b3aabc76fd",
-        "interior-1.webp": "deed32c6d6463bea0ddfca11b39ec3879169d16a842effcf1e6c4ecb5a0b1aec",
-        "interior-2.webp": "168a4d12b54a6b09c5f524213a30d7a1b8751c459db07c99b89f80b7ddb752e5"
+        "top.webp": "822f0fa74b3e7566be3d55a94023316c66d19c6624d9d16d5557bd4b1ebc1d2e",
+        "interior-1.webp": "ce08a31a40dfe61be79091777138586ce1c5c0ef7668870117c69000b9e459d5",
+        "interior-2.webp": "1a77ca36df2a624ada52d89739bcb2546a34d8074c84910a6e56faba58152589"
       },
       "name": "L Shaped Passage",
       "kind": "Room",
@@ -2549,11 +2549,11 @@
       },
       "doors": 2,
       "id": "long_gallery",
-      "source_hash": "7c98c0cc6fae188a4d7bd35a152f832f9134ffb4ad44695b3286e68e4f8a3ff1",
+      "source_hash": "4ea907939641adadca5bdf3fb6f465771a681c38c912124a8af65bf3004cde8d",
       "image_hashes": {
-        "top.webp": "9af4b0f25684626356c7d9be459c85b02c89be1dab2838264c869d691db407e7",
-        "interior-1.webp": "e2e89b0321535357779c47d2481a8751ce4154656eadf37a104f89a8093c6b1c",
-        "interior-2.webp": "65399d9e6535115c69f07b70197439e4ce045d93f7c018c90ad6c8558bb5da60"
+        "top.webp": "3fa326c2a739d293d7f5b71182ce9032a6aab9440e81ef06e227356059910097",
+        "interior-1.webp": "bee38d0174a354db32ddfb1c85ad81b4de97a76d0b8df4a974fb0a375c3e8ea1",
+        "interior-2.webp": "0b1d369ab6cf63dcb9f52f60c05aaa43fe8695b8f54e3170aa8c3a08f85ded00"
       },
       "name": "Long Gallery",
       "kind": "Room",
@@ -2624,11 +2624,11 @@
       },
       "doors": 2,
       "id": "long_gallery_encounters",
-      "source_hash": "823a82de547996c396e3692ffe41acbc065ee57cf87ce5e51fe118d733fa9fb7",
+      "source_hash": "f60cf2d59b7240d2cad3c7250ac4a4ddf9fab26af2109e8ae26733c789f5c447",
       "image_hashes": {
-        "top.webp": "70f85a9848b76d80c22a4b88d84b7cef3b3dd5018be972a01519c1258f491e35",
-        "interior-1.webp": "50b4390f46e4c49fe729ed3738fb57331c25d7cad7ecceb3e53549b86991b262",
-        "interior-2.webp": "d07b2b1f88d4eed7a3a15b5e6a76a616c3321090c1af24f7d75c2ccf04de38d5"
+        "top.webp": "4f0ef4c85804a78cd6bce6193d748dfe19d916443f67967cf99c5240e921ffd5",
+        "interior-1.webp": "25cd4a49b9276ab62171e77d1992907bd7f08f791c0fc108f4bc457020a86559",
+        "interior-2.webp": "d2f7edb35f035f637396dce7b6f612cf9bc246c80d751b6106442c22ff1408c1"
       },
       "name": "Long Gallery Encounters",
       "kind": "Room",
@@ -2699,11 +2699,11 @@
       },
       "doors": 2,
       "id": "long_trap_gallery",
-      "source_hash": "b689016cb2b40bf258934377348d1d0385d51c0224ff9de026b0fbdc0834b0eb",
+      "source_hash": "ff7db6444b39543dd8904f238bed686991d82a03b23e0f7f28c991ed5407e382",
       "image_hashes": {
-        "top.webp": "96fcf7328f0b5a9821c37e2664ce8e8766f6bf40ea5fc0d510ce10d4d8ce966a",
-        "interior-1.webp": "a1996e1a4b9cc22ee683ebb94104ced4800a314595ebfba95c6112748375a0dc",
-        "interior-2.webp": "492c3c61c97cd3b75fe052c9607d1caabd8eeef71541b52d7a4c8aab0d6faa02"
+        "top.webp": "b947c5729c910565fd1bb57d8fcdae381650d277f7a760c8d1c0504ede1c40b7",
+        "interior-1.webp": "c47e7093dda8ecc03fd8cfaa0326ec4b27ec8f22d8f9e394d1b950aadac149d4",
+        "interior-2.webp": "fbfce47f9d852d27b160536e746c85e20f0ee0455a3e49d867ff0a18db9acf6a"
       },
       "name": "Long Trap Gallery",
       "kind": "Room",
@@ -2774,11 +2774,11 @@
       },
       "doors": 4,
       "id": "obelisk_junction",
-      "source_hash": "4eaf2adf3191b908076073d3e6a0557b34b2f5ff2c4b543b03ba9809c1e6e034",
+      "source_hash": "e04bc69dbf9ed0f8cb6d08bd6f747ec67de3ea82ea5caf0ba07ad9183634ee7d",
       "image_hashes": {
-        "top.webp": "13c9545560070cfe8a53949896588a9078acf718e2118c51e971e747360eb4b5",
-        "interior-1.webp": "510509b70bebe5d983bb842982d89667bc3695786c4a9bd2d652966ec41c618f",
-        "interior-2.webp": "8cd0f3ba5016801e2f1d6132f2c4fedbed066f5f7e64b2031d956951bde4ec75"
+        "top.webp": "8be724271560ef6710ecd733891be2d3c31b6e03086b7354dad6d1dc6d9f861d",
+        "interior-1.webp": "56b8138e4efd73dccb122bfb152413661bd5c343f4ad4790658cb5d34bf5496e",
+        "interior-2.webp": "c2198961f84e37bfd6fb1a86f3d162e83d9543e3e120cddc45c9c17f9f9c4747"
       },
       "name": "Obelisk Junction",
       "kind": "Room",
@@ -2849,11 +2849,11 @@
       },
       "doors": 4,
       "id": "obelisk_terrace",
-      "source_hash": "ed30bee51dd1f24067e5718fd872ac52d54087697c9402d6f7f3aa5c2e90ea5f",
+      "source_hash": "ec5893d87e65f48dff406054204c9a78dd85f3fd028f7d949cae2a732edaf819",
       "image_hashes": {
-        "top.webp": "406acffab7ebe7f4b416f142adf3c11cbf66cea570aebb45842e948810f984b3",
-        "interior-1.webp": "39df4ed78b73f6d5fb67b4e9d345f501914a89ad49e9b14ea2443a12d882478a",
-        "interior-2.webp": "cbef2336758c2d8114f58e2f939de5d0adbfbea6faf16785849c7dbe3e4e427e"
+        "top.webp": "b89fbe1a0ff1e3015911e245353a1565673d7587912ddf495e503168cdfe04fb",
+        "interior-1.webp": "1ca91b2e5ad651da63e3e48898a54a0e17bdf18c0e0ac9334975bb2c2856a3d0",
+        "interior-2.webp": "9298500964780dd199b0f1a8b40fcb722cf46699999e4ca864956bf3fb18a652"
       },
       "name": "Obelisk Terrace",
       "kind": "Room",
@@ -2924,11 +2924,11 @@
       },
       "doors": 4,
       "id": "pillar_hall",
-      "source_hash": "cc9b916cb9e32a4ff38374740604399b8c5b0e145ed16c74423e504e9d4ba7a1",
+      "source_hash": "f3a00abdb154b6ddb91a4fca6d3264f6c5551423d9bbd0ebfc8166c6fe96c063",
       "image_hashes": {
-        "top.webp": "ba4dc39c9a278bd71257bba47e7995fcd073210a62611be4cb198b75a4754063",
-        "interior-1.webp": "8d233452f921d5a867629f440abb17ecb0e029b959727e12b25878586574dad1",
-        "interior-2.webp": "f4204de314ddc1c7036dcf8c7255184a375fc7a665afdc5e8450d585b692691d"
+        "top.webp": "5851aa99b675904491295fb71a64032b42c92d7e371112773eee3151eb6eecdc",
+        "interior-1.webp": "0801eb2cf8ba7c4a5b41bcb85b88d27566a182ba41200aa8421c109f6a27935a",
+        "interior-2.webp": "ccfd753367ec391617b06694d20e5da9b9c45189d222532bb16571512a6c7e1c"
       },
       "name": "Offering Court",
       "kind": "Room",
@@ -2999,11 +2999,11 @@
       },
       "doors": 2,
       "id": "offset_terrace_complex",
-      "source_hash": "da534c9f911b0d4c57dd7ef17290db146aaa52062c5b35f3b387263143363fd8",
+      "source_hash": "4cb382172300fe53e741845a905b6290e1581399cb63cd26858089cda1c6bd6e",
       "image_hashes": {
-        "top.webp": "7bff73511ec9459643420c5815787794c8b47f0dc62ed0272fd5ac9dfb1f5581",
-        "interior-1.webp": "a18b243a725af5651b4609b621435ae41fdc05163675acae2236b41035d9dae5",
-        "interior-2.webp": "acdf5410b013868d8804a132df52f5a69e4747ce7e1dd1c4a154aec5e4703fd9"
+        "top.webp": "dfeb162a05dae8390d80845333cd5749648b233a056cc0e4689d5431be11004a",
+        "interior-1.webp": "73f2b0715b0a1ee5ae1976be35c9975a65be851bad0d57de127f7eace4841aeb",
+        "interior-2.webp": "cdf0484be660414cbeb4862b4cb2995d2ea8c4c347f9f9e22239e10ea2b3d71f"
       },
       "name": "Offset Terrace Complex",
       "kind": "Room",
@@ -3074,11 +3074,11 @@
       },
       "doors": 2,
       "id": "pendulum_court",
-      "source_hash": "de707f656670cfcf90966414c99b063c692f083249c77cd3d2aac7110c12ce73",
+      "source_hash": "d42301bbda2a4cfe8be68c9874245dd85091276c5f43ad483e770b671b9cd566",
       "image_hashes": {
-        "top.webp": "d3ea62834ea485daacf08af4314bddacb098ffc62b44e41fa43dd757a3c5b3c7",
-        "interior-1.webp": "4e79b7fc789869a9d3e2ad63a346d6bf8576fb0e72894301165679cb43941c6d",
-        "interior-2.webp": "2cf491ddbe4788af8e31fe30e195265bf86f8f22513ca17cd2f63bdb0806aa6c"
+        "top.webp": "465b52f880130a552ddebd17862d59e3c15a53dc7c854ad282c7ee7dbb6b2d21",
+        "interior-1.webp": "0904c2294b3076176b675ff890b2b23c717214f678e0cc45025b9f396033c37d",
+        "interior-2.webp": "ca59de19b2841d57eacf28344b48b6fa52deef844ff0b1db7ef648f8bf0ffc00"
       },
       "name": "Pendulum Court",
       "kind": "Room",
@@ -3149,11 +3149,11 @@
       },
       "doors": 2,
       "id": "pit_ledge_room",
-      "source_hash": "5f2d56551420be7fd5331dcba24e4f112962c9cc7ccf1903470b42bf13f486b4",
+      "source_hash": "392f66a18c27b0768c5722f84402ec61a03edc7608aad14f4f56e2ecec0c6547",
       "image_hashes": {
-        "top.webp": "64b38d86409c77ea180996479ebb7a4571c2008ad58d1bc97d8983a7c2167d07",
-        "interior-1.webp": "286b66ea0947b8f04c6b0259c5a2968fde3eb24c90ccd0d3230f6c320bbcc83b",
-        "interior-2.webp": "f86b623eae4b5d12909e8b7a9ab4c918e6847837c6fa58b616bb0738d27e91b0"
+        "top.webp": "7f35239a9f0724e6d8850f764a8bb365abcd04062845769898fe42ae0c585034",
+        "interior-1.webp": "66a864cd6d82a86c9e5988a813feec8f249c7db8dfae2b63a44924989a8b14d1",
+        "interior-2.webp": "132b163a80cfdf98e288a8c319c19f753d6039ba3e76e7701469869eaa1158a1"
       },
       "name": "Pit Ledge Room",
       "kind": "Room",
@@ -3224,11 +3224,11 @@
       },
       "doors": 2,
       "id": "pit_planks_room",
-      "source_hash": "5ee96309b9635a75d3f61c59f261072e464ffe3aaa9c3836f69c65535b89853e",
+      "source_hash": "9cebda3a26597f32e2e184727feb90a6f2aa97f850341bef282b514738e231c0",
       "image_hashes": {
-        "top.webp": "452257c405416a5858bdc185da21e88a21b868495e93bd3e463a3c2fac3fc29e",
-        "interior-1.webp": "9b71bbf9ce75a64570fe4907be26c2c2403a2b91c1f9f65a4d415519186a5e84",
-        "interior-2.webp": "78ff2542e1c1b89b3b37e1723604f42eccf760e96e3c97f096b15633c2fa053a"
+        "top.webp": "576a05f15cbfa3615dffbafdcb12aa5b90f9f5478f65ae984db7df04996ca82a",
+        "interior-1.webp": "c7df183acc0ad75c7d3b07c8102d827df544a1e0a8b8738b450098493f6d89d6",
+        "interior-2.webp": "7a2a4f6aee82da623a6a14839d70bd75f0ba2e96b29ea9c1d05474e17f4250b9"
       },
       "name": "Pit Planks Room",
       "kind": "Room",
@@ -3299,11 +3299,11 @@
       },
       "doors": 2,
       "id": "procession_of_stone",
-      "source_hash": "9f636f890a28c07c5ec8068569f732b56cfbddbfe21fbb11babbdc8806e6fefd",
+      "source_hash": "63ddcb6b18d88e257089bb0e0c1b6ef20d7be664a6812708eecf9ca498ad79f1",
       "image_hashes": {
-        "top.webp": "0b7a7eb556fef55090944c57285aec0471e0c9dbd5594cb40a465e22f58375c9",
-        "interior-1.webp": "3d3c65a25773684d89bf9f620140d3305ccc998c944f6ed6b0993d0fd4a1869b",
-        "interior-2.webp": "8f0fb5e5ab0776268abea6f9d4c9b062a7334d67d0efbfd03cd8757df5863012"
+        "top.webp": "54ad4da3ab3ad433ad99a69588028a643ef363f5ec3004c0a60ab9016b9107c7",
+        "interior-1.webp": "3097ff40c70d229e5505991b59b6a3b17b5a4bede0c263b5ec60edbc4dfd6234",
+        "interior-2.webp": "d7dc26f9b6d4bbf948e999ef537ef196ad3f474b58a9bf3807f8b7e8c8cf2a49"
       },
       "name": "Procession Of Stone",
       "kind": "Room",
@@ -3374,11 +3374,11 @@
       },
       "doors": 2,
       "id": "processional_hall",
-      "source_hash": "57b4c2b8e230d4edd2e6eb1a18c711959f88758e04659e9760355afb3a987c6e",
+      "source_hash": "7f4e482c72ad168c1b4c42d65a63264a0715a25a5815bfa9df928b8d75d3bc2c",
       "image_hashes": {
-        "top.webp": "7928fc121e12f82a76a8ba5c99dbf53a25ddc1a88ca7c6cff7aee2f4b2483459",
-        "interior-1.webp": "613c46f13683d38e448a065adec1372f366325ac7e3aabf11314cec56738fa5e",
-        "interior-2.webp": "a45f4c0a75b3288a9f47200b8d2920e6b98c2d0cd17652e4fcf596ac0725321a"
+        "top.webp": "d8642e5413652f9171c7360f9468364d2110ff358ea9bc3f9c26831bef503e1a",
+        "interior-1.webp": "159833ccce138cafc32db08a207169fe070ac3a8170b0efd33f9a9246674271c",
+        "interior-2.webp": "235c57a4ae7d019a50415a46f75a6df80b5d1b344a8a58b11709f3c27da6a12c"
       },
       "name": "Processional Hall",
       "kind": "Room",
@@ -3449,11 +3449,11 @@
       },
       "doors": 4,
       "id": "rhythm_corridor",
-      "source_hash": "37e6ebf54c22776126c04876190de15ba2262331aa7306e2e6652e14e2ba7093",
+      "source_hash": "2d04b3989c072b9fb232a357f86b9d0c90390c2d7beca25603f3d3b30a27ea89",
       "image_hashes": {
-        "top.webp": "c8fb9e5784a993b13b269df57241d4d9299404a14234c7f095cc6f7924a1cb48",
-        "interior-1.webp": "0b7b8ff4ca32f91d79c8d9b8d17652d57cc298cb18b0bbe3c13d0dd3707e4680",
-        "interior-2.webp": "7f440c0bb0326ff6b22497c1fee98f504eddc062298de6f2e48d6be18c4b35fb"
+        "top.webp": "fa1dc9e328ec8a4005e844642a68f54f79e1e416720563c5921c470cc03483c2",
+        "interior-1.webp": "fc7813f682504bd51a059251953ee5aa1b03fe1e231ac4eef693661ca0671b97",
+        "interior-2.webp": "9912fafcdb77562284383225bf3a2224fc4bac4fbd76ca2373bb1d20e80de13b"
       },
       "name": "Rhythm Corridor",
       "kind": "Corridor",
@@ -3524,11 +3524,11 @@
       },
       "doors": 2,
       "id": "rising_procession",
-      "source_hash": "0ed791127fb747677230171c500a7089bf974f9293f8a90d025f2e946fa6ad57",
+      "source_hash": "57b4fe55be67ab1371d82f79cafd7cc3b4d29dd9584338f71a4f6bfef0f2905c",
       "image_hashes": {
-        "top.webp": "21f1d834cad249741179dcb23afee7934f5c38e88fcce9516256799ebe9679ab",
-        "interior-1.webp": "b3149554732e3ad1499bc60b08632a1999636eda71de6edfbc103f4071125fbe",
-        "interior-2.webp": "3a815386455facfb44db8d04736f0e6b2c05b6a93ee8090e797bb37b91fbb5c4"
+        "top.webp": "fc83e52ec8f30330ea350163db419afbacb49d871327e215cb85aff03b7caebe",
+        "interior-1.webp": "d33a78da1f4020a05d5b96d35dc21466bc0e56c269ffa7162c56fce5717dbdf6",
+        "interior-2.webp": "351df645bf6350885b787db0a7a45e5d870fbe1d6cff55c9461be9a681b3d593"
       },
       "name": "Rising Procession",
       "kind": "Room",
@@ -3599,11 +3599,11 @@
       },
       "doors": 2,
       "id": "RiskRewardShrineChamber",
-      "source_hash": "04783a27bc02fd8b3afa13168b36f9b21a6a74eb5d6ebd8cef1e969a97aeaaf2",
+      "source_hash": "c540285d783046118da7f9995bc80e8aa63ec8f3ee219be3c36f42645bd4cd1f",
       "image_hashes": {
-        "top.webp": "98cbae1b1af35014568d56e2a2c0256498c189a8909c0f7e1f72f9ab5e4fa462",
-        "interior-1.webp": "13fb002340c7847dec7717357a51560ddbf03f7a657380972e1f9ad30005c352",
-        "interior-2.webp": "081819be4e0bed52358936cb451206e4e2f3b097c40b3ec802508dcdcc32c65c"
+        "top.webp": "1a6d1b2d9f4a58f65b9ea72cea22ee7df04caf248c69a02773d77dbea390699f",
+        "interior-1.webp": "20800571985e6103c1b3049fe50dcdc3ce75b4e537616209f8411a30c6e095b2",
+        "interior-2.webp": "a283186231d75a3650d342ed135f7cd059af1d371044487565a7af36753d140f"
       },
       "name": "Risk Reward Shrine Chamber",
       "kind": "Room",
@@ -3674,11 +3674,11 @@
       },
       "doors": 3,
       "id": "rolling_suns_quarry",
-      "source_hash": "3a2126dfb581265734b56fddad015570d3a5bb3b07660222cb761a30965409e8",
+      "source_hash": "845b66ec9387045418d8f5c1d483a92dce7e043495c225cda9f6ba0c4508470d",
       "image_hashes": {
-        "top.webp": "cd23c5e125c8cc2615a2a611fb17c19780c5b3bbb41dcbf9ca87e6fa7cfc2243",
-        "interior-1.webp": "89bd2fa21275545a3c1db7589965346ddb591d5b2053169fc6c39656cd1c4921",
-        "interior-2.webp": "edafdfea838ff5ebc113f3582f1e595cc72c320f3150e9c583c8b7d1559bd87a"
+        "top.webp": "e2b87bc63089b32b3dfe47714931e7b33cdd3d27282c5ee55f05736c062cc6c7",
+        "interior-1.webp": "757afc428ce480ac99a18392b697a84bef7dad4b862770b11ba625407086636d",
+        "interior-2.webp": "b3dd270c894983a209e33f33f21a820ba510a7fd569875889b96c0d09ad6154e"
       },
       "name": "Rolling Suns Quarry",
       "kind": "Room",
@@ -3749,11 +3749,11 @@
       },
       "doors": 4,
       "id": "pillar_hall_ring",
-      "source_hash": "3fbb9a85f350c128231d06f68d1e6c3c3cbbedb43fc2da3b0d269a4b9588fa71",
+      "source_hash": "e53939c276575582ea4aea437fe29e49abbd4e25b5f685cdf46fce467ec9286d",
       "image_hashes": {
-        "top.webp": "1182f64c26ac3ce311a0ca41315ef2b358f635296d8dd4ab74dc072e21a20d8c",
-        "interior-1.webp": "c012746ef979b38050367b8cf8afeb084a7cc8dadc3cd73df3d6be17d57a02de",
-        "interior-2.webp": "82837d976ae55fc71d6b0a1d788a293496ac4fec94597fae62bf6722ad837d2c"
+        "top.webp": "253da3a48a1cc7504252de96ed40ad618640fda13a623e62baeef262c0a388eb",
+        "interior-1.webp": "308b152409fa18d3ec84f8b895286257fe65ae9a5c9969bfc88ab807b2e4681a",
+        "interior-2.webp": "d8754a7713ba1e82c29e87ab33b13102e192d07f5804a1887325495c0edef913"
       },
       "name": "Scarab Chasm",
       "kind": "Room",
@@ -3824,11 +3824,11 @@
       },
       "doors": 2,
       "id": "scarab_switchback",
-      "source_hash": "16ce62836053cd5c544c43e74fbf45f194a0a062ca8d9c36b7ba0ee6ab34c5d9",
+      "source_hash": "69d7d041eed560e3295805b50e88ed1161191a2690323ae065a7f8d0f8b1c861",
       "image_hashes": {
-        "top.webp": "e677471c1823a7af5f837a1b635fdfa8130e4d42353598bb80f74b35e6bbc374",
-        "interior-1.webp": "abf3eb48d5c97485d7bd7eb5b74a1815a10cf81548be4b4be8aa30a163dc3162",
-        "interior-2.webp": "e3952639e983433610f5fe4abbe0642fb4cc2ac1521fb426f3b3b4d37998021b"
+        "top.webp": "aedbbce46d4f707f123e2a7d70d15b0efddc883d18dc44a8f467e9ff5818b96a",
+        "interior-1.webp": "74f4f88c876ea6bbfe79d812823fa17a2a973a1680592b54d018d4a7b915dae3",
+        "interior-2.webp": "b1aa86882164f6271465e5252b8600e9da27595360f08f4c76fd6efdb27907fc"
       },
       "name": "Scarab Switchback",
       "kind": "Room",
@@ -3899,11 +3899,11 @@
       },
       "doors": 4,
       "id": "skyless_ziggurat",
-      "source_hash": "a7cf37276dd630fb599e63dce12cdd424bf2e68613385419c4719708050b7b47",
+      "source_hash": "166a9eb800ae9bb31386e53de07879cd6f417ce006f912294ea2a38b2e051603",
       "image_hashes": {
-        "top.webp": "a8ae22704773bd545a9ac9769ba6f08a3c9949b6564212edaec138a65591e72e",
-        "interior-1.webp": "b7ed67f854e426a42d6454b1e4ba30defd02a7d600ef5bb6c096e562ad5f46da",
-        "interior-2.webp": "94ee27bb8ae8c6b63857f4006f980ae5212e7c4a6293d3598be14cc004119c58"
+        "top.webp": "86745a13519946e7d08d8c18be326ed6e2455b71a1cbc660c5e38d5fa109a126",
+        "interior-1.webp": "6b32b3a1aa0b5a867c8af5f3a9c60f728b54b8017d134db76bb0ea50a5aa5642",
+        "interior-2.webp": "52e4c3ea450c0de12ea89d62e1cd2c36fd20f71d49c51f1c7d07e656b4845337"
       },
       "name": "Skyless Ziggurat",
       "kind": "Room",
@@ -3974,11 +3974,11 @@
       },
       "doors": 3,
       "id": "spawn_room",
-      "source_hash": "69c61ba381934f33ffb9c823c49c836a0c49b0e349aba9d28ac30ceb99386638",
+      "source_hash": "90566831dde1ad0edb6c0ba0fdf7f51ecf462c01a271b2a6c390159dd032fa54",
       "image_hashes": {
-        "top.webp": "3ac2fc28ed13aee4f73875dfe4bbfba569fcfa3561bfe10240ae274124cbfc26",
-        "interior-1.webp": "64f6015edee9e03e6a90af5f9c781dc5eba1913fef6b157326ab15664f11d677",
-        "interior-2.webp": "bb970c120834142bbadf3a8365a18de7e758268af86155b1f1bdefff23288d4b"
+        "top.webp": "286feaef2798e39c3e72cbf8cb7d5f0247d6d8705ee560b236862cc8182e38a3",
+        "interior-1.webp": "ff2db543056ced9ba0a216d51ca9e3b3e8f51efe5d51c2ba28d4d6daf0f53c26",
+        "interior-2.webp": "f370360b992cdce32a40e8a1249454db54230020b0eb4371ef190616dc85a5c0"
       },
       "name": "Spawn Room",
       "kind": "Entrance",
@@ -4049,11 +4049,11 @@
       },
       "doors": 2,
       "id": "SplitLevelKillbox",
-      "source_hash": "273e6af8e927af7178d9575038faf1a296b88fa1e3604596966cddc90a5c6d86",
+      "source_hash": "96050d89ecabd81e1e018d167beec9414b974c879c3eeec0b286341ba7348cf1",
       "image_hashes": {
-        "top.webp": "dedf39d95999e5b56f67ffad1941fdbb5084dac6f13d2e73191d56594fbb8e26",
-        "interior-1.webp": "6f160b76c4e9983bd77e21d7af854cb196be04087ece7392fbe8c0d73d9b1947",
-        "interior-2.webp": "df142ac5f74f6c40ddf8beb6eec3a0e6801864198499b246318f7a2ab8cc4c76"
+        "top.webp": "e585dba21f79932d095daf0bbc5147039a0d15c2912e2d068ad0f2d1076425f8",
+        "interior-1.webp": "1efd1528adf723079cb50676058a87f350a21371a6586310ba6a955c3c078745",
+        "interior-2.webp": "7dc69357b208e6b54380f5463e2f026d393359cf8c4e1d77099ccbef605e6e59"
       },
       "name": "Split Level Killbox",
       "kind": "Room",
@@ -4124,11 +4124,11 @@
       },
       "doors": 3,
       "id": "split_room",
-      "source_hash": "be0fc044bc8d8e015700dff7df1cdc49cfa2e4c59f838379ccf1b8e6b78d26c0",
+      "source_hash": "e09ffa54fa159920300b3edca2d61344a8e20e7ef02d9bc34b9a1b55c4c23453",
       "image_hashes": {
-        "top.webp": "02ffeb9540293bd07ede6fa26bceed39a1ced3a3011594b211ed4d562461ced8",
-        "interior-1.webp": "f6796aaccb4abe3f99b7b38374f587c8e4e6b3d0aba989c267b1a541fcf5e809",
-        "interior-2.webp": "230488eec7589799270f80c0c13f333a1609f9983abab7dd9b8c1c450b080ea2"
+        "top.webp": "bded6a98e61019cd51e4ced13fd6b8da9bc9b6c173984e55dc63f398e14fcac5",
+        "interior-1.webp": "1cd6e9aa9a2444f1ed8cf1f09d9591ed9188e4d34562ba5e888195b98c050e48",
+        "interior-2.webp": "9041fcab874148149c2c59c089b5ba59cf4c3124ce58f170d2d159b62e2b258e"
       },
       "name": "Split Room",
       "kind": "Room",
@@ -4199,11 +4199,11 @@
       },
       "doors": 1,
       "id": "sun_shadow",
-      "source_hash": "7ffa4470695d91062373ff483460f3f77a33ca77c5006cd7edc50a38f804d454",
+      "source_hash": "3f297d3570ba10a5d921429d12b10dcd4bdabfa71e16125446e05cbff71933a1",
       "image_hashes": {
-        "top.webp": "a49b2700a7412a66a71c7ce485785c5c3d76e580d6716a10f904d00a7b5cc8b0",
-        "interior-1.webp": "868ea49ff971e24568d3ef67358735917ccc32d8be047f1b4c30b728c5c90c4d",
-        "interior-2.webp": "76693e97e3806e95390838c644f0caf91f6161e8c8cb3ca2467269319ab7d5b1"
+        "top.webp": "ecd062a784562a724f74b430c7500228a8d1131be4c0bfd6cbb40c15bbde14eb",
+        "interior-1.webp": "edf4515fe2c831dc31a3a516df116e2c535affcfaf608073da4cd2cb9b051ca4",
+        "interior-2.webp": "b05e4b5ba31d396b7c275811807f75a65d1817c3743132ee1115efd8d41cd539"
       },
       "name": "Sun Shadow",
       "kind": "Room",
@@ -4274,11 +4274,11 @@
       },
       "doors": 4,
       "id": "sundered_processional_court",
-      "source_hash": "8a3aef7a63013bc639dd2f9df82edfd0f311389c23cfe92467fb78282d8ef38e",
+      "source_hash": "5a1eba444a6844fc65c9f28fd938d240322e0e5f5d14717c98617f52872aef24",
       "image_hashes": {
-        "top.webp": "8725d177157ded5676f73b2bfa06c590b0a09ffbf92ce7591de945a0829ab380",
-        "interior-1.webp": "5639b1b25a08efa5016d8b8c6e03059951954b8d06b08c82f5d0617c8b6214b4",
-        "interior-2.webp": "142a6d9d8694ddcf96c080b6921565fa928175271edde48acb40cb0120eb802f"
+        "top.webp": "e1442f65166ef6e4a308174d6b1898bb85c403d47530bb3c23dbbdf2ed2c8a4d",
+        "interior-1.webp": "9ec5e019784fa1c644138bcfabd08b5a845641c8a5e0e6b37851d0d5f2529db3",
+        "interior-2.webp": "fa00e9a0a522eea01f472c3badc906e43277fc05c43919650ff19210b1b20b5d"
       },
       "name": "Sundered Processional Court",
       "kind": "Room",
@@ -4349,11 +4349,11 @@
       },
       "doors": 2,
       "id": "sunken_hourglass",
-      "source_hash": "223481f1cc8a5e06a3fb46a073687f5f72c354b68b54262254ee11d71c1e7a7a",
+      "source_hash": "7f0ae7c8dba2ab12ad8a95084729878609f80324c3d9dd537555a83b4adbd725",
       "image_hashes": {
-        "top.webp": "5889f8a9bbdfbddebb01ff1ba7f514469205e23904b5b6084ce52856954b1c65",
-        "interior-1.webp": "20ac8f9a4611bc23500565d772b7220fbed0a13ef1b9cb8a853b979e612ba74d",
-        "interior-2.webp": "c8e7e01cdee59801b3fb220cfecc9e083d97f22d2944ba7f61e34383741f9fa7"
+        "top.webp": "ee5371ef0447895af2c090b0cac88cd7720b390b2a4155d465a4cd96854f9816",
+        "interior-1.webp": "481ceffdf1442d6bd111b9253d096203c4ae7552677c00b792ffa9ed42594043",
+        "interior-2.webp": "5a647802360c3dbd1743ebcd87e3707bea2151c2cd0c83f0a97edebc9cd95bb9"
       },
       "name": "Sunken Hourglass",
       "kind": "Room",
@@ -4424,11 +4424,11 @@
       },
       "doors": 4,
       "id": "sunken_shrine",
-      "source_hash": "53712a1e3c0b2554d60f8cc1c3bfb08f498ca447c5c7531400d7bf5cd851ab9e",
+      "source_hash": "521605036ebf6d621f1329a898930db688974ca7cda82306daf3e0831f680fd7",
       "image_hashes": {
-        "top.webp": "95cb2d101f50c56ae04160227ae29cc153686a9528ef296eb35d07fcc76a331f",
-        "interior-1.webp": "b6abbeee92c860ff3b3a14549c90fb47d56f483f5a97b1d3237213c5729529ee",
-        "interior-2.webp": "57ab75a0296b2e75d70c243ae86fa9041a4c529f835d7977d61141b64884acec"
+        "top.webp": "062a7221324153b51c09739460de61ccacc814fd9ea70a45b49a404297e757b9",
+        "interior-1.webp": "02fdb4512fff51958ea1106fe0e8e291a1271beb7694e609782af4a617d40563",
+        "interior-2.webp": "0f984a2812c70ba901d7595a11f1ef154b49364f671769e17c98ef4cbc7fa2ee"
       },
       "name": "Sunken Shrine",
       "kind": "Room",
@@ -4499,11 +4499,11 @@
       },
       "doors": 4,
       "id": "sunken_sun",
-      "source_hash": "6dfd9d3cbe321d7747edf1538f689565e47cdb8c5b15597855aa314fff94c59c",
+      "source_hash": "ceae053186de8d9399b123e5c9f250462f27b8258aad217285d88f1da1a3db36",
       "image_hashes": {
-        "top.webp": "7c999c7a3cefc507dfb978620a9c8d7c133389ee65e78f077e80c1cf8a982659",
-        "interior-1.webp": "f36ad927b1e809b8a84de11fd3e2f6a701044f59b8b8f9840264a36f203907dd",
-        "interior-2.webp": "e745e69be26917db40ee262480f6d8c32bfd8b04e716d27c8246399ab6f877fe"
+        "top.webp": "8f5bb43c4159a4b22167986318bd6e12604b3748b127dd634ee89f2d471bdcd3",
+        "interior-1.webp": "bd4c77072511592cf7b90b4b8980f772be5eb8d4fe455006c7a0dc71a021d00a",
+        "interior-2.webp": "ed5a44c11164cabe99a0b8e016502ad40120b5dabe2ea890546385b3cf730750"
       },
       "name": "Sunken Sun",
       "kind": "Room",
@@ -4574,11 +4574,11 @@
       },
       "doors": 4,
       "id": "sunwheel_arena",
-      "source_hash": "d611e83790c806da34c9907f632548fd1ddf8e01c9c9f07cf441829d747173a8",
+      "source_hash": "3da1afa66950354ddbb77b264b0ddba178d0921dfa39f021cc2ef5377d62c4bb",
       "image_hashes": {
-        "top.webp": "d2455f7f19c1a2ff22d6464a7b321416c6d27fd02f98419f6a05b7fb81f52f20",
-        "interior-1.webp": "83260238f74094eb85be55f47300924dca1fb57936f464c29becc4a714774d25",
-        "interior-2.webp": "c2f405c9565d1fbe0791d10884cd1dac8dc338a3e14d1e4ec7ebf3a16b8e1525"
+        "top.webp": "73ac70bdc364b75bde7b1a2ceaaf92aba576a611d0d2b50378a82cc71a1e4fcd",
+        "interior-1.webp": "79db9221b2d0344a003291a0d6572a66b49e29bbbed4e23453d682ca2766951f",
+        "interior-2.webp": "3cbe3628422c5ee677ec8269ea045e01e6d2b68b6214153153e6982db3f5a1b9"
       },
       "name": "Sunwheel Arena",
       "kind": "Room",
@@ -4649,11 +4649,11 @@
       },
       "doors": 2,
       "id": "switchback_ascent",
-      "source_hash": "3067f8e0697771de21517e866672c51571762a5d4ec9d205b0748f0a80d95192",
+      "source_hash": "6806add00a7bafb4dd6524a3756e38f7a77f431caf3da290b7fe52fec6b4a21f",
       "image_hashes": {
-        "top.webp": "770df2e3d143be4e94637f885f167a82bf27cdf87a4dddd9d83e4cd2ce16116c",
-        "interior-1.webp": "c9452a6c5e21957afa951aeae487638b791c6c6064486c81d4c23803d47046fa",
-        "interior-2.webp": "ace101ffdb964cc8ad96b5f94ab9d4fdf7cf5730fc20ba234973f88b73665d3c"
+        "top.webp": "6997380e9f2f4b75925907d4d57822d35089e04ed0cfce73b763406fd13ed31a",
+        "interior-1.webp": "aac569440b8a6967f2da01bc2e2b4c4e635861ec9d10390e553f3f195996901d",
+        "interior-2.webp": "7de93823cf6427a2dc5f5687c7e66c37d6858558e423138ae9589244f30ea2e2"
       },
       "name": "Switchback Ascent",
       "kind": "Room",
@@ -4724,11 +4724,11 @@
       },
       "doors": 2,
       "id": "terraced_court",
-      "source_hash": "cce12ae1d43e2e9a924d03a8691414426b0fd914fb6d2e60ebe75257bca61ce4",
+      "source_hash": "68efa2068c0971dded1f9dca2da498d74fa40e66966f94dcce77285bcca7d886",
       "image_hashes": {
-        "top.webp": "eaa33a88f00bf62c53fd253f2892f4ce74df224581efae8ebaa2b3d057054dd6",
-        "interior-1.webp": "50382e606c80b903938ae7bb4cfa91afafaa7d7d0a22427b5a9074588aa1375b",
-        "interior-2.webp": "6aceaabaf9a25ba2ee68551d20eed284af77f59e0bbb0a05b350f12d4569a87a"
+        "top.webp": "463da880811e2f40049bf6ae3d9b64d9bc9b8329ac21dddb60755184090c001a",
+        "interior-1.webp": "054260589e491f6059e04d8a0b68bb8c267a8fdf099a0631ad117d1a8f3ab75b",
+        "interior-2.webp": "2fd72f06030aeade8007462f0d3a65b8f31391bb2577aa12c1e5de34066290ea"
       },
       "name": "Terraced Court",
       "kind": "Room",
@@ -4799,11 +4799,11 @@
       },
       "doors": 2,
       "id": "trap_gallery",
-      "source_hash": "9c34aff57f502e5d77b04027a9f003237bf643472288cd73c0690768dd583b79",
+      "source_hash": "9c5bd531cf47a1b114d8874f4ca334b47d7458d0f07dcebf5023809c4613b423",
       "image_hashes": {
-        "top.webp": "d9a3beafbeb5a3e6809b9578a25fd90fc24eff1cff69cbc694d84505290cdcab",
-        "interior-1.webp": "a68d31ade0ff85ac11b516cadd85215c95fb30fe49b241bf6cf901b130a73417",
-        "interior-2.webp": "ab979def3b601824f734e0203abb8dd14f23caf88be9bc1b14cc5213ac458f44"
+        "top.webp": "8e21a96c32f935af385deafe2ae43ba711f43cb4be9e7d37b5a03b75e25f8679",
+        "interior-1.webp": "2a468b62b9a955dd7a983837c3b9cf7957ca797f6f6ee7816e0234231fe58b97",
+        "interior-2.webp": "8726b6eb737a0c8329f2cf9243eef5bf40eacc425fc2a85e3b506269d3b2e709"
       },
       "name": "Trap Gallery",
       "kind": "Room",
@@ -4874,11 +4874,11 @@
       },
       "doors": 1,
       "id": "treasure_room",
-      "source_hash": "0b9fd6ed60a22abde40cf8e90c93506367eeddd21830bc1c18c671b9dcb5897b",
+      "source_hash": "c17fd0cd6edd18ab3a2e565e067a9faff317bf25a111cf3e7300a27e1418e8ef",
       "image_hashes": {
-        "top.webp": "6032419091160029640198adf28f3d6c27e3a192618baa02bc1c7adfba64ba3f",
-        "interior-1.webp": "27c68b93c2841b21f120b5e8d9e2d71b0bedcd437fa8d1105d5f186a3a6ac6a1",
-        "interior-2.webp": "7db86e9a965fbba720f5d436adfdfd228a835d2c37fcab8d56594307eb59f892"
+        "top.webp": "9bd62713b86c345dc20172e9e933715d42827f34b9372d9c9a18bcf246656d83",
+        "interior-1.webp": "c64f226bbe0d843dfccc23cd95d6f9719eaf9261fe040167ce7c268bc8372ae3",
+        "interior-2.webp": "cb2304821d647d34fffc41a847704fabf636299fda9f7ff784e8567a2285dbc7"
       },
       "name": "Treasure Room",
       "kind": "Room",
@@ -4949,11 +4949,11 @@
       },
       "doors": 2,
       "id": "treasury_of_weights",
-      "source_hash": "50920735f85a9f191f4b747832f97c6a28644f4adadaa64f314642ff8baed13b",
+      "source_hash": "83a5069bd64d7d805ce4f3a976fa44a9bb08b0e266cc772b7c51a6cd542dae85",
       "image_hashes": {
-        "top.webp": "d5b3d054a75a5d93285d18a1a4f44752451d1460451e4d80ce4b1379c8958768",
-        "interior-1.webp": "f1ff3577d587bf5c8aaac44f879d8282326118ece8b85b739533a3223d491d36",
-        "interior-2.webp": "a4132abd9989e461c474aa58eabfd205fbc84690c1cd95c8c8d9ba452feb7f6a"
+        "top.webp": "c714de9217799d8c878dba40ce851a939200f60fc39d3e99112f87e2dcc212ef",
+        "interior-1.webp": "be335140b4b1548146c36e0971dfaf04fc0bc4b85af4c5138751e4f603687451",
+        "interior-2.webp": "56a55379708fb2155181a7a139fd4033ecc4732975016cdf530b3208fefadaa9"
       },
       "name": "Treasury Of Weights",
       "kind": "Room",
@@ -5024,11 +5024,11 @@
       },
       "doors": 2,
       "id": "trenchbroom_fuel_shrine",
-      "source_hash": "d9ab5e2a8493f8337658cfd80c3fd1768b7eb0df748e0a29af5751a326679984",
+      "source_hash": "7a726bdea858750ee47ffdc236b09689d201cce6e23265552f65d0a4737d3ec4",
       "image_hashes": {
-        "top.webp": "932c1deae2576660895175407dfbf19eb83275cf7f7a1a03d4acbd42536ef694",
-        "interior-1.webp": "b37a1f21ef15b1ec116d83c7aff42097e71e29a894214de98fe942a947a38bb2",
-        "interior-2.webp": "9814fd0fe0d5bf394ecaaff9c7fd35c856b0100458080753ead49bc16079fdfe"
+        "top.webp": "52c667c3e9585599d1b8c64b7aa20153354d61b20aab2bea696a11a73c4d30e0",
+        "interior-1.webp": "1552b8a84eb4a5c15b949c7c9b76acbc60be2635f0c909ba9d6acb29c8acd739",
+        "interior-2.webp": "0d17e8f14be3f8ff9ca439fc84c6eabdf360e5d815602c31de48fdf3fe87f0ee"
       },
       "name": "Trenchbroom Fuel Shrine",
       "kind": "Room",
@@ -5099,11 +5099,11 @@
       },
       "doors": 4,
       "id": "twin_court_crypt",
-      "source_hash": "f889722311d71e83218ad65629093974838a84624b8000bb06b74a4bcb61fac4",
+      "source_hash": "63465b00215224a83d82b60db5942a1f8f08ab2a2186145e740678dcadcbd550",
       "image_hashes": {
-        "top.webp": "174dad3b1509f528d2693c736e2e9fba404c7bf488e5e0dd3a73527b06dd1a59",
-        "interior-1.webp": "cae7cad6e10794d2547befd7a04d56e6f0f7e649651ad391fff7295ffc2f9ee3",
-        "interior-2.webp": "2457cfaafca3a176b96aefc17ed0149cc2039266fef78aacc05abea62d687d20"
+        "top.webp": "5da0d366cd87fd09a99e5d7a5b2c6a72b5dae2f1ecbe6b55f89b328f36d13844",
+        "interior-1.webp": "8a783c1d8d164dacf136099ac97c1aa84738485ccd5b530b928a1b7626b47fa1",
+        "interior-2.webp": "162ea8f7142c0e605d511b666b2e60080b4e96e96fbeaca7da8d97a5ea4210f7"
       },
       "name": "Twin Court Crypt",
       "kind": "Room",
@@ -5120,7 +5120,7 @@
         ],
         "size": [
           16.0,
-          4.14,
+          7.34,
           8.0
         ]
       },
@@ -5128,14 +5128,14 @@
         {
           "eye": [
             0.0,
-            33.91,
+            38.71,
             0.0
           ],
           "file": "top.webp",
           "label": "Top down · roof removed",
           "target": [
             0.0,
-            -0.23,
+            1.37,
             0.0
           ]
         },
@@ -5174,11 +5174,11 @@
       },
       "doors": 1,
       "id": "vault_room",
-      "source_hash": "986c980d3389d59b9a7547c36f595dc5a86b50669101c7680a38d4b0ee2f5188",
+      "source_hash": "99d1d04bba008347fe6398171afcbd099bfcd38e2d160a130f4c80a58ff4ebe9",
       "image_hashes": {
-        "top.webp": "6e222469b0bc370985a50cddce06a2cc940eb0808845b7a92fbee81719b219ce",
-        "interior-1.webp": "619b1db7b9d19a2e90afd0727e7c1ffb941570c369295100c8f17e0e6dce40ff",
-        "interior-2.webp": "ddd5f54206388eecde493fc6ef53767e0719491ad51a7328a4730ec49ac6db25"
+        "top.webp": "65c3c4bc6d139e2916030fd9d3250aea19c6591961e99c1828c03679d77487b1",
+        "interior-1.webp": "1f484d5dcc5f604c5e29933114e458a5796653346c725da1c1586b1544f13045",
+        "interior-2.webp": "79b75528a68f5291d9c708620e4545be99e97d28d442b18fbe99aafd7081bf7c"
       },
       "name": "Vault Room",
       "kind": "Room",
@@ -5249,11 +5249,11 @@
       },
       "doors": 3,
       "id": "SpikeWheelChamber",
-      "source_hash": "7d4b646f7001d8248d86fbcdfa24eee2e952f9095f310b2d811dc81d65169662",
+      "source_hash": "b3481eb887f1cdbccd72d30b28d28d093f2b6f832665788e7eb80e0fa15489fb",
       "image_hashes": {
-        "top.webp": "de91159c7bb75d81f423b9ca800e5dddb686bb8ff121c1b3406579db8e3db97d",
-        "interior-1.webp": "9e0285fba9571a729ce986a6f3d0b6962ee53fe2339754ad7b69e065cceee95a",
-        "interior-2.webp": "9c207ebb0372ea80b177a73c68baba3c59b29a313fc26d2e09dd2d3701d94087"
+        "top.webp": "ecf0aabe848e34d5aaa8df53576d2bd37455c5e85b41aae549cb440421ff686c",
+        "interior-1.webp": "acaeebe151f693c6f1a7d6bb767fdbfcfdd5925c966baa5ce94e49d3906b17c7",
+        "interior-2.webp": "6942a0e8dc620b34a21e307ef4cebe84fcfd06f2334f2691433423cfb3f4dd23"
       },
       "name": "Wheel Chamber",
       "kind": "Room",
