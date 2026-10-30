@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "room_count": 70,
-  "image_count": 210,
+  "room_count": 71,
+  "image_count": 213,
   "capture": {
     "size": [
       960,
@@ -3385,6 +3385,81 @@
       "category": "standard",
       "scene": "res://scenes/dungeon/procedural/rooms/processional_hall.tscn",
       "map": "res://levels/trenchbroom/maps/migrated/processional_hall.map"
+    },
+    {
+      "bounds": {
+        "origin": [
+          -8.0,
+          -2.3,
+          -8.0
+        ],
+        "size": [
+          16.0,
+          5.1,
+          16.0
+        ]
+      },
+      "captures": [
+        {
+          "eye": [
+            0.0,
+            35.35,
+            0.0
+          ],
+          "file": "top.webp",
+          "label": "Top down · roof removed",
+          "target": [
+            0.0,
+            0.25,
+            0.0
+          ]
+        },
+        {
+          "eye": [
+            -4.0,
+            -0.45,
+            6.6
+          ],
+          "file": "interior-1.webp",
+          "label": "From B doorway",
+          "target": [
+            -4.0,
+            -0.45,
+            -9.4
+          ]
+        },
+        {
+          "eye": [
+            5.333,
+            -0.45,
+            -5.333
+          ],
+          "file": "interior-2.webp",
+          "label": "Interior",
+          "target": [
+            0.0,
+            -0.7,
+            0.0
+          ]
+        }
+      ],
+      "cutaway": {
+        "hidden_overhead_nodes": 2,
+        "removed_roof_triangles": 0
+      },
+      "doors": 1,
+      "id": "relic_encounter_playground",
+      "source_hash": "5334b463f23070dc6502f698ccdd714b81a6532e52b4ad20f0e1c4f10df450a2",
+      "image_hashes": {
+        "top.webp": "86a4ccdd5e07f4c24fa2a1faec9b969a834ccc193a313f55ae7b0299f1ea7380",
+        "interior-1.webp": "f96a3b23ae2b2cd35b4113a923d238baf5a8f5cf2e73637e50d2999044825342",
+        "interior-2.webp": "8c8f0ebfd0244074ef2d286e3545f9176a3fd1d475816ba94ae183bc7a40bc4d"
+      },
+      "name": "Relic Encounter Playground (debug only)",
+      "kind": "Room",
+      "category": "standard",
+      "scene": "res://scenes/dungeon/procedural/rooms/relic_encounter_playground.tscn",
+      "map": "res://levels/trenchbroom/maps/relic_encounter_playground.map"
     },
     {
       "bounds": {
