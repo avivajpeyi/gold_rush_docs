@@ -2699,11 +2699,11 @@
       },
       "doors": 2,
       "id": "long_trap_gallery",
-      "source_hash": "ff7db6444b39543dd8904f238bed686991d82a03b23e0f7f28c991ed5407e382",
+      "source_hash": "e17b2c5d6f8e831cac363a8e004730eece71490a1c398a9ebe44ee1f30204278",
       "image_hashes": {
-        "top.webp": "b947c5729c910565fd1bb57d8fcdae381650d277f7a760c8d1c0504ede1c40b7",
-        "interior-1.webp": "c47e7093dda8ecc03fd8cfaa0326ec4b27ec8f22d8f9e394d1b950aadac149d4",
-        "interior-2.webp": "fbfce47f9d852d27b160536e746c85e20f0ee0455a3e49d867ff0a18db9acf6a"
+        "top.webp": "406968e9695e75e73587a1d0e240312dbd407fdc8f81d1de590b4ae7aac46f85",
+        "interior-1.webp": "a260fdd38d7ad6e153abadf0bbd34a8b83083e59b0a2918eaec9fbf95f3dc04a",
+        "interior-2.webp": "608352a95f6f1a6894aca6088d1fa357eef099966a8eb185046121c9705a5863"
       },
       "name": "Long Trap Gallery",
       "kind": "Room",
