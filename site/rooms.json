@@ -2099,11 +2099,11 @@
       },
       "doors": 0,
       "id": "intro_room_spikes",
-      "source_hash": "6ddf5c88fa83f53d188d4dddeabe985dd30fc4db08a5a11b46d1d563be54b4bb",
+      "source_hash": "133f1439aba3494f7dc54d8660697c70b2fc460a17befa48dcca089fb1da4548",
       "image_hashes": {
-        "top.webp": "2687a5eba9b8f3a7dbe5e61cddba995441650019f04159196af60924c7f6aeff",
-        "interior-1.webp": "5d7c487729cf78ba83acf7e90399669b3f9631d73f1182144cf9466a2458a4d8",
-        "interior-2.webp": "d9bb97060eb7ff2e7c5ca8b10894322db3f126e3425c244e0c94d7ab281ce88b"
+        "top.webp": "2920e21ca0ae752a11faac2d05118f2f21378c081b180225bf41684c6dcdb205",
+        "interior-1.webp": "655e08fcf3dd3eb14fb5febbaa9d03201cffb144e11cde13e1fd8b6138dbd29d",
+        "interior-2.webp": "15644cbec516e957732d884b452c080d1af9492a89a7f6cb5908da2b198dc5dd"
       },
       "name": "Intro Room Spikes",
       "kind": "Entrance",
