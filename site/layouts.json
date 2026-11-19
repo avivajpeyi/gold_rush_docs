@@ -1,11 +1,11 @@
 {
   "version": 1,
   "export_date": "2026-11-20",
-  "template_hash": "6baed44a25c530769afa93a45f5e7a4bebf0468ff4e420c50b7f59052fd5714a",
+  "template_hash": "9fc1828a719498da82820dc2a2705a471a18bfd62ffcc794a5564cd9fc2677f9",
   "raw_export_hashes": {
-    "cyclic_two_key": "5f830ca0b6c124d81aeccd53c89837e282c5bdfdee9c750271d52659ec1e10a1",
-    "exploration_two_key": "d1a8d10898fdb75477bd839e1ba40eb0f3ac5fcc5af32383cbd9843da077ea78",
-    "legacy": "a65ea92b52e13ef376b55b47a649c1daa618bad5fec7f7b3bd8b38fd2b434d3d"
+    "cyclic_two_key": "a3dd79fd730026e64f430e622e7e875dfea9be08e332bb57b997f42a0376b5e7",
+    "exploration_two_key": "4769f1c42a46f3b5f405b762d63a30465f56baf0083c08ea134378109698f50f",
+    "legacy": "df44df73278debe89ff9ac314105c4719fb4d5903e56bdfc165fa9a491fd9c51"
   },
   "basis": "Accepted production exports, starting with no campaign keys. Static collider floors and walls; internal heights flattened. Room count excludes generated connector tiles.",
   "layouts": [
@@ -3284,19 +3284,19 @@
     }
   ],
   "generation": {
-    "publisher_fingerprint": "6baed44a25c530769afa93a45f5e7a4bebf0468ff4e420c50b7f59052fd5714a",
+    "publisher_fingerprint": "9fc1828a719498da82820dc2a2705a471a18bfd62ffcc794a5564cd9fc2677f9",
     "source_fingerprint": "1ca62dcfed8d4f1b48396741efb4c1ae7e4d07564d03dfa38e4f1a2ed15eadf2",
     "source_file_count": 5539,
     "exporter_sha256": "c40880ce27d9f8ca47a1624581ea8f409136e25e4138e201e1b4b03621f4c113",
     "raw_export_hashes": {
-      "cyclic_two_key": "5f830ca0b6c124d81aeccd53c89837e282c5bdfdee9c750271d52659ec1e10a1",
-      "exploration_two_key": "d1a8d10898fdb75477bd839e1ba40eb0f3ac5fcc5af32383cbd9843da077ea78",
-      "legacy": "a65ea92b52e13ef376b55b47a649c1daa618bad5fec7f7b3bd8b38fd2b434d3d"
+      "cyclic_two_key": "a3dd79fd730026e64f430e622e7e875dfea9be08e332bb57b997f42a0376b5e7",
+      "exploration_two_key": "4769f1c42a46f3b5f405b762d63a30465f56baf0083c08ea134378109698f50f",
+      "legacy": "df44df73278debe89ff9ac314105c4719fb4d5903e56bdfc165fa9a491fd9c51"
     }
   },
   "review": {
     "export_date": "2026-11-20",
-    "publisher_fingerprint": "6baed44a25c530769afa93a45f5e7a4bebf0468ff4e420c50b7f59052fd5714a",
+    "publisher_fingerprint": "9fc1828a719498da82820dc2a2705a471a18bfd62ffcc794a5564cd9fc2677f9",
     "base_commit": "6e15e5f1421d383fda90cde392b4da7e19461559",
     "source_fingerprint": "fb39ad1e1843d18cce9317663a7f3f10f411e3c9bb41d28e44e774b3230b7c9f",
     "source_file_count": 1692,
