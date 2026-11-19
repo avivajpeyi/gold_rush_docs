@@ -1574,10 +1574,10 @@
       },
       "doors": 2,
       "id": "fuel_shrine",
-      "source_hash": "369119db5f8af5dc492360d459b4f988def5050f60b63debadf1b6554e9ceaa8",
+      "source_hash": "95598398b0fc2afbe703c9a700488d796a265757b8ca2fe3431d75e59809290a",
       "image_hashes": {
-        "top.webp": "abafeb55b51c08ca6407c8eec912bb117e901ac14031a55bedcca7ba50068497",
-        "interior-1.webp": "04e07fc9dcff0b7a021742af48ba25d722045de9e7fe60f3253ab6da8d75380e",
+        "top.webp": "ae2ad2ce255c5d4a0164a1e57532cc157bf938e38794ebbece5ce4370732fdd6",
+        "interior-1.webp": "646fd2582d3fb20ba32435a29e16dacb64fd58150c648a0aeccaf9448b353b32",
         "interior-2.webp": "54bd2cc57009b7736b228cbd3ce723b9dbdafa7afbfd0948923f83ff729bc088"
       },
       "name": "Fuel Shrine",
@@ -5774,11 +5774,11 @@
       },
       "doors": 1,
       "id": "vault_room",
-      "source_hash": "967b05b4e89d7f0251a6bdc875ca480630a8c8b45422865d4542cf68a46aa37a",
+      "source_hash": "1c7094d1bb647b2eeec6fa311ab8089e5dd281bd1bdfe9a580e70f3692d9d343",
       "image_hashes": {
         "top.webp": "16f6d5ab955e7ce96bd0199ecec2f03aec6720f912e26381ca199190c4e5c5b7",
-        "interior-1.webp": "c9b7e1dc0a59d7b788bbe6b1bcebde253d9d5324d189e2bf41ec2e3c389309a7",
-        "interior-2.webp": "fee0d9cb4c8fdb74fae7c85b5c05989cde244b5ee9bbb6923389def61bf9ff3e"
+        "interior-1.webp": "53a6585f9a44517c889467cbdcf1c78baa43ec5288ee5265fab903cedc450e70",
+        "interior-2.webp": "955f9ceefabc35dc87d6d9e43d1d77899f46444c89b549139f4b8ee4bef25da9"
       },
       "name": "Vault Room",
       "kind": "Room",
