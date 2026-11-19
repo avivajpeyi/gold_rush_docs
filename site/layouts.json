@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "export_date": "2026-10-26",
-  "template_hash": "c8e7cf071a9a546c648291c1d2bc079d8015064b2aa0783e5485556809277bb6",
+  "export_date": "2026-11-20",
+  "template_hash": "6baed44a25c530769afa93a45f5e7a4bebf0468ff4e420c50b7f59052fd5714a",
   "raw_export_hashes": {
-    "cyclic_two_key": "ed0326cd6d76061399a715818c9645db62d63e2e08066ecf89baa2bdb74b79e4",
-    "exploration_two_key": "be7eef95fbe96656180ddc0d833ade22ea2dc0d3c138d86b82183957b010784c",
-    "legacy": "0d9ce4cc5fedaa31ec00090369eb4c2b98b42db0e732de0247a54fcaed9bb9bd"
+    "cyclic_two_key": "5f830ca0b6c124d81aeccd53c89837e282c5bdfdee9c750271d52659ec1e10a1",
+    "exploration_two_key": "d1a8d10898fdb75477bd839e1ba40eb0f3ac5fcc5af32383cbd9843da077ea78",
+    "legacy": "a65ea92b52e13ef376b55b47a649c1daa618bad5fec7f7b3bd8b38fd2b434d3d"
   },
   "basis": "Accepted production exports, starting with no campaign keys. Static collider floors and walls; internal heights flattened. Room count excludes generated connector tiles.",
   "layouts": [
@@ -19,7 +19,7 @@
       "accepted_seed": 42,
       "attempts": 1,
       "image": "images/layouts/cyclic_two_key-42.svg",
-      "image_hash": "646a96b4b17babf5c62c91c8df17160dac94d08c9b8e4c2c0935387280676474",
+      "image_hash": "18f840bf164630ded870574e11bb5a8d38666e2fb69b7ed2fbce4f5c105a18f8",
       "footprint_m": [
         144.15,
         112.15
@@ -179,7 +179,7 @@
       "accepted_seed": 43,
       "attempts": 1,
       "image": "images/layouts/cyclic_two_key-43.svg",
-      "image_hash": "7ee1ed714a5735594f638afe13f6a1a3cf2bcf8df3615ed124b735563d8f70cd",
+      "image_hash": "e06450b67cf481fab6fb7d8da4980460be4e2ba89e9a22fce7d883521f2bc833",
       "footprint_m": [
         112.15,
         136.15
@@ -339,7 +339,7 @@
       "accepted_seed": 44,
       "attempts": 1,
       "image": "images/layouts/cyclic_two_key-44.svg",
-      "image_hash": "cd3703d3f059058414d64e8365d6f41912bf5422700abcaa06ae014e829e6304",
+      "image_hash": "34de59f780fbf12803417b76d0fd94d65153badff3935bbb3d7ad1ed956dedd7",
       "footprint_m": [
         112.15,
         136.15
@@ -499,7 +499,7 @@
       "accepted_seed": 45,
       "attempts": 1,
       "image": "images/layouts/cyclic_two_key-45.svg",
-      "image_hash": "ffac0566a13f588850bbdb22b000ab3ff1f0a336391519ebfe08b32e07e5a760",
+      "image_hash": "9df62a43be16eda441226bd4119f42c595c128c9a3946e4720bbfe7b3e4dc552",
       "footprint_m": [
         112.15,
         144.15
@@ -659,7 +659,7 @@
       "accepted_seed": 1001,
       "attempts": 1,
       "image": "images/layouts/cyclic_two_key-1001.svg",
-      "image_hash": "0b101ce472f9da95b41d36683cae139a684313dff420e7e420ac1eec58ed81b1",
+      "image_hash": "6054fb290c762f9a6293b570d9771bc72b05360826942e3d8e6fe378b5646954",
       "footprint_m": [
         144.15,
         112.15
@@ -819,7 +819,7 @@
       "accepted_seed": 1002,
       "attempts": 1,
       "image": "images/layouts/cyclic_two_key-1002.svg",
-      "image_hash": "ff524a55c20f5451043ff0dfc6345868a87616058d7dc71a32e3156e4d16e64e",
+      "image_hash": "9ac529cb5b52c8968c1335d3ccc58740cac9df3396bd17bca280552ae58949cb",
       "footprint_m": [
         144.15,
         112.15
@@ -979,7 +979,7 @@
       "accepted_seed": 42,
       "attempts": 1,
       "image": "images/layouts/exploration_two_key-42.svg",
-      "image_hash": "056bd56c19a855423811a0e306ae70223eb23a533ed5e8482811a6628759357d",
+      "image_hash": "8471ecb644c1e8bde9f4289667e10ec39752538e9299194772372bfa39e2df5f",
       "footprint_m": [
         144.15,
         112.0
@@ -1146,7 +1146,7 @@
       "accepted_seed": 43,
       "attempts": 1,
       "image": "images/layouts/exploration_two_key-43.svg",
-      "image_hash": "7197cfe177369b81c1c1cecbd535030b6c73a09b14ba600fbf87248e8717952b",
+      "image_hash": "89f973c3420544cc2451907504ca4625eabff147869a008bd58591a892917f15",
       "footprint_m": [
         112.0,
         136.15
@@ -1313,7 +1313,7 @@
       "accepted_seed": 44,
       "attempts": 1,
       "image": "images/layouts/exploration_two_key-44.svg",
-      "image_hash": "3209e9d250d6d8de12decbf98dcc1863c23d2649de65e345f18ede0979cc4c7e",
+      "image_hash": "cc0d63e21720225290978ae1b4c45300831e35bcc22740feb377a0da7b6257e1",
       "footprint_m": [
         112.0,
         136.15
@@ -1480,7 +1480,7 @@
       "accepted_seed": 45,
       "attempts": 1,
       "image": "images/layouts/exploration_two_key-45.svg",
-      "image_hash": "87f2e6cd11e999fd3b9f1e651604d97f570cc799f8d4a4269c4437777ba95b6a",
+      "image_hash": "a528f0d7be074f99dab0410cb2436ac581325af4aa7eb26d36f8347d0bcff2ef",
       "footprint_m": [
         112.0,
         144.15
@@ -1647,7 +1647,7 @@
       "accepted_seed": 1001,
       "attempts": 1,
       "image": "images/layouts/exploration_two_key-1001.svg",
-      "image_hash": "2bc25b5632d3e93d8d4b9ed9694158a3ce9092f0bc80a4281ddecf0fd53be6ab",
+      "image_hash": "27129f1931e32c6c18a0b47059278f57be8efcc97d626550b26ced6bba7afe68",
       "footprint_m": [
         144.15,
         112.0
@@ -1814,7 +1814,7 @@
       "accepted_seed": 1002,
       "attempts": 1,
       "image": "images/layouts/exploration_two_key-1002.svg",
-      "image_hash": "65c975249e4b2c3a5d2c3a3ce27bd3f31586101d2737ddff76802d267c34d6c5",
+      "image_hash": "2ed9c2e0b6455dcce8dcd931c83bc56c5eda4a7d5340f310d3143473fdf808a1",
       "footprint_m": [
         144.15,
         112.0
@@ -1981,7 +1981,7 @@
       "accepted_seed": 1672691090,
       "attempts": 3,
       "image": "images/layouts/legacy-42.svg",
-      "image_hash": "cfa3810d245ba6ecd53ae4ef6ae04fabfe4879726c2a5f8e914c1e16029fe68e",
+      "image_hash": "fb1f8152a90bf8cfeeeb047b9db2ec2ceaaf6397eda1ab2ea2bc1ac3bc7c5df0",
       "footprint_m": [
         120.3,
         120.15
@@ -2099,7 +2099,7 @@
       "accepted_seed": 3782147510,
       "attempts": 3,
       "image": "images/layouts/legacy-2026.svg",
-      "image_hash": "c346658fbab80db3eeef3981d17bc3e95c590d343c7bad5a5ceb6ebca037033b",
+      "image_hash": "58f105bd3c8971d20ada94ab37befec1bea4f84c6862c9bf1c7d465423e7c900",
       "footprint_m": [
         128.15,
         120.15
@@ -2203,7 +2203,7 @@
       "accepted_seed": 1257319183,
       "attempts": 2,
       "image": "images/layouts/legacy-1003.svg",
-      "image_hash": "5259294885d0cf3bae547c731507d4dbe4352387d85663cb36d8b36d4134fcc0",
+      "image_hash": "117371c1bacb1fdc43bb710e74512d569f4c072d5d34ec26548dedae82899649",
       "footprint_m": [
         128.15,
         136.3
@@ -2314,7 +2314,7 @@
       "accepted_seed": 3984316430,
       "attempts": 4,
       "image": "images/layouts/legacy-1000.svg",
-      "image_hash": "dd7ea1249de28afc125096ab62370a6297c2cd073afddc50b2b5f56ef411bb83",
+      "image_hash": "a8793d7a285f5dfce085a32434ab52a805ee5d3b9f697cf3e00806c3eb2151f1",
       "footprint_m": [
         128.15,
         128.15
@@ -2418,7 +2418,7 @@
       "accepted_seed": 2701224669,
       "attempts": 20,
       "image": "images/layouts/legacy-1001.svg",
-      "image_hash": "bca3abaa427c5587dad74cc3e6f0ab4e912f451e294fc58787c62237b8519de3",
+      "image_hash": "052c754a0700599d15d72a0c70580fec35e60648b67eacfcbabfb43594e2c6ec",
       "footprint_m": [
         136.3,
         128.3
@@ -2522,7 +2522,7 @@
       "accepted_seed": 1002,
       "attempts": 1,
       "image": "images/layouts/legacy-1002.svg",
-      "image_hash": "478f0cfc1e2fdff30e800745d693eb78167bd19a3531abd831883af16cc03609",
+      "image_hash": "43a93d74cc55d0c609bd66d7980ca8ed16950f1c07365d0a81b86a75adc47471",
       "footprint_m": [
         128.3,
         136.3
@@ -2640,7 +2640,7 @@
       "accepted_seed": 3211631638,
       "attempts": 8,
       "image": "images/layouts/legacy-1004.svg",
-      "image_hash": "6d53f49e0f5361438c47f30e22a435c4d102490f1265e413f3e747014af7755d",
+      "image_hash": "337dcb7592bc52c0f211567c009063174198d80ac95cb1461df38a2e29dd4f02",
       "footprint_m": [
         128.3,
         112.15
@@ -2751,7 +2751,7 @@
       "accepted_seed": 870976786,
       "attempts": 3,
       "image": "images/layouts/legacy-1005.svg",
-      "image_hash": "db893ee0b39944fe0e9ead189743c70081f633a2e6f0a9e7123a0b9395cf228d",
+      "image_hash": "5e490b17a7e177985cb824af590facce1ff9150cdbdff3da380b99da3a5d788c",
       "footprint_m": [
         136.3,
         120.3
@@ -2855,7 +2855,7 @@
       "accepted_seed": 2825289234,
       "attempts": 2,
       "image": "images/layouts/legacy-1006.svg",
-      "image_hash": "b16d16714ff47f8d8f76c7ff966ee50051734cb096c371550f0b3e5a9d8238d1",
+      "image_hash": "90a0b163bc7dac177b94a2fabde15ed6b9e0006df22daa8073119ea5a9400389",
       "footprint_m": [
         120.15,
         128.3
@@ -2959,7 +2959,7 @@
       "accepted_seed": 484634391,
       "attempts": 6,
       "image": "images/layouts/legacy-1007.svg",
-      "image_hash": "3e996dcef48a1b40c6b2c922da958b694fcaa30adbc3bf1be49a5feab4ce1f15",
+      "image_hash": "c53abacab114a223d12ab590095824327fbdc84475ac67fc18d3f29ad79ea358",
       "footprint_m": [
         120.25,
         128.3
@@ -3077,7 +3077,7 @@
       "accepted_seed": 2438946842,
       "attempts": 8,
       "image": "images/layouts/legacy-1008.svg",
-      "image_hash": "efddd060c864360061664d0e03f518358fceb63a16d033cf897016a2ea00b6f3",
+      "image_hash": "96f8879eb6a8c169f0ab48b2809aa257e2e5bdd185a76150ee20348d477978e3",
       "footprint_m": [
         136.3,
         136.3
@@ -3188,7 +3188,7 @@
       "accepted_seed": 3243635659,
       "attempts": 17,
       "image": "images/layouts/legacy-1009.svg",
-      "image_hash": "43ebe96bc09f64cef6324987785d0ef8304c509e595964c6379fda62c4058a78",
+      "image_hash": "ca39514c29866879c3488c096553a5431acb7bbe5091ed3a1ce386ff2f2daa99",
       "footprint_m": [
         104.3,
         112.15
@@ -3282,5 +3282,4224 @@
         }
       ]
     }
-  ]
+  ],
+  "generation": {
+    "publisher_fingerprint": "6baed44a25c530769afa93a45f5e7a4bebf0468ff4e420c50b7f59052fd5714a",
+    "source_fingerprint": "1ca62dcfed8d4f1b48396741efb4c1ae7e4d07564d03dfa38e4f1a2ed15eadf2",
+    "source_file_count": 5539,
+    "exporter_sha256": "c40880ce27d9f8ca47a1624581ea8f409136e25e4138e201e1b4b03621f4c113",
+    "raw_export_hashes": {
+      "cyclic_two_key": "5f830ca0b6c124d81aeccd53c89837e282c5bdfdee9c750271d52659ec1e10a1",
+      "exploration_two_key": "d1a8d10898fdb75477bd839e1ba40eb0f3ac5fcc5af32383cbd9843da077ea78",
+      "legacy": "a65ea92b52e13ef376b55b47a649c1daa618bad5fec7f7b3bd8b38fd2b434d3d"
+    }
+  },
+  "review": {
+    "export_date": "2026-11-20",
+    "publisher_fingerprint": "6baed44a25c530769afa93a45f5e7a4bebf0468ff4e420c50b7f59052fd5714a",
+    "base_commit": "6e15e5f1421d383fda90cde392b4da7e19461559",
+    "source_fingerprint": "fb39ad1e1843d18cce9317663a7f3f10f411e3c9bb41d28e44e774b3230b7c9f",
+    "source_file_count": 1692,
+    "raw_exports": {
+      "normal_42": {
+        "file": "normal_42/cases.json",
+        "sha256": "680f6fcfc2d5834c228c9ed79adedc1e21b24ee767acb2002307793079ea610d"
+      },
+      "sprawling_42": {
+        "file": "sprawling_42/cases.json",
+        "sha256": "8d2f9f41d4fd8c3070077b3ef1d25ea5cbf78570a3fbe9f856d4bc66bd1b7fd4"
+      },
+      "sprawling_43": {
+        "file": "sprawling_43/cases.json",
+        "sha256": "6a8732f8679fdcc47f25a11eeca4f42d5eeeee74e30c679ce2f82fdbb4a7b032"
+      }
+    },
+    "validation": {
+      "status": "Automated layout/default and collision-metric controls passed; actor coverage incomplete; human pacing/navigation approval pending.",
+      "sprawling_layout": {
+        "checks": 369,
+        "failures": 0,
+        "seeds": [
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          1001,
+          1002
+        ],
+        "inventories": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "saved_versions": "v1/v2/v3 retained; current v4 sculpture selection and fitter negatives covered"
+      },
+      "normal_layout": {
+        "seeds": 6,
+        "failures": 0,
+        "revision": 4
+      },
+      "ramped_layout": {
+        "seeds": 6,
+        "failures": 0,
+        "revision": 5
+      },
+      "normal_policy": {
+        "checks": 17,
+        "failures": 0
+      },
+      "exports": {
+        "normal_42": {
+          "cases": 4,
+          "ready": 4,
+          "generator_revision": 4,
+          "requested_seed": 42,
+          "accepted_seed": 42,
+          "final_access_by_inventory": [
+            false,
+            false,
+            false,
+            true
+          ],
+          "saved_choices": {}
+        },
+        "sprawling_42": {
+          "cases": 4,
+          "ready": 4,
+          "generator_revision": 6,
+          "requested_seed": 42,
+          "accepted_seed": 42,
+          "final_access_by_inventory": [
+            false,
+            false,
+            false,
+            true
+          ],
+          "saved_choices": {
+            "passage_fit_version": 2,
+            "plan_id": "interlocking_sunwheel_v4",
+            "plan_version": 4,
+            "sunwheel_composition": "pharaoh"
+          }
+        },
+        "sprawling_43": {
+          "cases": 4,
+          "ready": 4,
+          "generator_revision": 6,
+          "requested_seed": 43,
+          "accepted_seed": 43,
+          "final_access_by_inventory": [
+            false,
+            false,
+            false,
+            true
+          ],
+          "saved_choices": {
+            "passage_fit_version": 2,
+            "plan_id": "linked_crypt_courts_v4",
+            "plan_version": 4,
+            "sunwheel_composition": "pharaoh"
+          }
+        }
+      },
+      "collision_metrics": {
+        "cases": 24,
+        "ready": 24,
+        "seeds": [
+          42,
+          43,
+          44,
+          45,
+          1001,
+          1002
+        ],
+        "inventories": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "final_access_truth_table": "false,false,false,true",
+        "key_challenge_routes_reachable": true,
+        "missing_keys_preserved": true,
+        "measurements_unchanged_after_teardown_fix": true,
+        "engine_errors": 0,
+        "script_errors": 0,
+        "shutdown_warnings": 0,
+        "source_sha256": "52c8589b8979cead4031b10a5250358460bfc93d5138ec98804699aad682f9c7"
+      },
+      "actor_controls": {
+        "42": {
+          "status": "timed out; incomplete",
+          "exit_code": 2,
+          "observed_failed_assertions": 8,
+          "failures": [
+            "mask_junction/DOOR_F/DOOR_L: production guardian path follower and capsule cross the same room",
+            "mask_junction/DOOR_F/DOOR_R: production guardian path follower and capsule cross the same room",
+            "mask_junction/DOOR_B/DOOR_L: production guardian path follower and capsule cross the same room",
+            "mask_junction/DOOR_B/DOOR_R: production guardian path follower and capsule cross the same room",
+            "mask_junction/DOOR_L/DOOR_R: production guardian path follower and capsule cross the same room",
+            "mask_junction/DOOR_R/DOOR_L: production guardian path follower and capsule cross the same room",
+            "exploration_branch/DOOR_F/DOOR?_L: production guardian path follower and capsule cross the same room",
+            "exploration_branch/DOOR?_L/DOOR_F: production guardian path follower and capsule cross the same room"
+          ],
+          "final_report": false,
+          "log": "build/sprawling_current_review/logs/actors42.log"
+        },
+        "43": {
+          "status": "stopped early at review owner request; incomplete",
+          "exit_code": -15,
+          "observed_failed_assertions": 0,
+          "failures": [],
+          "final_report": false,
+          "log": "build/sprawling_current_review/logs/actors43.log"
+        }
+      },
+      "limits": [
+        "No new human pacing, navigation, fuel-budget or performance acceptance. Accepted A primary/B secondary/C archived and opt-in/default behavior are preserved.",
+        "Actor fixture omits production timer and blocked-recovery stepping while manually driving the follower. Eight A guardian stalls remain under focused classification; they must not be described as passing crossings. B was stopped early, not passed.",
+        "The six relevant actor/nav/room/test source files are unchanged since a8f7033 before issue4; this is a source comparison, not a behavioral before-run.",
+        "Original metrics teardown produced 12 cel_world awaited-callback errors after immediate level.free(); final queued teardown/drain reran all24 cleanly with unchanged route measurements.",
+        "Normal/ramped controls and exports retain their existing validation rules. No runtime renderer, gates, generator, movement or geometry was edited."
+      ]
+    },
+    "permission_states": {
+      "normal_42": [
+        {
+          "inventory": 0,
+          "ready": true,
+          "final_access": false
+        },
+        {
+          "inventory": 1,
+          "ready": true,
+          "final_access": false
+        },
+        {
+          "inventory": 2,
+          "ready": true,
+          "final_access": false
+        },
+        {
+          "inventory": 3,
+          "ready": true,
+          "final_access": true
+        }
+      ],
+      "sprawling_42": [
+        {
+          "inventory": 0,
+          "ready": true,
+          "final_access": false
+        },
+        {
+          "inventory": 1,
+          "ready": true,
+          "final_access": false
+        },
+        {
+          "inventory": 2,
+          "ready": true,
+          "final_access": false
+        },
+        {
+          "inventory": 3,
+          "ready": true,
+          "final_access": true
+        }
+      ],
+      "sprawling_43": [
+        {
+          "inventory": 0,
+          "ready": true,
+          "final_access": false
+        },
+        {
+          "inventory": 1,
+          "ready": true,
+          "final_access": false
+        },
+        {
+          "inventory": 2,
+          "ready": true,
+          "final_access": false
+        },
+        {
+          "inventory": 3,
+          "ready": true,
+          "final_access": true
+        }
+      ]
+    },
+    "metres_to_pixels": 6.0193568529503585,
+    "human_review": "Pending current layout feedback; accepted A/B directions retained; no promotion or further refinement.",
+    "layouts": [
+      {
+        "id": "review-normal_42",
+        "mode": "cyclic_two_key",
+        "mode_label": "Normal baseline",
+        "style_label": "Current comparison",
+        "title": "Normal baseline",
+        "requested_seed": 42,
+        "accepted_seed": 42,
+        "attempts": 1,
+        "image": "images/layouts/review-normal_42.svg",
+        "image_hash": "7166d465b1983f0bdd22bbbd1b1dd8e8ff17de0262e40dbcb300d841840e617a",
+        "footprint_m": [
+          144.15,
+          112.15
+        ],
+        "room_count": 20,
+        "corridor_count": 9,
+        "rooms": [
+          {
+            "number": 1,
+            "key": "spawn@(17, 0, 6)/3",
+            "gallery_id": "spawn_room",
+            "name": "Spawn Room",
+            "label": "Entrance / exit"
+          },
+          {
+            "number": 2,
+            "key": "anubis_trial@(10, 0, 11)/1",
+            "gallery_id": "anubis_trial",
+            "name": "Anubis Trial",
+            "label": "Minor relic shrine"
+          },
+          {
+            "number": 3,
+            "key": "canopic_passage@(17, 0, 7)/2",
+            "gallery_id": "canopic_passage_chicane",
+            "name": "Canopic Passage Chicane",
+            "label": ""
+          },
+          {
+            "number": 4,
+            "key": "dart_court@(12, 0, 1)/3",
+            "gallery_id": "dart_court_v2",
+            "name": "Dart Court V2",
+            "label": ""
+          },
+          {
+            "number": 5,
+            "key": "dual_route_gallery@(15, 0, 8)/0",
+            "gallery_id": "dual_route_gallery",
+            "name": "Dual Route Gallery",
+            "label": ""
+          },
+          {
+            "number": 6,
+            "key": "fuel_shrine@(16, 0, 11)/3",
+            "gallery_id": "fuel_shrine",
+            "name": "Fuel Shrine",
+            "label": ""
+          },
+          {
+            "number": 7,
+            "key": "grand_hypostyle_hall@(15, 0, 12)/2",
+            "gallery_id": "grand_hypostyle_hall",
+            "name": "Grand Hypostyle Hall",
+            "label": ""
+          },
+          {
+            "number": 8,
+            "key": "hypostyle_hall@(7, 0, 8)/1",
+            "gallery_id": "hypostyle_hall",
+            "name": "Hypostyle Hall",
+            "label": ""
+          },
+          {
+            "number": 9,
+            "key": "jackal_measure@(12, 0, 4)/3",
+            "gallery_id": "jackal_measure",
+            "name": "Jackal Measure",
+            "label": ""
+          },
+          {
+            "number": 10,
+            "key": "l_shaped_passage@(16, 0, 2)/2",
+            "gallery_id": "l_shaped_passage",
+            "name": "L Shaped Passage",
+            "label": ""
+          },
+          {
+            "number": 11,
+            "key": "ledge@(10, 0, 6)/2",
+            "gallery_id": "pit_ledge_room",
+            "name": "Pit Ledge Room",
+            "label": ""
+          },
+          {
+            "number": 12,
+            "key": "obelisk_junction@(10, 0, 8)/0",
+            "gallery_id": "obelisk_junction",
+            "name": "Obelisk Junction",
+            "label": ""
+          },
+          {
+            "number": 13,
+            "key": "obelisk_terrace@(14, 0, 5)/1",
+            "gallery_id": "obelisk_terrace",
+            "name": "Obelisk Terrace",
+            "label": ""
+          },
+          {
+            "number": 14,
+            "key": "pillar@(13, 0, 11)/1",
+            "gallery_id": "pillar_hall_ring",
+            "name": "Scarab Chasm",
+            "label": ""
+          },
+          {
+            "number": 15,
+            "key": "planks@(17, 0, 4)/0",
+            "gallery_id": "pit_planks_room",
+            "name": "Pit Planks Room",
+            "label": ""
+          },
+          {
+            "number": 16,
+            "key": "skyless_ziggurat@(1, 0, 7)/3",
+            "gallery_id": "skyless_ziggurat",
+            "name": "Skyless Ziggurat",
+            "label": "Main relic chamber"
+          },
+          {
+            "number": 17,
+            "key": "split@(11, 0, 10)/0",
+            "gallery_id": "split_room",
+            "name": "Split Room",
+            "label": ""
+          },
+          {
+            "number": 18,
+            "key": "sun_shadow@(6, 0, 3)/1",
+            "gallery_id": "sun_shadow",
+            "name": "Sun Shadow",
+            "label": "Minor relic shrine"
+          },
+          {
+            "number": 19,
+            "key": "sunken_shrine@(9, 0, 3)/1",
+            "gallery_id": "sunken_shrine",
+            "name": "Sunken Shrine",
+            "label": ""
+          },
+          {
+            "number": 20,
+            "key": "vault@(13, 0, 6)/3",
+            "gallery_id": "vault_room",
+            "name": "Vault Room",
+            "label": ""
+          }
+        ],
+        "generator_revision": 4,
+        "plan_id": null,
+        "plan_version": null,
+        "passage_fit_version": null,
+        "saved_choices": {},
+        "passage_fits": {},
+        "quality": {
+          "authored_rooms": 20,
+          "corridor_tiles": 9,
+          "cycle_states": [
+            {
+              "authored_share": 0.6,
+              "inventory": 0,
+              "rooms": [
+                "cross_left",
+                "cross_right",
+                "cross_route",
+                "entrance",
+                "fuel_shrine",
+                "mask_junction",
+                "mask_outer",
+                "mask_turn",
+                "mask_vestibule",
+                "scarab_junction",
+                "scarab_outer",
+                "scarab_vestibule"
+              ]
+            },
+            {
+              "authored_share": 0.7,
+              "inventory": 1,
+              "rooms": [
+                "cross_left",
+                "cross_right",
+                "cross_route",
+                "entrance",
+                "fuel_shrine",
+                "hub",
+                "mask_junction",
+                "mask_outer",
+                "mask_turn",
+                "mask_vestibule",
+                "scarab_junction",
+                "scarab_outer",
+                "scarab_shortcut",
+                "scarab_vestibule"
+              ]
+            },
+            {
+              "authored_share": 0.7,
+              "inventory": 2,
+              "rooms": [
+                "cross_left",
+                "cross_right",
+                "cross_route",
+                "entrance",
+                "fuel_shrine",
+                "hub",
+                "mask_junction",
+                "mask_outer",
+                "mask_shortcut",
+                "mask_turn",
+                "mask_vestibule",
+                "scarab_junction",
+                "scarab_outer",
+                "scarab_vestibule"
+              ]
+            },
+            {
+              "authored_share": 0.75,
+              "inventory": 3,
+              "rooms": [
+                "cross_left",
+                "cross_right",
+                "cross_route",
+                "entrance",
+                "fuel_shrine",
+                "hub",
+                "mask_junction",
+                "mask_outer",
+                "mask_shortcut",
+                "mask_turn",
+                "mask_vestibule",
+                "scarab_junction",
+                "scarab_outer",
+                "scarab_shortcut",
+                "scarab_vestibule"
+              ]
+            }
+          ],
+          "distinct_archetypes": [
+            "spawn",
+            "obelisk_terrace",
+            "pillar",
+            "sunken_shrine",
+            "anubis_trial",
+            "sun_shadow",
+            "canopic_passage",
+            "fuel_shrine",
+            "grand_hypostyle_hall",
+            "planks",
+            "l_shaped_passage",
+            "dart_court",
+            "split",
+            "obelisk_junction",
+            "ledge",
+            "dual_route_gallery",
+            "jackal_measure",
+            "vault",
+            "hypostyle_hall",
+            "skyless_ziggurat"
+          ],
+          "max_corridor_chain": 2,
+          "repeated_families": [],
+          "room_families": {
+            "anubis_trial": 1,
+            "canopic_passage": 1,
+            "dart_court_v2": 1,
+            "dual_route_gallery": 1,
+            "fuel_shrine": 1,
+            "grand_hypostyle_hall": 1,
+            "hypostyle_hall": 1,
+            "jackal_measure": 1,
+            "l_shaped_passage": 1,
+            "obelisk_junction": 1,
+            "obelisk_terrace": 1,
+            "pillar_hall": 1,
+            "pit_ledge_room": 1,
+            "pit_planks_room": 1,
+            "skyless_ziggurat": 1,
+            "spawn_room": 1,
+            "split_room": 1,
+            "sun_shadow": 1,
+            "sunken_shrine": 1,
+            "vault_room": 1
+          }
+        },
+        "captures": [
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                25.5,
+                1.58000040054321,
+                -12.0
+              ],
+              "x": [
+                -4.37113882867379e-08,
+                0.0,
+                1.0
+              ],
+              "y": [
+                -0.242100700736046,
+                0.970251142978668,
+                -1.05825579410634e-08
+              ],
+              "z": [
+                -0.970251142978668,
+                -0.242100700736046,
+                -4.24110240260234e-08
+              ]
+            },
+            "entry": {
+              "door": "DOOR_F",
+              "entered": true,
+              "manual_ignition": false,
+              "method": "Supported outside staging then ordinary player input through a connected doorway",
+              "revealed_after": true,
+              "revealed_before": false,
+              "route_wave_present": true,
+              "wave_complete": true
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              25.5,
+              1.58000040054321,
+              -12.0
+            ],
+            "feet": [
+              25.5,
+              0.0300004761666059,
+              -12.0
+            ],
+            "file": "normal42_normal_hub_full.webp",
+            "fov": 78.0,
+            "fuel": 100.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "25b771ea29ee2951260731a5309cf32095e6667b6ed2b002e0caee9b46d1795f",
+            "inventory": 0,
+            "keys_staged": true,
+            "label": "normal_hub",
+            "mode": "cyclic_two_key",
+            "player_pose": {
+              "origin": [
+                25.5,
+                0.0300004761666059,
+                -12.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "hub",
+            "room": "res://scenes/dungeon/procedural/rooms/obelisk_terrace.tscn",
+            "room_pose": {
+              "origin": [
+                36.0,
+                2.0,
+                -12.0
+              ],
+              "x": [
+                -4.37113882867379e-08,
+                0.0,
+                -1.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                1.0,
+                0.0,
+                -4.37113882867379e-08
+              ]
+            },
+            "saved_choices": {},
+            "seed": 42,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              36.0,
+              4.19999980926514,
+              -12.0
+            ],
+            "variant": "normal",
+            "capture_batch": "normal_retry",
+            "capture_helper_sha256": "815f0e62048ea1be103bc845cc6264a96dd00506c8e256107ee5602f5761c18a",
+            "raw_receipt": "receipt_sources/run_normal_retry.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 0,
+              "script_error_lines": 0,
+              "engine_error_lines": 1,
+              "warning_lines": 1,
+              "shutdown_limit": "Normal retry reported 8 ObjectDB instances leaked and 2 resources still in use on exit; images/receipts were written before shutdown."
+            },
+            "view_scope": "Normal revision-4 lower entry view; not a full hub overview.",
+            "image": "images/layout-review/normal42_normal_hub_full.webp",
+            "image_hash": "25b771ea29ee2951260731a5309cf32095e6667b6ed2b002e0caee9b46d1795f",
+            "caption": "normal hub · 100 fuel · inventory 0"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                25.5,
+                1.58000040054321,
+                -12.0
+              ],
+              "x": [
+                -4.37113882867379e-08,
+                0.0,
+                1.0
+              ],
+              "y": [
+                -0.242100700736046,
+                0.970251142978668,
+                -1.05825579410634e-08
+              ],
+              "z": [
+                -0.970251142978668,
+                -0.242100700736046,
+                -4.24110240260234e-08
+              ]
+            },
+            "entry": {
+              "door": "DOOR_F",
+              "entered": true,
+              "manual_ignition": false,
+              "method": "Supported outside staging then ordinary player input through a connected doorway",
+              "revealed_after": true,
+              "revealed_before": false,
+              "route_wave_present": true,
+              "wave_complete": true
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              25.5,
+              1.58000040054321,
+              -12.0
+            ],
+            "feet": [
+              25.5,
+              0.0300004761666059,
+              -12.0
+            ],
+            "file": "normal42_normal_hub_low.webp",
+            "fov": 78.0,
+            "fuel": 8.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "85ced4504c81112a116896b48a1efde227aafce93947d517f8bd27ea4a37571c",
+            "inventory": 0,
+            "keys_staged": true,
+            "label": "normal_hub",
+            "mode": "cyclic_two_key",
+            "player_pose": {
+              "origin": [
+                25.5,
+                0.0300004761666059,
+                -12.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "hub",
+            "room": "res://scenes/dungeon/procedural/rooms/obelisk_terrace.tscn",
+            "room_pose": {
+              "origin": [
+                36.0,
+                2.0,
+                -12.0
+              ],
+              "x": [
+                -4.37113882867379e-08,
+                0.0,
+                -1.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                1.0,
+                0.0,
+                -4.37113882867379e-08
+              ]
+            },
+            "saved_choices": {},
+            "seed": 42,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              36.0,
+              4.19999980926514,
+              -12.0
+            ],
+            "variant": "normal",
+            "capture_batch": "normal_retry",
+            "capture_helper_sha256": "815f0e62048ea1be103bc845cc6264a96dd00506c8e256107ee5602f5761c18a",
+            "raw_receipt": "receipt_sources/run_normal_retry.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 0,
+              "script_error_lines": 0,
+              "engine_error_lines": 1,
+              "warning_lines": 1,
+              "shutdown_limit": "Normal retry reported 8 ObjectDB instances leaked and 2 resources still in use on exit; images/receipts were written before shutdown."
+            },
+            "view_scope": "Normal revision-4 lower entry view; not a full hub overview.",
+            "image": "images/layout-review/normal42_normal_hub_low.webp",
+            "image_hash": "85ced4504c81112a116896b48a1efde227aafce93947d517f8bd27ea4a37571c",
+            "caption": "normal hub · 8 fuel · inventory 0"
+          }
+        ]
+      },
+      {
+        "id": "review-sprawling_42",
+        "mode": "sprawling_two_key",
+        "mode_label": "A · Interlocking Sunwheel",
+        "style_label": "Current comparison",
+        "title": "A · Interlocking Sunwheel",
+        "requested_seed": 42,
+        "accepted_seed": 42,
+        "attempts": 1,
+        "image": "images/layouts/review-sprawling_42.svg",
+        "image_hash": "0d1cf72fbac70d6fe5f3546bf5f31f7631d5e30483a172cc6121bac1bafaaa63",
+        "footprint_m": [
+          137.6,
+          152.4
+        ],
+        "room_count": 18,
+        "corridor_count": 6,
+        "rooms": [
+          {
+            "number": 1,
+            "key": "spawn@(9, 0, 15)/2",
+            "gallery_id": "spawn_room",
+            "name": "Spawn Room",
+            "label": "Entrance / exit"
+          },
+          {
+            "number": 2,
+            "key": "anubis_trial@(1, 0, 10)/1",
+            "gallery_id": "anubis_trial",
+            "name": "Anubis Trial",
+            "label": "Minor relic shrine"
+          },
+          {
+            "number": 3,
+            "key": "burial_hall_complex@(14, 0, 6)/2",
+            "gallery_id": "burial_hall_complex_sprawling",
+            "name": "Burial Hall Complex · Experimental",
+            "label": ""
+          },
+          {
+            "number": 4,
+            "key": "fuel_shrine@(4, 0, 6)/2",
+            "gallery_id": "fuel_shrine",
+            "name": "Fuel Shrine",
+            "label": ""
+          },
+          {
+            "number": 5,
+            "key": "grand_hypostyle_hall@(3, 0, 7)/0",
+            "gallery_id": "grand_hypostyle_hall",
+            "name": "Grand Hypostyle Hall",
+            "label": ""
+          },
+          {
+            "number": 6,
+            "key": "inner_route_landing@(5, 0, 17)/2",
+            "gallery_id": "inner_route_landing",
+            "name": "Inner Route Landing",
+            "label": "Fitted authored passage"
+          },
+          {
+            "number": 7,
+            "key": "inner_route_landing@(8, 0, 16)/3",
+            "gallery_id": "inner_route_landing",
+            "name": "Inner Route Landing",
+            "label": "Fitted authored passage"
+          },
+          {
+            "number": 8,
+            "key": "jackals_jaw@(13, 0, 1)/2",
+            "gallery_id": "jackals_jaw_sprawling",
+            "name": "Jackals Jaw · Experimental",
+            "label": "Main relic chamber"
+          },
+          {
+            "number": 9,
+            "key": "l_shaped_passage@(10, 0, 16)/0",
+            "gallery_id": "l_shaped_passage",
+            "name": "L Shaped Passage",
+            "label": "Fitted authored passage"
+          },
+          {
+            "number": 10,
+            "key": "long_gallery@(13, 0, 9)/0",
+            "gallery_id": "long_gallery",
+            "name": "Long Gallery",
+            "label": "Fitted authored passage"
+          },
+          {
+            "number": 11,
+            "key": "obelisk_junction@(12, 0, 7)/0",
+            "gallery_id": "obelisk_junction",
+            "name": "Obelisk Junction",
+            "label": ""
+          },
+          {
+            "number": 12,
+            "key": "obelisk_terrace@(8, 0, 12)/0",
+            "gallery_id": "obelisk_terrace",
+            "name": "Obelisk Terrace",
+            "label": ""
+          },
+          {
+            "number": 13,
+            "key": "pillar@(5, 0, 10)/0",
+            "gallery_id": "pillar_hall",
+            "name": "Offering Court",
+            "label": ""
+          },
+          {
+            "number": 14,
+            "key": "sun_shadow@(15, 0, 13)/3",
+            "gallery_id": "sun_shadow",
+            "name": "Sun Shadow",
+            "label": "Minor relic shrine"
+          },
+          {
+            "number": 15,
+            "key": "sundered_processional_court@(12, 0, 15)/0",
+            "gallery_id": "sundered_processional_court_sprawling",
+            "name": "Sundered Processional Court · Experimental",
+            "label": ""
+          },
+          {
+            "number": 16,
+            "key": "sunken_shrine@(12, 0, 12)/0",
+            "gallery_id": "sunken_shrine",
+            "name": "Sunken Shrine",
+            "label": ""
+          },
+          {
+            "number": 17,
+            "key": "sunwheel_arena@(7, 0, 6)/0",
+            "gallery_id": "sunwheel_arena_sprawling",
+            "name": "Sunwheel Arena · Experimental",
+            "label": ""
+          },
+          {
+            "number": 18,
+            "key": "twin_court_crypt@(4, 0, 12)/1",
+            "gallery_id": "twin_court_crypt",
+            "name": "Twin Court Crypt",
+            "label": ""
+          }
+        ],
+        "generator_revision": 6,
+        "plan_id": "interlocking_sunwheel_v4",
+        "plan_version": 4,
+        "passage_fit_version": 2,
+        "saved_choices": {
+          "passage_fit_version": 2,
+          "plan_id": "interlocking_sunwheel_v4",
+          "plan_version": 4,
+          "sunwheel_composition": "pharaoh"
+        },
+        "passage_fits": {
+          "eligible_quiet_cells": 12,
+          "eligible_quiet_replaced_share": 0.833333333333333,
+          "fits": [
+            {
+              "boundary_faces": [
+                [
+                  [
+                    13,
+                    0,
+                    9
+                  ],
+                  [
+                    13,
+                    0,
+                    8
+                  ]
+                ],
+                [
+                  [
+                    13,
+                    0,
+                    11
+                  ],
+                  [
+                    13,
+                    0,
+                    12
+                  ]
+                ]
+              ],
+              "id": "fitted_long_gallery_13_9",
+              "position": [
+                13,
+                0,
+                9
+              ],
+              "reserved_cells": [
+                [
+                  13,
+                  0,
+                  9
+                ],
+                [
+                  13,
+                  0,
+                  10
+                ],
+                [
+                  13,
+                  0,
+                  11
+                ]
+              ],
+              "route": [
+                "cross_route",
+                "mask_junction"
+              ],
+              "scene": "long_gallery",
+              "source_cells": [
+                [
+                  13,
+                  0,
+                  9
+                ],
+                [
+                  13,
+                  0,
+                  10
+                ],
+                [
+                  13,
+                  0,
+                  11
+                ]
+              ],
+              "turns": 0
+            },
+            {
+              "boundary_faces": [
+                [
+                  [
+                    10,
+                    0,
+                    16
+                  ],
+                  [
+                    10,
+                    0,
+                    15
+                  ]
+                ],
+                [
+                  [
+                    11,
+                    0,
+                    17
+                  ],
+                  [
+                    12,
+                    0,
+                    17
+                  ]
+                ]
+              ],
+              "id": "fitted_l_shaped_passage_10_16",
+              "position": [
+                10,
+                0,
+                16
+              ],
+              "reserved_cells": [
+                [
+                  10,
+                  0,
+                  16
+                ],
+                [
+                  10,
+                  0,
+                  17
+                ],
+                [
+                  11,
+                  0,
+                  16
+                ],
+                [
+                  11,
+                  0,
+                  17
+                ]
+              ],
+              "route": [
+                "entrance",
+                "exploration_branch"
+              ],
+              "scene": "l_shaped_passage",
+              "source_cells": [
+                [
+                  10,
+                  0,
+                  16
+                ],
+                [
+                  10,
+                  0,
+                  17
+                ],
+                [
+                  11,
+                  0,
+                  17
+                ]
+              ],
+              "turns": 0
+            },
+            {
+              "boundary_faces": [
+                [
+                  [
+                    8,
+                    0,
+                    16
+                  ],
+                  [
+                    8,
+                    0,
+                    15
+                  ]
+                ],
+                [
+                  [
+                    8,
+                    0,
+                    17
+                  ],
+                  [
+                    7,
+                    0,
+                    17
+                  ]
+                ]
+              ],
+              "id": "fitted_inner_route_landing_8_16",
+              "position": [
+                8,
+                0,
+                16
+              ],
+              "reserved_cells": [
+                [
+                  8,
+                  0,
+                  16
+                ],
+                [
+                  8,
+                  0,
+                  17
+                ]
+              ],
+              "route": [
+                "entrance",
+                "return_complex"
+              ],
+              "scene": "inner_route_landing",
+              "source_cells": [
+                [
+                  8,
+                  0,
+                  16
+                ],
+                [
+                  8,
+                  0,
+                  17
+                ]
+              ],
+              "turns": 3
+            },
+            {
+              "boundary_faces": [
+                [
+                  [
+                    6,
+                    0,
+                    17
+                  ],
+                  [
+                    7,
+                    0,
+                    17
+                  ]
+                ],
+                [
+                  [
+                    5,
+                    0,
+                    17
+                  ],
+                  [
+                    5,
+                    0,
+                    16
+                  ]
+                ]
+              ],
+              "id": "fitted_inner_route_landing_5_17",
+              "position": [
+                5,
+                0,
+                17
+              ],
+              "reserved_cells": [
+                [
+                  5,
+                  0,
+                  17
+                ],
+                [
+                  6,
+                  0,
+                  17
+                ]
+              ],
+              "route": [
+                "entrance",
+                "return_complex"
+              ],
+              "scene": "inner_route_landing",
+              "source_cells": [
+                [
+                  6,
+                  0,
+                  17
+                ],
+                [
+                  5,
+                  0,
+                  17
+                ]
+              ],
+              "turns": 2
+            }
+          ],
+          "policy": "quiet circulation; pressure/pit modules inspected but excluded",
+          "provisional_tiles": 16,
+          "rejections": {
+            "hazard_budget": 5,
+            "no_space": 1,
+            "wrong_port": 56
+          },
+          "remaining_runs": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "replaced_share": 0.625,
+          "replaced_tiles": 10,
+          "residual_tiles": 6,
+          "version": 2
+        },
+        "quality": {
+          "authored_rooms": 18,
+          "corridor_tiles": 6,
+          "cycle_states": [
+            {
+              "authored_share": 0.722222222222222,
+              "inventory": 0,
+              "rooms": [
+                "burial_court",
+                "cross_route",
+                "district_complex",
+                "entrance",
+                "exploration_branch",
+                "fitted_inner_route_landing_5_17",
+                "fitted_inner_route_landing_8_16",
+                "fitted_l_shaped_passage_10_16",
+                "fitted_long_gallery_13_9",
+                "hub",
+                "mask_junction",
+                "return_complex",
+                "scarab_junction"
+              ]
+            },
+            {
+              "authored_share": 0.722222222222222,
+              "inventory": 1,
+              "rooms": [
+                "burial_court",
+                "cross_route",
+                "district_complex",
+                "entrance",
+                "exploration_branch",
+                "fitted_inner_route_landing_5_17",
+                "fitted_inner_route_landing_8_16",
+                "fitted_l_shaped_passage_10_16",
+                "fitted_long_gallery_13_9",
+                "hub",
+                "mask_junction",
+                "return_complex",
+                "scarab_junction"
+              ]
+            },
+            {
+              "authored_share": 0.722222222222222,
+              "inventory": 2,
+              "rooms": [
+                "burial_court",
+                "cross_route",
+                "district_complex",
+                "entrance",
+                "exploration_branch",
+                "fitted_inner_route_landing_5_17",
+                "fitted_inner_route_landing_8_16",
+                "fitted_l_shaped_passage_10_16",
+                "fitted_long_gallery_13_9",
+                "hub",
+                "mask_junction",
+                "return_complex",
+                "scarab_junction"
+              ]
+            },
+            {
+              "authored_share": 0.722222222222222,
+              "inventory": 3,
+              "rooms": [
+                "burial_court",
+                "cross_route",
+                "district_complex",
+                "entrance",
+                "exploration_branch",
+                "fitted_inner_route_landing_5_17",
+                "fitted_inner_route_landing_8_16",
+                "fitted_l_shaped_passage_10_16",
+                "fitted_long_gallery_13_9",
+                "hub",
+                "mask_junction",
+                "return_complex",
+                "scarab_junction"
+              ]
+            }
+          ],
+          "distinct_archetypes": [
+            "sunwheel_arena",
+            "grand_hypostyle_hall",
+            "pillar",
+            "twin_court_crypt",
+            "obelisk_terrace",
+            "spawn",
+            "obelisk_junction",
+            "sunken_shrine",
+            "anubis_trial",
+            "sun_shadow",
+            "burial_hall_complex",
+            "jackals_jaw",
+            "fuel_shrine",
+            "sundered_processional_court",
+            "long_gallery",
+            "l_shaped_passage",
+            "inner_route_landing"
+          ],
+          "max_corridor_chain": 1,
+          "repeated_families": [
+            "inner_route_landing"
+          ],
+          "room_families": {
+            "anubis_trial": 1,
+            "burial_hall_complex_sprawling": 1,
+            "fuel_shrine": 1,
+            "grand_hypostyle_hall": 1,
+            "inner_route_landing": 2,
+            "jackals_jaw_sprawling": 1,
+            "l_shaped_passage": 1,
+            "long_gallery": 1,
+            "obelisk_junction": 1,
+            "obelisk_terrace": 1,
+            "pillar_hall": 1,
+            "spawn_room": 1,
+            "sun_shadow": 1,
+            "sundered_processional_court_sprawling": 1,
+            "sunken_shrine": 1,
+            "sunwheel_arena_sprawling": 1,
+            "twin_court_crypt": 1
+          }
+        },
+        "captures": [
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                -7.0,
+                1.57999992370605,
+                -25.0
+              ],
+              "x": [
+                -0.789352297782898,
+                0.0,
+                0.613940536975861
+              ],
+              "y": [
+                -0.109668806195259,
+                0.983916163444519,
+                -0.141002789139748
+              ],
+              "z": [
+                -0.604066014289856,
+                -0.178631007671356,
+                -0.77665650844574
+              ]
+            },
+            "entry": {
+              "door": "DOOR_B",
+              "entered": true,
+              "manual_ignition": false,
+              "method": "Supported outside staging then ordinary player input through a connected doorway",
+              "revealed_after": true,
+              "revealed_before": false,
+              "route_wave_present": true,
+              "wave_complete": true
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              -7.0,
+              1.57999992370605,
+              -25.0
+            ],
+            "feet": [
+              -7.0,
+              0.0299999993294477,
+              -25.0
+            ],
+            "file": "a42_landmark_full.webp",
+            "fov": 78.0,
+            "fuel": 100.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "b1bf8b352b305881f0a361f025a1f325560a8efa400f1b7f89e2691a9f0dd67a",
+            "inventory": 0,
+            "keys_staged": true,
+            "label": "landmark",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                -7.0,
+                0.0299999993294477,
+                -25.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "district_complex",
+            "room": "res://scenes/dungeon/procedural/rooms/experimental/sunwheel_arena_sprawling.tscn",
+            "room_pose": {
+              "origin": [
+                0.0,
+                2.0,
+                -16.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "interlocking_sunwheel_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 42,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              0.0,
+              3.65000009536743,
+              -16.0
+            ],
+            "variant": "A",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/a42_landmark_full.webp",
+            "image_hash": "b1bf8b352b305881f0a361f025a1f325560a8efa400f1b7f89e2691a9f0dd67a",
+            "caption": "landmark · 100 fuel · inventory 0"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                -7.0,
+                1.57999992370605,
+                -25.0
+              ],
+              "x": [
+                -0.789352297782898,
+                0.0,
+                0.613940536975861
+              ],
+              "y": [
+                -0.109668806195259,
+                0.983916163444519,
+                -0.141002789139748
+              ],
+              "z": [
+                -0.604066014289856,
+                -0.178631007671356,
+                -0.77665650844574
+              ]
+            },
+            "entry": {
+              "door": "DOOR_B",
+              "entered": true,
+              "manual_ignition": false,
+              "method": "Supported outside staging then ordinary player input through a connected doorway",
+              "revealed_after": true,
+              "revealed_before": false,
+              "route_wave_present": true,
+              "wave_complete": true
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              -7.0,
+              1.57999992370605,
+              -25.0
+            ],
+            "feet": [
+              -7.0,
+              0.0299999993294477,
+              -25.0
+            ],
+            "file": "a42_landmark_low.webp",
+            "fov": 78.0,
+            "fuel": 8.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "cf2fb47f8b8f961f981bb3bd534d0143a1535da560fc94f31f4c0957fe4079cb",
+            "inventory": 0,
+            "keys_staged": true,
+            "label": "landmark",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                -7.0,
+                0.0299999993294477,
+                -25.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "district_complex",
+            "room": "res://scenes/dungeon/procedural/rooms/experimental/sunwheel_arena_sprawling.tscn",
+            "room_pose": {
+              "origin": [
+                0.0,
+                2.0,
+                -16.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "interlocking_sunwheel_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 42,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              0.0,
+              3.65000009536743,
+              -16.0
+            ],
+            "variant": "A",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/a42_landmark_low.webp",
+            "image_hash": "cf2fb47f8b8f961f981bb3bd534d0143a1535da560fc94f31f4c0957fe4079cb",
+            "caption": "landmark · 8 fuel · inventory 0"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                32.0,
+                1.57999992370605,
+                -9.0
+              ],
+              "x": [
+                -1.0,
+                0.0,
+                -1.50995802528087e-07
+              ],
+              "y": [
+                9.83354464523245e-09,
+                0.99787712097168,
+                -0.065124623477459
+              ],
+              "z": [
+                1.50675262489131e-07,
+                -0.065124623477459,
+                -0.99787712097168
+              ]
+            },
+            "entry": {
+              "door": "DOOR_F",
+              "entered": true,
+              "manual_ignition": false,
+              "method": "Supported outside staging then ordinary player input through a connected doorway",
+              "revealed_after": false,
+              "revealed_before": false,
+              "route_wave_present": false,
+              "wave_complete": true
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              32.0,
+              1.57999992370605,
+              -9.0
+            ],
+            "feet": [
+              32.0,
+              0.0299999993294477,
+              -9.0
+            ],
+            "file": "a42_passage_full.webp",
+            "fov": 78.0,
+            "fuel": 100.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "9e6aa700b870497a8f9e359dd193243f85120c41d88a0a2bf8af8017af0218a2",
+            "inventory": 0,
+            "keys_staged": true,
+            "label": "passage",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                32.0,
+                0.0299999993294477,
+                -9.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "fitted_long_gallery_13_9",
+            "room": "res://scenes/dungeon/procedural/rooms/long_gallery.tscn",
+            "room_pose": {
+              "origin": [
+                32.0,
+                2.0,
+                0.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "interlocking_sunwheel_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 42,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              32.0,
+              2.20000004768372,
+              0.5
+            ],
+            "variant": "A",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/a42_passage_full.webp",
+            "image_hash": "9e6aa700b870497a8f9e359dd193243f85120c41d88a0a2bf8af8017af0218a2",
+            "caption": "passage · 100 fuel · inventory 0"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                32.0,
+                1.57999992370605,
+                -9.0
+              ],
+              "x": [
+                -1.0,
+                0.0,
+                -1.50995802528087e-07
+              ],
+              "y": [
+                9.83354464523245e-09,
+                0.99787712097168,
+                -0.065124623477459
+              ],
+              "z": [
+                1.50675262489131e-07,
+                -0.065124623477459,
+                -0.99787712097168
+              ]
+            },
+            "entry": {
+              "door": "DOOR_F",
+              "entered": true,
+              "manual_ignition": false,
+              "method": "Supported outside staging then ordinary player input through a connected doorway",
+              "revealed_after": false,
+              "revealed_before": false,
+              "route_wave_present": false,
+              "wave_complete": true
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              32.0,
+              1.57999992370605,
+              -9.0
+            ],
+            "feet": [
+              32.0,
+              0.0299999993294477,
+              -9.0
+            ],
+            "file": "a42_passage_low.webp",
+            "fov": 78.0,
+            "fuel": 8.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "9834f0d943cca5cf74a1ab7d04158cadb8d504bb4828048c895644b3991035ed",
+            "inventory": 0,
+            "keys_staged": true,
+            "label": "passage",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                32.0,
+                0.0299999993294477,
+                -9.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "fitted_long_gallery_13_9",
+            "room": "res://scenes/dungeon/procedural/rooms/long_gallery.tscn",
+            "room_pose": {
+              "origin": [
+                32.0,
+                2.0,
+                0.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "interlocking_sunwheel_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 42,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              32.0,
+              2.20000004768372,
+              0.5
+            ],
+            "variant": "A",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/a42_passage_low.webp",
+            "image_hash": "9834f0d943cca5cf74a1ab7d04158cadb8d504bb4828048c895644b3991035ed",
+            "caption": "passage · 8 fuel · inventory 0"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                34.0,
+                1.57999992370605,
+                -24.0
+              ],
+              "x": [
+                -4.37113882867379e-08,
+                0.0,
+                1.0
+              ],
+              "y": [
+                0.0399680025875568,
+                0.999200940132141,
+                1.74705683253507e-09
+              ],
+              "z": [
+                -0.999200940132141,
+                0.0399680025875568,
+                -4.36764615585616e-08
+              ]
+            },
+            "entry": {
+              "method": "Supported staging on the unowned side of the actual locked two-key gate"
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              34.0,
+              1.57999992370605,
+              -24.0
+            ],
+            "feet": [
+              34.0,
+              0.0299999993294477,
+              -24.0
+            ],
+            "file": "a42_seal_full.webp",
+            "fov": 78.0,
+            "fuel": 100.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "19ebea67dd06dfeef0db2f1e109d4857b395602c13a50b3a22f0afc8da4cb422",
+            "inventory": 0,
+            "keys_staged": true,
+            "label": "seal",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                34.0,
+                0.0299999993294477,
+                -24.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "cross_route",
+            "room": "res://scenes/dungeon/procedural/rooms/obelisk_junction.tscn",
+            "room_pose": {
+              "origin": [
+                28.0,
+                2.0,
+                -20.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "interlocking_sunwheel_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 42,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              36.0,
+              1.5,
+              -24.0
+            ],
+            "variant": "A",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/a42_seal_full.webp",
+            "image_hash": "19ebea67dd06dfeef0db2f1e109d4857b395602c13a50b3a22f0afc8da4cb422",
+            "caption": "seal · 100 fuel · inventory 0"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                34.0,
+                1.57999992370605,
+                -24.0
+              ],
+              "x": [
+                -4.37113882867379e-08,
+                0.0,
+                1.0
+              ],
+              "y": [
+                0.0399680025875568,
+                0.999200940132141,
+                1.74705683253507e-09
+              ],
+              "z": [
+                -0.999200940132141,
+                0.0399680025875568,
+                -4.36764615585616e-08
+              ]
+            },
+            "entry": {
+              "method": "Supported staging on the unowned side of the actual locked two-key gate"
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              34.0,
+              1.57999992370605,
+              -24.0
+            ],
+            "feet": [
+              34.0,
+              0.0299999993294477,
+              -24.0
+            ],
+            "file": "a42_seal_low.webp",
+            "fov": 78.0,
+            "fuel": 8.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "a410dfbfe0b3fac0afd2c2abea171a51df1a9f920acc3328288ace6778e6c398",
+            "inventory": 0,
+            "keys_staged": true,
+            "label": "seal",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                34.0,
+                0.0299999993294477,
+                -24.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "cross_route",
+            "room": "res://scenes/dungeon/procedural/rooms/obelisk_junction.tscn",
+            "room_pose": {
+              "origin": [
+                28.0,
+                2.0,
+                -20.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "interlocking_sunwheel_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 42,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              36.0,
+              1.5,
+              -24.0
+            ],
+            "variant": "A",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/a42_seal_low.webp",
+            "image_hash": "a410dfbfe0b3fac0afd2c2abea171a51df1a9f920acc3328288ace6778e6c398",
+            "caption": "seal · 8 fuel · inventory 0"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                54.0,
+                4.57999992370605,
+                -75.0
+              ],
+              "x": [
+                -1.0,
+                0.0,
+                -1.50995802528087e-07
+              ],
+              "y": [
+                -3.79956546225912e-08,
+                0.96782249212265,
+                0.251633852720261
+              ],
+              "z": [
+                1.46137139722669e-07,
+                0.251633852720261,
+                -0.96782249212265
+              ]
+            },
+            "entry": {
+              "door": "DOOR_F",
+              "entered": true,
+              "manual_ignition": false,
+              "method": "Supported outside staging then ordinary player input through a connected doorway",
+              "revealed_after": true,
+              "revealed_before": false,
+              "route_wave_present": true,
+              "wave_complete": true
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              54.0,
+              4.57999992370605,
+              -75.0
+            ],
+            "feet": [
+              54.0,
+              3.02999997138977,
+              -75.0
+            ],
+            "file": "a42_final_full.webp",
+            "fov": 78.0,
+            "fuel": 100.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "9bd40a4cec84cc6f7c2297c573c5dd22d90706efdb19432f5f31bcfdf6ad1e84",
+            "inventory": 3,
+            "keys_staged": true,
+            "label": "final",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                54.0,
+                3.02999997138977,
+                -75.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "main_relic",
+            "room": "res://scenes/dungeon/procedural/rooms/experimental/jackals_jaw_sprawling.tscn",
+            "room_pose": {
+              "origin": [
+                48.0,
+                2.0,
+                -56.0
+              ],
+              "x": [
+                -1.0,
+                0.0,
+                8.74227765734759e-08
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                -8.74227765734759e-08,
+                0.0,
+                -1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "interlocking_sunwheel_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 42,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              54.0,
+              3.79999995231628,
+              -72.0
+            ],
+            "variant": "A",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/a42_final_full.webp",
+            "image_hash": "9bd40a4cec84cc6f7c2297c573c5dd22d90706efdb19432f5f31bcfdf6ad1e84",
+            "caption": "final · 100 fuel · inventory 3"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                54.0,
+                4.57999992370605,
+                -75.0
+              ],
+              "x": [
+                -1.0,
+                0.0,
+                -1.50995802528087e-07
+              ],
+              "y": [
+                -3.79956546225912e-08,
+                0.96782249212265,
+                0.251633852720261
+              ],
+              "z": [
+                1.46137139722669e-07,
+                0.251633852720261,
+                -0.96782249212265
+              ]
+            },
+            "entry": {
+              "door": "DOOR_F",
+              "entered": true,
+              "manual_ignition": false,
+              "method": "Supported outside staging then ordinary player input through a connected doorway",
+              "revealed_after": true,
+              "revealed_before": false,
+              "route_wave_present": true,
+              "wave_complete": true
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              54.0,
+              4.57999992370605,
+              -75.0
+            ],
+            "feet": [
+              54.0,
+              3.02999997138977,
+              -75.0
+            ],
+            "file": "a42_final_low.webp",
+            "fov": 78.0,
+            "fuel": 8.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "e2767fcc774a2a7287a3dacc5eb606d24a0d5564f7798a3a3d734380ff7103eb",
+            "inventory": 3,
+            "keys_staged": true,
+            "label": "final",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                54.0,
+                3.02999997138977,
+                -75.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "main_relic",
+            "room": "res://scenes/dungeon/procedural/rooms/experimental/jackals_jaw_sprawling.tscn",
+            "room_pose": {
+              "origin": [
+                48.0,
+                2.0,
+                -56.0
+              ],
+              "x": [
+                -1.0,
+                0.0,
+                8.74227765734759e-08
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                -8.74227765734759e-08,
+                0.0,
+                -1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "interlocking_sunwheel_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 42,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              54.0,
+              3.79999995231628,
+              -72.0
+            ],
+            "variant": "A",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/a42_final_low.webp",
+            "image_hash": "e2767fcc774a2a7287a3dacc5eb606d24a0d5564f7798a3a3d734380ff7103eb",
+            "caption": "final · 8 fuel · inventory 3"
+          }
+        ]
+      },
+      {
+        "id": "review-sprawling_43",
+        "mode": "sprawling_two_key",
+        "mode_label": "B · Linked Crypt Courts",
+        "style_label": "Current comparison",
+        "title": "B · Linked Crypt Courts",
+        "requested_seed": 43,
+        "accepted_seed": 43,
+        "attempts": 1,
+        "image": "images/layouts/review-sprawling_43.svg",
+        "image_hash": "d5615851d4cf3af9c0d943d2cb51cf0b4a844734c0ccce8635464ad5b8eb39f4",
+        "footprint_m": [
+          128.0,
+          160.15
+        ],
+        "room_count": 18,
+        "corridor_count": 4,
+        "rooms": [
+          {
+            "number": 1,
+            "key": "spawn@(9, 0, 18)/2",
+            "gallery_id": "spawn_room",
+            "name": "Spawn Room",
+            "label": "Entrance / exit"
+          },
+          {
+            "number": 2,
+            "key": "anubis_trial@(1, 0, 12)/1",
+            "gallery_id": "anubis_trial",
+            "name": "Anubis Trial",
+            "label": "Minor relic shrine"
+          },
+          {
+            "number": 3,
+            "key": "dart_court@(11, 0, 18)/1",
+            "gallery_id": "dart_court_v2",
+            "name": "Dart Court V2",
+            "label": ""
+          },
+          {
+            "number": 4,
+            "key": "fuel_shrine@(3, 0, 8)/2",
+            "gallery_id": "fuel_shrine",
+            "name": "Fuel Shrine",
+            "label": ""
+          },
+          {
+            "number": 5,
+            "key": "grand_hypostyle_hall@(2, 0, 9)/0",
+            "gallery_id": "grand_hypostyle_hall",
+            "name": "Grand Hypostyle Hall",
+            "label": ""
+          },
+          {
+            "number": 6,
+            "key": "inner_route_landing@(6, 0, 19)/2",
+            "gallery_id": "inner_route_landing",
+            "name": "Inner Route Landing",
+            "label": "Fitted authored passage"
+          },
+          {
+            "number": 7,
+            "key": "inner_route_landing@(9, 0, 13)/1",
+            "gallery_id": "inner_route_landing",
+            "name": "Inner Route Landing",
+            "label": "Fitted authored passage"
+          },
+          {
+            "number": 8,
+            "key": "long_gallery@(12, 0, 12)/0",
+            "gallery_id": "long_gallery",
+            "name": "Long Gallery",
+            "label": "Fitted authored passage"
+          },
+          {
+            "number": 9,
+            "key": "obelisk_junction@(11, 0, 10)/0",
+            "gallery_id": "obelisk_junction",
+            "name": "Obelisk Junction",
+            "label": ""
+          },
+          {
+            "number": 10,
+            "key": "obelisk_terrace@(8, 0, 15)/0",
+            "gallery_id": "obelisk_terrace",
+            "name": "Obelisk Terrace",
+            "label": ""
+          },
+          {
+            "number": 11,
+            "key": "offset_terrace_complex@(6, 0, 6)/0",
+            "gallery_id": "offset_terrace_complex_sprawling",
+            "name": "Offset Terrace Complex · Experimental",
+            "label": ""
+          },
+          {
+            "number": 12,
+            "key": "pillar@(4, 0, 12)/0",
+            "gallery_id": "pillar_hall",
+            "name": "Offering Court",
+            "label": ""
+          },
+          {
+            "number": 13,
+            "key": "sun_shadow@(14, 0, 16)/3",
+            "gallery_id": "sun_shadow",
+            "name": "Sun Shadow",
+            "label": "Minor relic shrine"
+          },
+          {
+            "number": 14,
+            "key": "sundered_processional_court@(4, 0, 14)/0",
+            "gallery_id": "sundered_processional_court_sprawling",
+            "name": "Sundered Processional Court · Experimental",
+            "label": ""
+          },
+          {
+            "number": 15,
+            "key": "sunken_shrine@(11, 0, 15)/0",
+            "gallery_id": "sunken_shrine",
+            "name": "Sunken Shrine",
+            "label": ""
+          },
+          {
+            "number": 16,
+            "key": "sunken_sun@(4, 0, 1)/2",
+            "gallery_id": "sunken_sun_sprawling",
+            "name": "Sunken Sun · Experimental",
+            "label": "Main relic chamber"
+          },
+          {
+            "number": 17,
+            "key": "twin_court_crypt@(6, 0, 9)/0",
+            "gallery_id": "twin_court_crypt",
+            "name": "Twin Court Crypt",
+            "label": ""
+          },
+          {
+            "number": 18,
+            "key": "vault@(14, 0, 18)/1",
+            "gallery_id": "vault_room",
+            "name": "Vault Room",
+            "label": ""
+          }
+        ],
+        "generator_revision": 6,
+        "plan_id": "linked_crypt_courts_v4",
+        "plan_version": 4,
+        "passage_fit_version": 2,
+        "saved_choices": {
+          "passage_fit_version": 2,
+          "plan_id": "linked_crypt_courts_v4",
+          "plan_version": 4,
+          "sunwheel_composition": "pharaoh"
+        },
+        "passage_fits": {
+          "eligible_quiet_cells": 7,
+          "eligible_quiet_replaced_share": 1.0,
+          "fits": [
+            {
+              "boundary_faces": [
+                [
+                  [
+                    9,
+                    0,
+                    13
+                  ],
+                  [
+                    9,
+                    0,
+                    12
+                  ]
+                ],
+                [
+                  [
+                    9,
+                    0,
+                    14
+                  ],
+                  [
+                    9,
+                    0,
+                    15
+                  ]
+                ]
+              ],
+              "id": "fitted_inner_route_landing_9_13",
+              "position": [
+                9,
+                0,
+                13
+              ],
+              "reserved_cells": [
+                [
+                  9,
+                  0,
+                  13
+                ],
+                [
+                  9,
+                  0,
+                  14
+                ]
+              ],
+              "route": [
+                "district_complex",
+                "hub"
+              ],
+              "scene": "inner_route_landing",
+              "source_cells": [
+                [
+                  9,
+                  0,
+                  13
+                ],
+                [
+                  9,
+                  0,
+                  14
+                ]
+              ],
+              "turns": 1
+            },
+            {
+              "boundary_faces": [
+                [
+                  [
+                    12,
+                    0,
+                    12
+                  ],
+                  [
+                    12,
+                    0,
+                    11
+                  ]
+                ],
+                [
+                  [
+                    12,
+                    0,
+                    14
+                  ],
+                  [
+                    12,
+                    0,
+                    15
+                  ]
+                ]
+              ],
+              "id": "fitted_long_gallery_12_12",
+              "position": [
+                12,
+                0,
+                12
+              ],
+              "reserved_cells": [
+                [
+                  12,
+                  0,
+                  12
+                ],
+                [
+                  12,
+                  0,
+                  13
+                ],
+                [
+                  12,
+                  0,
+                  14
+                ]
+              ],
+              "route": [
+                "cross_route",
+                "mask_junction"
+              ],
+              "scene": "long_gallery",
+              "source_cells": [
+                [
+                  12,
+                  0,
+                  12
+                ],
+                [
+                  12,
+                  0,
+                  13
+                ],
+                [
+                  12,
+                  0,
+                  14
+                ]
+              ],
+              "turns": 0
+            },
+            {
+              "boundary_faces": [
+                [
+                  [
+                    7,
+                    0,
+                    19
+                  ],
+                  [
+                    8,
+                    0,
+                    19
+                  ]
+                ],
+                [
+                  [
+                    6,
+                    0,
+                    19
+                  ],
+                  [
+                    6,
+                    0,
+                    18
+                  ]
+                ]
+              ],
+              "id": "fitted_inner_route_landing_6_19",
+              "position": [
+                6,
+                0,
+                19
+              ],
+              "reserved_cells": [
+                [
+                  6,
+                  0,
+                  19
+                ],
+                [
+                  7,
+                  0,
+                  19
+                ]
+              ],
+              "route": [
+                "entrance",
+                "return_complex"
+              ],
+              "scene": "inner_route_landing",
+              "source_cells": [
+                [
+                  7,
+                  0,
+                  19
+                ],
+                [
+                  6,
+                  0,
+                  19
+                ]
+              ],
+              "turns": 2
+            }
+          ],
+          "policy": "quiet circulation; pressure/pit modules inspected but excluded",
+          "provisional_tiles": 11,
+          "rejections": {
+            "hazard_budget": 5,
+            "wrong_port": 28
+          },
+          "remaining_runs": [
+            2,
+            2
+          ],
+          "replaced_share": 0.636363636363636,
+          "replaced_tiles": 7,
+          "residual_tiles": 4,
+          "version": 2
+        },
+        "quality": {
+          "authored_rooms": 18,
+          "corridor_tiles": 4,
+          "cycle_states": [
+            {
+              "authored_share": 0.666666666666667,
+              "inventory": 0,
+              "rooms": [
+                "burial_court",
+                "cross_route",
+                "district_complex",
+                "entrance",
+                "exploration_branch",
+                "fitted_inner_route_landing_6_19",
+                "fitted_inner_route_landing_9_13",
+                "fitted_long_gallery_12_12",
+                "hub",
+                "mask_junction",
+                "return_complex",
+                "scarab_junction"
+              ]
+            },
+            {
+              "authored_share": 0.666666666666667,
+              "inventory": 1,
+              "rooms": [
+                "burial_court",
+                "cross_route",
+                "district_complex",
+                "entrance",
+                "exploration_branch",
+                "fitted_inner_route_landing_6_19",
+                "fitted_inner_route_landing_9_13",
+                "fitted_long_gallery_12_12",
+                "hub",
+                "mask_junction",
+                "return_complex",
+                "scarab_junction"
+              ]
+            },
+            {
+              "authored_share": 0.666666666666667,
+              "inventory": 2,
+              "rooms": [
+                "burial_court",
+                "cross_route",
+                "district_complex",
+                "entrance",
+                "exploration_branch",
+                "fitted_inner_route_landing_6_19",
+                "fitted_inner_route_landing_9_13",
+                "fitted_long_gallery_12_12",
+                "hub",
+                "mask_junction",
+                "return_complex",
+                "scarab_junction"
+              ]
+            },
+            {
+              "authored_share": 0.666666666666667,
+              "inventory": 3,
+              "rooms": [
+                "burial_court",
+                "cross_route",
+                "district_complex",
+                "entrance",
+                "exploration_branch",
+                "fitted_inner_route_landing_6_19",
+                "fitted_inner_route_landing_9_13",
+                "fitted_long_gallery_12_12",
+                "hub",
+                "mask_junction",
+                "return_complex",
+                "scarab_junction"
+              ]
+            }
+          ],
+          "distinct_archetypes": [
+            "twin_court_crypt",
+            "grand_hypostyle_hall",
+            "pillar",
+            "sundered_processional_court",
+            "obelisk_terrace",
+            "spawn",
+            "obelisk_junction",
+            "sunken_shrine",
+            "anubis_trial",
+            "sun_shadow",
+            "offset_terrace_complex",
+            "sunken_sun",
+            "fuel_shrine",
+            "dart_court",
+            "vault",
+            "inner_route_landing",
+            "long_gallery"
+          ],
+          "max_corridor_chain": 2,
+          "repeated_families": [
+            "inner_route_landing"
+          ],
+          "room_families": {
+            "anubis_trial": 1,
+            "dart_court_v2": 1,
+            "fuel_shrine": 1,
+            "grand_hypostyle_hall": 1,
+            "inner_route_landing": 2,
+            "long_gallery": 1,
+            "obelisk_junction": 1,
+            "obelisk_terrace": 1,
+            "offset_terrace_complex_sprawling": 1,
+            "pillar_hall": 1,
+            "spawn_room": 1,
+            "sun_shadow": 1,
+            "sundered_processional_court_sprawling": 1,
+            "sunken_shrine": 1,
+            "sunken_sun_sprawling": 1,
+            "twin_court_crypt": 1,
+            "vault_room": 1
+          }
+        },
+        "captures": [
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                -12.0,
+                1.5799994468689,
+                -17.0
+              ],
+              "x": [
+                -0.87415736913681,
+                0.0,
+                0.485642790794373
+              ],
+              "y": [
+                -0.0150870746001601,
+                0.999517321586609,
+                -0.0271567460149527
+              ],
+              "z": [
+                -0.485408395528793,
+                -0.0310661979019642,
+                -0.873735427856445
+              ]
+            },
+            "entry": {
+              "door": "DOOR_B",
+              "entered": true,
+              "manual_ignition": false,
+              "method": "Supported outside staging then ordinary player input through a connected doorway",
+              "revealed_after": true,
+              "revealed_before": false,
+              "route_wave_present": true,
+              "wave_complete": true
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              -12.0,
+              1.5799994468689,
+              -17.0
+            ],
+            "feet": [
+              -12.0,
+              0.0299995224922895,
+              -17.0
+            ],
+            "file": "b43_landmark_full.webp",
+            "fov": 78.0,
+            "fuel": 100.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "45209c6d139e5b0fbe5db0e1e9c80079a92df6d38b1ca2693d77036c26580eda",
+            "inventory": 0,
+            "keys_staged": true,
+            "label": "landmark",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                -12.0,
+                0.0299995224922895,
+                -17.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "district_complex",
+            "room": "res://scenes/dungeon/procedural/rooms/twin_court_crypt.tscn",
+            "room_pose": {
+              "origin": [
+                -4.0,
+                2.0,
+                -4.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "linked_crypt_courts_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 43,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              -7.0,
+              1.89999997615814,
+              -8.0
+            ],
+            "variant": "B",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/b43_landmark_full.webp",
+            "image_hash": "45209c6d139e5b0fbe5db0e1e9c80079a92df6d38b1ca2693d77036c26580eda",
+            "caption": "landmark · 100 fuel · inventory 0"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                -12.0,
+                1.5799994468689,
+                -17.0
+              ],
+              "x": [
+                -0.87415736913681,
+                0.0,
+                0.485642790794373
+              ],
+              "y": [
+                -0.0150870746001601,
+                0.999517321586609,
+                -0.0271567460149527
+              ],
+              "z": [
+                -0.485408395528793,
+                -0.0310661979019642,
+                -0.873735427856445
+              ]
+            },
+            "entry": {
+              "door": "DOOR_B",
+              "entered": true,
+              "manual_ignition": false,
+              "method": "Supported outside staging then ordinary player input through a connected doorway",
+              "revealed_after": true,
+              "revealed_before": false,
+              "route_wave_present": true,
+              "wave_complete": true
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              -12.0,
+              1.5799994468689,
+              -17.0
+            ],
+            "feet": [
+              -12.0,
+              0.0299995224922895,
+              -17.0
+            ],
+            "file": "b43_landmark_low.webp",
+            "fov": 78.0,
+            "fuel": 8.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "5ba4ee0aa063e1331c84bf3de7167efb413051c464b3945cb09f9d02cb34e2a8",
+            "inventory": 0,
+            "keys_staged": true,
+            "label": "landmark",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                -12.0,
+                0.0299995224922895,
+                -17.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "district_complex",
+            "room": "res://scenes/dungeon/procedural/rooms/twin_court_crypt.tscn",
+            "room_pose": {
+              "origin": [
+                -4.0,
+                2.0,
+                -4.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "linked_crypt_courts_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 43,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              -7.0,
+              1.89999997615814,
+              -8.0
+            ],
+            "variant": "B",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/b43_landmark_low.webp",
+            "image_hash": "5ba4ee0aa063e1331c84bf3de7167efb413051c464b3945cb09f9d02cb34e2a8",
+            "caption": "landmark · 8 fuel · inventory 0"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                28.0,
+                1.57999992370605,
+                7.0
+              ],
+              "x": [
+                -1.0,
+                0.0,
+                -1.50995802528087e-07
+              ],
+              "y": [
+                9.83354464523245e-09,
+                0.99787712097168,
+                -0.065124623477459
+              ],
+              "z": [
+                1.50675262489131e-07,
+                -0.065124623477459,
+                -0.99787712097168
+              ]
+            },
+            "entry": {
+              "door": "DOOR_F",
+              "entered": true,
+              "manual_ignition": false,
+              "method": "Supported outside staging then ordinary player input through a connected doorway",
+              "revealed_after": false,
+              "revealed_before": false,
+              "route_wave_present": false,
+              "wave_complete": true
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              28.0,
+              1.57999992370605,
+              7.0
+            ],
+            "feet": [
+              28.0,
+              0.0299999993294477,
+              7.0
+            ],
+            "file": "b43_passage_full.webp",
+            "fov": 78.0,
+            "fuel": 100.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "076d4a2b7953d2dde00297c15573ab287c8c81faf4c7c11f876ecaccbce7da08",
+            "inventory": 0,
+            "keys_staged": true,
+            "label": "passage",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                28.0,
+                0.0299999993294477,
+                7.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "fitted_long_gallery_12_12",
+            "room": "res://scenes/dungeon/procedural/rooms/long_gallery.tscn",
+            "room_pose": {
+              "origin": [
+                28.0,
+                2.0,
+                16.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "linked_crypt_courts_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 43,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              28.0,
+              2.20000004768372,
+              16.5
+            ],
+            "variant": "B",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/b43_passage_full.webp",
+            "image_hash": "076d4a2b7953d2dde00297c15573ab287c8c81faf4c7c11f876ecaccbce7da08",
+            "caption": "passage · 100 fuel · inventory 0"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                28.0,
+                1.57999992370605,
+                7.0
+              ],
+              "x": [
+                -1.0,
+                0.0,
+                -1.50995802528087e-07
+              ],
+              "y": [
+                9.83354464523245e-09,
+                0.99787712097168,
+                -0.065124623477459
+              ],
+              "z": [
+                1.50675262489131e-07,
+                -0.065124623477459,
+                -0.99787712097168
+              ]
+            },
+            "entry": {
+              "door": "DOOR_F",
+              "entered": true,
+              "manual_ignition": false,
+              "method": "Supported outside staging then ordinary player input through a connected doorway",
+              "revealed_after": false,
+              "revealed_before": false,
+              "route_wave_present": false,
+              "wave_complete": true
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              28.0,
+              1.57999992370605,
+              7.0
+            ],
+            "feet": [
+              28.0,
+              0.0299999993294477,
+              7.0
+            ],
+            "file": "b43_passage_low.webp",
+            "fov": 78.0,
+            "fuel": 8.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "a787820d8aedd0ce0b59baa90ff8b6eee95ffa45904f00427da9a3bf48828ddf",
+            "inventory": 0,
+            "keys_staged": true,
+            "label": "passage",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                28.0,
+                0.0299999993294477,
+                7.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "fitted_long_gallery_12_12",
+            "room": "res://scenes/dungeon/procedural/rooms/long_gallery.tscn",
+            "room_pose": {
+              "origin": [
+                28.0,
+                2.0,
+                16.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "linked_crypt_courts_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 43,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              28.0,
+              2.20000004768372,
+              16.5
+            ],
+            "variant": "B",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/b43_passage_low.webp",
+            "image_hash": "a787820d8aedd0ce0b59baa90ff8b6eee95ffa45904f00427da9a3bf48828ddf",
+            "caption": "passage · 8 fuel · inventory 0"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                -12.0,
+                1.5799994468689,
+                -18.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                0.999200999736786,
+                -0.039967767894268
+              ],
+              "z": [
+                0.0,
+                0.039967767894268,
+                0.999200999736786
+              ]
+            },
+            "entry": {
+              "method": "Supported staging on the unowned side of the actual locked two-key gate"
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              -12.0,
+              1.5799994468689,
+              -18.0
+            ],
+            "feet": [
+              -12.0,
+              0.0299995224922895,
+              -18.0
+            ],
+            "file": "b43_seal_full.webp",
+            "fov": 78.0,
+            "fuel": 100.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "3b8d3f1703c624017c09423f51dcb37d6150f71e6458129f62731986db240aa8",
+            "inventory": 0,
+            "keys_staged": true,
+            "label": "seal",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                -12.0,
+                0.0299995224922895,
+                -18.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "district_complex",
+            "room": "res://scenes/dungeon/procedural/rooms/twin_court_crypt.tscn",
+            "room_pose": {
+              "origin": [
+                -4.0,
+                2.0,
+                -4.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "linked_crypt_courts_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 43,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              -12.0,
+              1.5,
+              -20.0
+            ],
+            "variant": "B",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/b43_seal_full.webp",
+            "image_hash": "3b8d3f1703c624017c09423f51dcb37d6150f71e6458129f62731986db240aa8",
+            "caption": "seal · 100 fuel · inventory 0"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                -12.0,
+                1.5799994468689,
+                -18.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                0.999200999736786,
+                -0.039967767894268
+              ],
+              "z": [
+                0.0,
+                0.039967767894268,
+                0.999200999736786
+              ]
+            },
+            "entry": {
+              "method": "Supported staging on the unowned side of the actual locked two-key gate"
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              -12.0,
+              1.5799994468689,
+              -18.0
+            ],
+            "feet": [
+              -12.0,
+              0.0299995224922895,
+              -18.0
+            ],
+            "file": "b43_seal_low.webp",
+            "fov": 78.0,
+            "fuel": 8.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "b0ec7233f0c7c54caeb08412498cba2d83994e3d1c2b5222e0c53dfe7fe2b9cf",
+            "inventory": 0,
+            "keys_staged": true,
+            "label": "seal",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                -12.0,
+                0.0299995224922895,
+                -18.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "district_complex",
+            "room": "res://scenes/dungeon/procedural/rooms/twin_court_crypt.tscn",
+            "room_pose": {
+              "origin": [
+                -4.0,
+                2.0,
+                -4.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "linked_crypt_courts_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 43,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              -12.0,
+              1.5,
+              -20.0
+            ],
+            "variant": "B",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/b43_seal_low.webp",
+            "image_hash": "b0ec7233f0c7c54caeb08412498cba2d83994e3d1c2b5222e0c53dfe7fe2b9cf",
+            "caption": "seal · 8 fuel · inventory 0"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                -16.0,
+                0.579999685287476,
+                -73.0
+              ],
+              "x": [
+                -1.0,
+                0.0,
+                -1.50995802528087e-07
+              ],
+              "y": [
+                -3.79956404117365e-08,
+                0.967822551727295,
+                0.251633763313293
+              ],
+              "z": [
+                1.46137139722669e-07,
+                0.251633763313293,
+                -0.967822551727295
+              ]
+            },
+            "entry": {
+              "door": "DOOR_F",
+              "entered": true,
+              "manual_ignition": false,
+              "method": "Supported outside staging then ordinary player input through a connected doorway",
+              "revealed_after": true,
+              "revealed_before": false,
+              "route_wave_present": true,
+              "wave_complete": true
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              -16.0,
+              0.579999685287476,
+              -73.0
+            ],
+            "feet": [
+              -16.0,
+              -0.970000267028809,
+              -73.0
+            ],
+            "file": "b43_final_full.webp",
+            "fov": 78.0,
+            "fuel": 100.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "07b946fefd045423651ae75cafde7c896e70cfaf7ec63b389bd3315a1bfba9b4",
+            "inventory": 3,
+            "keys_staged": true,
+            "label": "final",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                -16.0,
+                -0.970000267028809,
+                -73.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "main_relic",
+            "room": "res://scenes/dungeon/procedural/rooms/experimental/sunken_sun_sprawling.tscn",
+            "room_pose": {
+              "origin": [
+                -16.0,
+                2.0,
+                -64.0
+              ],
+              "x": [
+                -1.0,
+                0.0,
+                8.74227765734759e-08
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                -8.74227765734759e-08,
+                0.0,
+                -1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "linked_crypt_courts_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 43,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              -16.0,
+              -0.199999988079071,
+              -70.0
+            ],
+            "variant": "B",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/b43_final_full.webp",
+            "image_hash": "07b946fefd045423651ae75cafde7c896e70cfaf7ec63b389bd3315a1bfba9b4",
+            "caption": "final · 100 fuel · inventory 3"
+          },
+          {
+            "actors_hazards_frozen": true,
+            "ambient_energy": 0.0179999992251396,
+            "camera_method": "Scripted staging at an actual supported navigation cell; not a walked tour",
+            "camera_pose": {
+              "origin": [
+                -16.0,
+                0.579999685287476,
+                -73.0
+              ],
+              "x": [
+                -1.0,
+                0.0,
+                -1.50995802528087e-07
+              ],
+              "y": [
+                -3.79956404117365e-08,
+                0.967822551727295,
+                0.251633763313293
+              ],
+              "z": [
+                1.46137139722669e-07,
+                0.251633763313293,
+                -0.967822551727295
+              ]
+            },
+            "entry": {
+              "door": "DOOR_F",
+              "entered": true,
+              "manual_ignition": false,
+              "method": "Supported outside staging then ordinary player input through a connected doorway",
+              "revealed_after": true,
+              "revealed_before": false,
+              "route_wave_present": true,
+              "wave_complete": true
+            },
+            "environment": {
+              "ambient_color": "(0.24, 0.36, 0.56, 1.0)",
+              "ambient_source": 3,
+              "exposure": 1.0
+            },
+            "eye": [
+              -16.0,
+              0.579999685287476,
+              -73.0
+            ],
+            "feet": [
+              -16.0,
+              -0.970000267028809,
+              -73.0
+            ],
+            "file": "b43_final_low.webp",
+            "fov": 78.0,
+            "fuel": 8.0,
+            "fuel_clock_paused": true,
+            "hud_retained": true,
+            "image_sha256": "0dd982fc8f78362e51d2dc3600f745d20fe968f25f1790074675ae1a5d9254b1",
+            "inventory": 3,
+            "keys_staged": true,
+            "label": "final",
+            "mode": "sprawling_two_key",
+            "player_pose": {
+              "origin": [
+                -16.0,
+                -0.970000267028809,
+                -73.0
+              ],
+              "x": [
+                1.0,
+                0.0,
+                0.0
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            "role": "main_relic",
+            "room": "res://scenes/dungeon/procedural/rooms/experimental/sunken_sun_sprawling.tscn",
+            "room_pose": {
+              "origin": [
+                -16.0,
+                2.0,
+                -64.0
+              ],
+              "x": [
+                -1.0,
+                0.0,
+                8.74227765734759e-08
+              ],
+              "y": [
+                0.0,
+                1.0,
+                0.0
+              ],
+              "z": [
+                -8.74227765734759e-08,
+                0.0,
+                -1.0
+              ]
+            },
+            "saved_choices": {
+              "passage_fit_version": 2,
+              "plan_id": "linked_crypt_courts_v4",
+              "plan_version": 4,
+              "sunwheel_composition": "pharaoh"
+            },
+            "seed": 43,
+            "standing_capsule_clear": true,
+            "supported_floor": true,
+            "target": [
+              -16.0,
+              -0.199999988079071,
+              -70.0
+            ],
+            "variant": "B",
+            "capture_batch": "ab",
+            "capture_helper_sha256": "73727b920275972bc5c728342190b4dafe18c6c046216ffa8522b89bd1de1746",
+            "raw_receipt": "receipt_sources/run_ab_and_failed_normal.json",
+            "runtime_config": {
+              "project_path": "project.godot",
+              "checkout_sha256": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_sha256_at_receipt_aggregation": "e2c78cfa2df058a0353cd5f2dfc0567d89468c116c8c436fae61e99b65b166f8",
+              "runtime_project_byte_identical_at_receipt_aggregation": true,
+              "rendering_section_sha256": "509a2af38f2588e1de8ecc205b0bbbe611bd7384268a53caae94e072f4ce95e2",
+              "rendering_section_matches_checkout": true,
+              "rendering": "Native Metal Forward+; saved production environment; 1280x720; real 100/8 held torch; no ambient/exposure/extra lighting or roof change. Rendering section was checked before capture; full project hashes were checked during aggregation."
+            },
+            "batch_diagnostics": {
+              "photo_failures": 2,
+              "script_error_lines": 0,
+              "engine_error_lines": 0,
+              "warning_lines": 0,
+              "shutdown_limit": "No engine/script/shutdown errors in original batch."
+            },
+            "image": "images/layout-review/b43_final_low.webp",
+            "image_hash": "0dd982fc8f78362e51d2dc3600f745d20fe968f25f1790074675ae1a5d9254b1",
+            "caption": "final · 8 fuel · inventory 3"
+          }
+        ]
+      }
+    ],
+    "capture_source_fingerprint": "97705842b13bc622e389b5d37085fec138f2a47710718badfd83b077ebb1b3f7",
+    "capture_basis": "18 selected staged native photographs: experimental v4 A/42 and B/43 (generator revision 6) and production normal/42 lower entry (generator revision 4). Actual production scene, supported floor/capsule and exactly matching 100/8 camera poses; saved environment and real held torch. Keys, camera locations, fuel, actors and hazards staged/frozen only for photography. Recorded connected-door entry uses ordinary player input and natural RouteLighting, with no manual ignition or added lighting. Distant darkness is retained. These are not human pacing, pressure/fuel balance, browser, promotion or approval evidence. Mixed helper batches: the 16 A/B images use the preserved original helper; the 2 normal images use a retry helper adding normal-only selection and choosing its supported lower entry marker instead of the failed raised landmark. A/B camera behavior and production sources are unchanged. Exact helper snapshots, diff, raw receipts and logs are retained. Two original normal support failures are excluded from the selected set but preserved in prior_attempt_failures and its raw receipt. Normal retry wrote both images successfully, then reported ObjectDB/resource shutdown leaks; it is not described as an entirely clean run. Runtime rendering matches checkout; full config hash equality was verified at aggregation."
+  }
 }

@@ -1,5 +1,6 @@
 "use strict";
 const cards = Array.from(document.querySelectorAll(".layout-card"));
+const reviewCards = Array.from(document.querySelectorAll(".review-card"));
 const filters = Array.from(document.querySelectorAll("[data-filter]"));
 for (const button of filters) {
   button.addEventListener("click", () => {
@@ -21,7 +22,8 @@ function show(link) {
   if (!viewer.open) viewer.showModal();
 }
 function step(offset) {
-  const links = cards.filter(card => !card.hidden).map(card => card.querySelector(".layout-shot"));
+  const group = reviewCards.some(card => card.contains(selected)) ? reviewCards : cards;
+  const links = group.filter(card => !card.hidden).map(card => card.querySelector(".layout-shot"));
   if (links.length) show(links[(links.indexOf(selected) + offset + links.length) % links.length]);
 }
 for (const link of document.querySelectorAll(".layout-shot")) {
