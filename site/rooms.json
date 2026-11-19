@@ -5774,11 +5774,11 @@
       },
       "doors": 1,
       "id": "vault_room",
-      "source_hash": "1c7094d1bb647b2eeec6fa311ab8089e5dd281bd1bdfe9a580e70f3692d9d343",
+      "source_hash": "4396102732c220f12e66464dad2f3bbe159ea78c6f6c3d477faac9a95f2cfbfd",
       "image_hashes": {
-        "top.webp": "16f6d5ab955e7ce96bd0199ecec2f03aec6720f912e26381ca199190c4e5c5b7",
-        "interior-1.webp": "53a6585f9a44517c889467cbdcf1c78baa43ec5288ee5265fab903cedc450e70",
-        "interior-2.webp": "955f9ceefabc35dc87d6d9e43d1d77899f46444c89b549139f4b8ee4bef25da9"
+        "top.webp": "395cef900f7579e4720145f3feebc3fd05b9dab70fa34ecb35eb1520b639c49f",
+        "interior-1.webp": "a05cb5264eb4cefc09c0434697bfb3846b99ae1b821882d97bca943bb9cc0554",
+        "interior-2.webp": "246304a8e69ee33baae3775a5cd65d659dfc3f6914968a7f1267f41f672f5f15"
       },
       "name": "Vault Room",
       "kind": "Room",
