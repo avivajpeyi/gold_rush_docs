@@ -524,10 +524,10 @@
       },
       "doors": 2,
       "id": "burial_hall_complex_sprawling",
-      "source_hash": "0c732f4205dfc9dea2d0f1f43e593a35b3acbea1ee061ff2dc8900efa199485f",
+      "source_hash": "d276635abad8b423f8eafb1c4e61a0f51a115039cf87a09d92a003691db72fa4",
       "image_hashes": {
         "top.webp": "714ee51bca178a74e78b04b840476433386285ff0790f93b98f7bbf5f37d838b",
-        "interior-1.webp": "f8fd458f149dc76aaf7254f93c873993679635117522b109e4c9a524caa4ed9f",
+        "interior-1.webp": "9a6fb4e5ee0dc7b5cb36cf968d25df1ca7d2bad3d5db5210bb1a4fc6115ac908",
         "interior-2.webp": "084eacb6f2f09fdaeeba1f3df36e1dbb8d487c5bd28004c98cac1779afaee2c0"
       },
       "name": "Burial Hall Complex · Experimental",
@@ -2324,9 +2324,9 @@
       },
       "doors": 4,
       "id": "jackals_jaw_sprawling",
-      "source_hash": "6d0e414472d5ba263bfdc5d3bc8300bff8ce80cacbc42f9282bd37ffdd6015b5",
+      "source_hash": "517375615384f8ca3ae6851d96140082fbeccc6abfae94c99db2a42d05a4ed47",
       "image_hashes": {
-        "top.webp": "28b9a7ddf860006c03cfa28718c233b0d70429b196ea635f553161fbf9ebe443",
+        "top.webp": "af2a4819b42613ff67ef76de6c71aea27f959323c94d6902825d4d4469672f46",
         "interior-1.webp": "619f26d851984cd67d545fa384f06946069f1f6677218c5d4693e409a64e8b12",
         "interior-2.webp": "7f6b320617ab98c80049e015297927c2737d467f6fbb4fdd342ede8ced09ae12"
       },
@@ -3224,11 +3224,11 @@
       },
       "doors": 2,
       "id": "offset_terrace_complex_sprawling",
-      "source_hash": "ae935004617ff24da656f1ce6ad2b271fcc7f909150c09f094fc3fa82789a24d",
+      "source_hash": "9fa52372733454d4b75811cedfe0f4e9777d25d25af8a1286093b37f52af6b05",
       "image_hashes": {
-        "top.webp": "064283284d2e5ee20ec88c9850fad0bfd521032db2e2b501514bdac2d1d5fd03",
+        "top.webp": "5c20b356888a974360dae06ce7d137fa046bb4154c5030203d80220c4f731bc4",
         "interior-1.webp": "77dd15923bb2b4e526422c000b2928e57a646f55fe222c74b2973f42a8de7225",
-        "interior-2.webp": "32fabbdfab1bd5c617ab0b5f704cbd73eac78b1a71d4e95755bec929246b2827"
+        "interior-2.webp": "b1b13e124143244ead480cd24637bf727200c662f2ba55092e47c453b4fc05a4"
       },
       "name": "Offset Terrace Complex · Experimental",
       "kind": "Room",
@@ -4949,11 +4949,11 @@
       },
       "doors": 4,
       "id": "sunken_sun_sprawling",
-      "source_hash": "2bd19fc35e02d44e82abc880b6b0c0d81b970a5b1a4ac8845c0811569a2844ac",
+      "source_hash": "ab66a1322b4d371ba92d4cfd03e497ac557b62864df5ff4e492bcddfb042192f",
       "image_hashes": {
-        "top.webp": "732f27229d9d19f411b6139bc1489ca83a1c7bd6bfaf9b9cbfc36fff9843c7cc",
-        "interior-1.webp": "40fb23045e205d69f1b555f58d931be8d76657e1543dacb6eac9df3b7c02637b",
-        "interior-2.webp": "bc5b2adb7b9e6423d0e5411d2bd86f26f1db081b063ca00aed30bae8a3b55260"
+        "top.webp": "21131949ec10abbc958a3767efe336094cf2e3d2645cd8ca7f86714ac36cab3f",
+        "interior-1.webp": "f16677e242a3c76aaeb63f689e128369a6111c6e43737b764fcf23bb16ebbd1a",
+        "interior-2.webp": "a3af269057b8fa2014fdf40bd1282dd428b183515fb3c244cc3cf02123493ebc"
       },
       "name": "Sunken Sun · Experimental",
       "kind": "Room",
@@ -5099,10 +5099,10 @@
       },
       "doors": 4,
       "id": "sunwheel_arena_sprawling",
-      "source_hash": "3f8ba7b6baf16e096e1411cafe7aeb7582b8fd62f244c62331abad70e6edaa7c",
+      "source_hash": "032e5ed419381c0a2a0fecfe271450c48fdc8e9abedd8df874cb3094f8de38a6",
       "image_hashes": {
-        "top.webp": "aded8fe4e785c399633e2e4c148b30b9aa5269783434f00d2934c04616932543",
-        "interior-1.webp": "9979277e3a7c8ac0e1ca66c8054ff3cf0d6dc959a4cc14f9defe9747637696b1",
+        "top.webp": "7a1c4f8977b056be4e4e35053ba372257bed4d18efd9ab8138accd8f5ae69802",
+        "interior-1.webp": "ea6ca3ea18d6bbf3a64298cd088b1a4cd2162ca0ffad02930d0e36c86b3f2dcf",
         "interior-2.webp": "deee941702c19d67f70e8df5aef9699d78b4ebdbf1ecfc07973938627a093d53"
       },
       "name": "Sunwheel Arena · Experimental",
@@ -5174,10 +5174,10 @@
       },
       "doors": 4,
       "id": "sunwheel_guardians_sprawling",
-      "source_hash": "738fb2b42bb7d2eca2ece0f4cee44b039dc45b5f8f7b5ffa212a3722e8ba424a",
+      "source_hash": "8bceac316bdd2377a5209f845c3075dc6e5809189890c2d5e68b3de865e84a72",
       "image_hashes": {
-        "top.webp": "6e4d6019a8fd0271ef87ab38cde4ec8c534e3949cad4d2453363be79300d3e47",
-        "interior-1.webp": "5e1763695116a51321bb87e2123bfb6a4131de9ecfec180261c9f30162f4faca",
+        "top.webp": "21a607efad3b51d3b30046dc2cdfd30da7708bf54349f52b7ea35bb72fe4649a",
+        "interior-1.webp": "76e28c2c63efdd323c1914a016b7ffa4b05e9a228056d7c998c27af1abca3789",
         "interior-2.webp": "986c43e24eab437eb4aa9f63116bd9f7ac5d58dc359085faccc3faa356bef1ab"
       },
       "name": "Sunwheel Guardians · Experimental",
