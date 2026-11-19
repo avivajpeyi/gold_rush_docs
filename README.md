@@ -18,9 +18,10 @@ room key to open the matching room images. Plans project static collision with
 heights flattened; each carries a metric scale and its requested/accepted seed.
 
 These are geometry review images under fixed inspection lighting. Interior views
-keep the roofs; top-down views hide roofs and overhead beams. Gameplay is frozen,
-door seals are open, and procedural dressing is absent. Footprints describe the
-saved architecture’s outer bounds in metres. Normal torch visibility and play
+keep the roofs; top-down views hide roofs and overhead beams. Gameplay lifecycle
+callbacks are disabled and door seals are open. Fixed-seed inert edge dressing
+preserves authored gameplay clearances. Footprints describe the saved
+architecture’s outer bounds in metres. Normal torch visibility and play
 feel need an in-game review. The relic sanctum is an insert, not a separate room.
 
 ## Keep it current
