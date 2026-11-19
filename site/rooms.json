@@ -2094,16 +2094,16 @@
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 3,
+        "hidden_overhead_nodes": 6,
         "removed_roof_triangles": 0
       },
       "doors": 0,
       "id": "intro_room_spikes",
-      "source_hash": "7633e8d6d8eb5f84bee901f9f6c63a316f55fc24896aea4613096874a899bd5c",
+      "source_hash": "47a0020d755ebd2d0b9e92580c06c5e63d5ee7eafa96051427124a21fdc785bd",
       "image_hashes": {
-        "top.webp": "b4afd7f57ab8080749325384208c152d3752aaa98f25b63a1e106d23a917d055",
-        "interior-1.webp": "eefbb1b041a3a7cb3d007ad4281d4d47960c136e2dabbbffcf00c9f1daf7aacc",
-        "interior-2.webp": "96249489dcec39f40b20d9692c85819a4352da119f6a022590ea32496351d453"
+        "top.webp": "34a8a2672db61723289e3487a9ad7a08d3f1311f6ad6b7b508bf73c381c0f477",
+        "interior-1.webp": "ced4ed66b1f98a0b488f043c34195a14025223303f61b507b876731fbfe0afc6",
+        "interior-2.webp": "67373cb302494fe3b2e5b6fc582c56a789f74918b0ccea2ed37f28769fa200da"
       },
       "name": "Intro Room Spikes",
       "kind": "Entrance",
@@ -4269,16 +4269,16 @@
         }
       ],
       "cutaway": {
-        "hidden_overhead_nodes": 10,
+        "hidden_overhead_nodes": 13,
         "removed_roof_triangles": 0
       },
       "doors": 3,
       "id": "spawn_room",
-      "source_hash": "85b65484e386f93ef5b83c7028bac71d60e439494fcfbbc1e659564554301459",
+      "source_hash": "622ec2c8dab66bdf4a292c7cfca27e0f9d53b5ca61220b6aa2744507f0e4afa9",
       "image_hashes": {
-        "top.webp": "cbd8adde1ab031515aa2438550b1fbc8fb126c3f4d8b7fe46e0f89405e8717d4",
-        "interior-1.webp": "08045edf58165967a89697fc8df0e402048e6344b9a81ce6c9970d8c4993fe0a",
-        "interior-2.webp": "c8f04934c764c219b4fb627dcbca9e39516f9df2a6e011280aa491c6f1bcded0"
+        "top.webp": "fbfc86894865b52ed9bcbd7d43843b8cde716afead66175ca0e98a0730cd77a3",
+        "interior-1.webp": "c29fddd431ec7ee69a1b18f901c981234b421879eda983b845cdd843d92a3c1e",
+        "interior-2.webp": "f988a7c65ef9bf026810ee82ebf7eb194258dc07e7aad75bbdc45b13b50a4a9e"
       },
       "name": "Spawn Room",
       "kind": "Entrance",
