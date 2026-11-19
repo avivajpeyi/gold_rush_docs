@@ -2999,11 +2999,11 @@
       },
       "doors": 4,
       "id": "obelisk_terrace",
-      "source_hash": "8db813c39b4ca01aa95a0923844a41849c31a466690e763787f6502ffd381af0",
+      "source_hash": "1f38c7bd6be37851df17ac439bd840d519f5e10eab3ba161ba76761f341ddf85",
       "image_hashes": {
-        "top.webp": "b10cbf5ed20ec9fcca5a5ace599bf2590b8844864710afa9aab36ac4fff3155c",
+        "top.webp": "b732a998d5ab702d52708e5b21b6b7cfe0d337ce97a113bb81159381ccf454fd",
         "interior-1.webp": "4cb0d70c9af8ba9473fa23459d23a99c1c6d51560f40ba9de2ba063c014e17fc",
-        "interior-2.webp": "087ff08a027cbe51aaf0a07e4691095b4069ae5f3f3dd4ea5041fb551dd58b75"
+        "interior-2.webp": "2706110ac8c79dff1775182281ea1ea2b8604c4b8c64c5c8cc26e1dabbab09ea"
       },
       "name": "Obelisk Terrace",
       "kind": "Room",
@@ -4274,11 +4274,11 @@
       },
       "doors": 3,
       "id": "spawn_room",
-      "source_hash": "622ec2c8dab66bdf4a292c7cfca27e0f9d53b5ca61220b6aa2744507f0e4afa9",
+      "source_hash": "b6c28cd4a980e2e1c1c1d9b9cf3f94b3611120ba09674fd8ec965d429b708177",
       "image_hashes": {
-        "top.webp": "fbfc86894865b52ed9bcbd7d43843b8cde716afead66175ca0e98a0730cd77a3",
-        "interior-1.webp": "c29fddd431ec7ee69a1b18f901c981234b421879eda983b845cdd843d92a3c1e",
-        "interior-2.webp": "f988a7c65ef9bf026810ee82ebf7eb194258dc07e7aad75bbdc45b13b50a4a9e"
+        "top.webp": "9cc387bc57936297e4a1404e9af954bd3595366dddc597ea507c1bce23f944ef",
+        "interior-1.webp": "bec0351bcaa562317c0c9cbc30468803db958231670e63b0a9a85f5627dbab0e",
+        "interior-2.webp": "723beb53f34cae90843f322ed33a46fa17215fd3c322ea775576c1853c09f6af"
       },
       "name": "Spawn Room",
       "kind": "Entrance",
